@@ -17,6 +17,12 @@
       "key": "haha",
       "createdAt": "2025-06-09T11:53:12.356Z",
       "expiredAt": "2025-06-10T11:53:12.356Z"
+    },
+    {
+      "nomor": "kuntul",
+      "key": "anj",
+      "createdAt": "2025-06-09T11:55:26.915Z",
+      "expiredAt": "2025-06-10T11:55:26.915Z"
     }
   ]
 }
