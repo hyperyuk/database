@@ -1,1 +1,8 @@
-[]
+[
+{
+    "name": "AntiLinkGroup",
+    "description": "Script bot untuk blokir link grup",
+    "download": "https://raw.githubusercontent.com/username/repo/main/antilink.js",
+    "review": "https://github.com/username/repo/blob/main/antilink.js"
+}
+]
