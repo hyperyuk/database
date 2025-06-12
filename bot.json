@@ -14,7 +14,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757054915,
+      "lastRegen": 1749757084958,
       "spamTimestamps": [
         1749746525534
       ],
@@ -34,7 +34,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757054915,
+      "lastRegen": 1749757084958,
       "spamTimestamps": [
         1749746300705
       ],
@@ -54,7 +54,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757054915
+      "lastRegen": 1749757084958
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -70,7 +70,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757054915
+      "lastRegen": 1749757084958
     },
     "6281382704597@s.whatsapp.net": {
       "saldo": 0,
@@ -81,7 +81,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757054915,
+      "lastRegen": 1749757084958,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
@@ -115,7 +115,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757054915,
+      "lastRegen": 1749757084958,
       "spamTimestamps": [
         1749744549269
       ],
@@ -135,7 +135,23 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757058918
+      "lastRegen": 1749757088959
+    },
+    "6281359480010@s.whatsapp.net": {
+      "premium": false,
+      "premiumExpired": 0,
+      "limit": 30,
+      "money": 0,
+      "xp": 9,
+      "level": 1,
+      "equipment": {},
+      "class": {
+        "bonusHp": 0,
+        "speedRegen": 6000
+      },
+      "maxHp": 100,
+      "hp": 100,
+      "lastRegen": 1749757087959
     }
   },
   "chats": {
@@ -170,7 +186,8 @@
         "62856432415929@s.whatsapp.net": 28,
         "6283852638995@s.whatsapp.net": 1,
         "6281376421452@s.whatsapp.net": 1,
-        "6289676226170@s.whatsapp.net": 11
+        "6289676226170@s.whatsapp.net": 11,
+        "6281359480010@s.whatsapp.net": 1
       },
       "startMessage": 1749727092290,
       "antipromosi": {
