@@ -1,5 +1,66 @@
 {
-  "users": {},
-  "chats": {},
-  "settings": {}
+  "users": {
+    "6285643241592@s.whatsapp.net": {
+      "premium": true,
+      "premiumExpired": 0,
+      "limit": null,
+      "money": 0,
+      "xp": 47,
+      "level": 1,
+      "equipment": {},
+      "class": {
+        "bonusHp": 0,
+        "speedRegen": 6000
+      },
+      "maxHp": 100,
+      "hp": 100,
+      "lastRegen": 1749726305659
+    },
+    "62856432415929@s.whatsapp.net": {
+      "premium": true,
+      "premiumExpired": 0,
+      "limit": null,
+      "money": 0,
+      "xp": 34,
+      "level": 1,
+      "equipment": {},
+      "class": {
+        "bonusHp": 0,
+        "speedRegen": 6000
+      },
+      "maxHp": 100,
+      "hp": 100,
+      "lastRegen": 1749726307904
+    }
+  },
+  "chats": {
+    "6285643241592@s.whatsapp.net": {
+      "antilinkgc": false,
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "welcomeText": "",
+      "leftText": "",
+      "list": [],
+      "messages": {
+        "6285643241592@s.whatsapp.net": 4,
+        "62856432415929@s.whatsapp.net": 3
+      },
+      "startMessage": 1749726290580
+    }
+  },
+  "settings": {
+    "62856432415929@s.whatsapp.net": {
+      "autoread": false,
+      "autoBackup": false,
+      "menuButton": true,
+      "public": true,
+      "prefix": ".",
+      "prefixes": [
+        "."
+      ],
+      "notiflimit": false,
+      "_lastResetLimit": "2025-06-12"
+    }
+  }
 }
