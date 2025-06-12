@@ -14,14 +14,14 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749744532479
+      "lastRegen": 1749744562550
     },
     "62856432415929@s.whatsapp.net": {
       "premium": true,
       "premiumExpired": 0,
       "limit": null,
       "money": 0,
-      "xp": 121,
+      "xp": 214,
       "level": 3,
       "equipment": {},
       "class": {
@@ -30,7 +30,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749744532479
+      "lastRegen": 1749744562550
     },
     "62856432415923@s.whatsapp.net": {
       "premium": false,
@@ -46,7 +46,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749744532479
+      "lastRegen": 1749744562550
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -62,7 +62,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749744532479
+      "lastRegen": 1749744562550
     },
     "6281382704597@s.whatsapp.net": {
       "saldo": 0,
@@ -73,7 +73,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749744535481,
+      "lastRegen": 1749744565553,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
@@ -92,6 +92,26 @@
           "createdAt": 1749743351301
         }
       ]
+    },
+    "6281376421452@s.whatsapp.net": {
+      "premium": false,
+      "premiumExpired": 0,
+      "limit": 29,
+      "money": 0,
+      "xp": 6,
+      "level": 1,
+      "equipment": {},
+      "class": {
+        "bonusHp": 0,
+        "speedRegen": 6000
+      },
+      "maxHp": 100,
+      "hp": 100,
+      "lastRegen": 1749744561850,
+      "spamTimestamps": [
+        1749744549269
+      ],
+      "mutedUntil": 0
     }
   },
   "chats": {
@@ -123,8 +143,9 @@
       },
       "messages": {
         "6285643241592@s.whatsapp.net": 3,
-        "62856432415929@s.whatsapp.net": 20,
-        "6283852638995@s.whatsapp.net": 1
+        "62856432415929@s.whatsapp.net": 28,
+        "6283852638995@s.whatsapp.net": 1,
+        "6281376421452@s.whatsapp.net": 1
       },
       "startMessage": 1749727092290,
       "antipromosi": {
