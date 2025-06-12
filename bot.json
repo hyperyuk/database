@@ -14,14 +14,14 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749743331307
+      "lastRegen": 1749743361350
     },
     "62856432415929@s.whatsapp.net": {
       "premium": true,
       "premiumExpired": 0,
       "limit": null,
       "money": 0,
-      "xp": 9,
+      "xp": 29,
       "level": 3,
       "equipment": {},
       "class": {
@@ -30,7 +30,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749743331307
+      "lastRegen": 1749743361350
     },
     "62856432415923@s.whatsapp.net": {
       "premium": false,
@@ -46,7 +46,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749743331307
+      "lastRegen": 1749743361350
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -62,10 +62,10 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749743331307
+      "lastRegen": 1749743361350
     },
     "6281382704597@s.whatsapp.net": {
-      "saldo": 2000,
+      "saldo": 0,
       "equipment": {},
       "class": {
         "bonusHp": 0,
@@ -73,13 +73,25 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749743334195,
+      "lastRegen": 1749743364201,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
       "money": 0,
-      "xp": 15,
-      "level": 1
+      "xp": 21,
+      "level": 1,
+      "panels": [
+        {
+          "id": 37,
+          "username": "7f343310",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-7504D08D30A4E049",
+          "expireGaransi": 1751471351301,
+          "createdAt": 1749743351301
+        }
+      ]
     }
   },
   "chats": {
@@ -93,7 +105,7 @@
       "list": [],
       "messages": {
         "6285643241592@s.whatsapp.net": 16,
-        "62856432415929@s.whatsapp.net": 9
+        "62856432415929@s.whatsapp.net": 10
       },
       "startMessage": 1749726290580
     },
@@ -143,7 +155,8 @@
       "leftText": "",
       "list": [],
       "messages": {
-        "6281382704597@s.whatsapp.net": 1
+        "6281382704597@s.whatsapp.net": 2,
+        "62856432415929@s.whatsapp.net": 2
       },
       "startMessage": 1749743301173
     }
