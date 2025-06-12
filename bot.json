@@ -14,7 +14,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757115495,
+      "lastRegen": 1749757145553,
       "spamTimestamps": [
         1749746525534
       ],
@@ -25,7 +25,7 @@
       "premiumExpired": 0,
       "limit": null,
       "money": 0,
-      "xp": 47,
+      "xp": 60,
       "level": 4,
       "equipment": {},
       "class": {
@@ -34,7 +34,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757115495,
+      "lastRegen": 1749757145553,
       "spamTimestamps": [
         1749746300705
       ],
@@ -54,7 +54,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757115495
+      "lastRegen": 1749757145553
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -70,7 +70,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757115495
+      "lastRegen": 1749757145553
     },
     "6281382704597@s.whatsapp.net": {
       "saldo": 0,
@@ -81,7 +81,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757115495,
+      "lastRegen": 1749757145553,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
@@ -115,7 +115,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757115495,
+      "lastRegen": 1749757145553,
       "spamTimestamps": [
         1749744549269
       ],
@@ -135,14 +135,14 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757119498
+      "lastRegen": 1749757149553
     },
     "6281359480010@s.whatsapp.net": {
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
       "money": 0,
-      "xp": 9,
+      "xp": 20,
       "level": 1,
       "equipment": {},
       "class": {
@@ -151,9 +151,9 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749757119498,
+      "lastRegen": 1749757149553,
       "spamTimestamps": [
-        1749757096340
+        1749757136479
       ],
       "mutedUntil": 0
     }
@@ -187,11 +187,11 @@
       },
       "messages": {
         "6285643241592@s.whatsapp.net": 3,
-        "62856432415929@s.whatsapp.net": 30,
+        "62856432415929@s.whatsapp.net": 31,
         "6283852638995@s.whatsapp.net": 1,
         "6281376421452@s.whatsapp.net": 1,
         "6289676226170@s.whatsapp.net": 11,
-        "6281359480010@s.whatsapp.net": 1
+        "6281359480010@s.whatsapp.net": 2
       },
       "startMessage": 1749727092290,
       "antipromosi": {
