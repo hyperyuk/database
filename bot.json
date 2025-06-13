@@ -14,7 +14,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777906496,
+      "lastRegen": 1749777936515,
       "spamTimestamps": [
         1749746525534
       ],
@@ -34,7 +34,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777906496,
+      "lastRegen": 1749777936515,
       "spamTimestamps": [
         1749746300705
       ],
@@ -54,7 +54,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777906496
+      "lastRegen": 1749777936515
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -70,7 +70,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777906496,
+      "lastRegen": 1749777936515,
       "spamTimestamps": [
         1749757764768
       ],
@@ -85,7 +85,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777906496,
+      "lastRegen": 1749777936515,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
@@ -119,7 +119,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777906496,
+      "lastRegen": 1749777936515,
       "spamTimestamps": [
         1749744549269
       ],
@@ -139,7 +139,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777904495
+      "lastRegen": 1749777934515
     },
     "6281359480010@s.whatsapp.net": {
       "premium": false,
@@ -155,11 +155,27 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749777904495,
+      "lastRegen": 1749777934515,
       "spamTimestamps": [
         1749757136479
       ],
       "mutedUntil": 0
+    },
+    "6285741916755@s.whatsapp.net": {
+      "premium": false,
+      "premiumExpired": 0,
+      "limit": 30,
+      "money": 0,
+      "xp": 9,
+      "level": 1,
+      "equipment": {},
+      "class": {
+        "bonusHp": 0,
+        "speedRegen": 6000
+      },
+      "maxHp": 100,
+      "hp": 100,
+      "lastRegen": 1749777936515
     }
   },
   "chats": {
@@ -243,6 +259,19 @@
         "6283852638995@s.whatsapp.net": 2
       },
       "startMessage": 1749757246536
+    },
+    "status@broadcast": {
+      "antilinkgc": false,
+      "isBanned": false,
+      "welcome": false,
+      "left": false,
+      "welcomeText": "",
+      "leftText": "",
+      "list": [],
+      "messages": {
+        "6285741916755@s.whatsapp.net": 1
+      },
+      "startMessage": 1749777918498
     }
   },
   "settings": {
