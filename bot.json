@@ -5,7 +5,7 @@
       "premiumExpired": 0,
       "limit": null,
       "money": 0,
-      "xp": 339,
+      "xp": 344,
       "level": 4,
       "equipment": {},
       "class": {
@@ -16,7 +16,7 @@
       "hp": 100,
       "lastRegen": 1749829584866,
       "spamTimestamps": [
-        1749829449182
+        1749831188699
       ],
       "mutedUntil": 0
     },
@@ -269,7 +269,7 @@
       "leftText": "",
       "list": [],
       "messages": {
-        "6285643241592@s.whatsapp.net": 93,
+        "6285643241592@s.whatsapp.net": 94,
         "62856432415929@s.whatsapp.net": 46
       },
       "startMessage": 1749726290580
