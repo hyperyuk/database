@@ -14,7 +14,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587,
+      "lastRegen": 1749788977603,
       "spamTimestamps": [
         1749746525534
       ],
@@ -25,7 +25,7 @@
       "premiumExpired": 0,
       "limit": null,
       "money": 0,
-      "xp": 179,
+      "xp": 203,
       "level": 4,
       "equipment": {},
       "class": {
@@ -34,7 +34,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587,
+      "lastRegen": 1749788977603,
       "spamTimestamps": [
         1749746300705
       ],
@@ -54,7 +54,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587
+      "lastRegen": 1749788977603
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -70,7 +70,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587,
+      "lastRegen": 1749788977603,
       "spamTimestamps": [
         1749757764768
       ],
@@ -85,7 +85,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587,
+      "lastRegen": 1749788977603,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
@@ -119,7 +119,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587,
+      "lastRegen": 1749788977603,
       "spamTimestamps": [
         1749744549269
       ],
@@ -139,7 +139,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788945586
+      "lastRegen": 1749788975603
     },
     "6281359480010@s.whatsapp.net": {
       "premium": false,
@@ -155,7 +155,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788945586,
+      "lastRegen": 1749788975603,
       "spamTimestamps": [
         1749757136479
       ],
@@ -175,14 +175,14 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788947587
+      "lastRegen": 1749788977603
     },
     "6281275386270@s.whatsapp.net": {
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
       "money": 0,
-      "xp": 39,
+      "xp": 52,
       "level": 1,
       "equipment": {},
       "class": {
@@ -191,9 +191,9 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749788948588,
+      "lastRegen": 1749788978603,
       "spamTimestamps": [
-        1749788807305
+        1749788972813
       ],
       "mutedUntil": 0
     }
@@ -227,12 +227,12 @@
       },
       "messages": {
         "6285643241592@s.whatsapp.net": 3,
-        "62856432415929@s.whatsapp.net": 37,
+        "62856432415929@s.whatsapp.net": 38,
         "6283852638995@s.whatsapp.net": 3,
         "6281376421452@s.whatsapp.net": 1,
         "6289676226170@s.whatsapp.net": 11,
         "6281359480010@s.whatsapp.net": 2,
-        "6281275386270@s.whatsapp.net": 3
+        "6281275386270@s.whatsapp.net": 4
       },
       "startMessage": 1749727092290,
       "antipromosi": {
@@ -302,7 +302,7 @@
       "welcomeText": "",
       "leftText": "",
       "messages": {
-        "62856432415929@s.whatsapp.net": 2
+        "62856432415929@s.whatsapp.net": 4
       },
       "startMessage": 1749788802471
     }
