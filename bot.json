@@ -14,7 +14,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749833685425
       ],
@@ -25,7 +25,7 @@
       "premiumExpired": 0,
       "limit": null,
       "money": 0,
-      "xp": 181,
+      "xp": 201,
       "level": 6,
       "equipment": {},
       "class": {
@@ -34,7 +34,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749746300705
       ],
@@ -54,7 +54,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294
+      "lastRegen": 1749855434282
     },
     "6283852638995@s.whatsapp.net": {
       "premium": false,
@@ -70,7 +70,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749835086280
       ],
@@ -85,7 +85,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "premium": false,
       "premiumExpired": 0,
       "limit": 30,
@@ -119,7 +119,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749744549269
       ],
@@ -139,7 +139,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294
+      "lastRegen": 1749855434282
     },
     "6281359480010@s.whatsapp.net": {
       "premium": false,
@@ -155,7 +155,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749757136479
       ],
@@ -175,7 +175,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294
+      "lastRegen": 1749855434282
     },
     "6281275386270@s.whatsapp.net": {
       "premium": false,
@@ -191,7 +191,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749824094115
       ],
@@ -214,7 +214,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294
+      "lastRegen": 1749855434282
     },
     "6283871524225@s.whatsapp.net": {
       "premium": false,
@@ -230,7 +230,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749814559434,
         1749814562726
@@ -251,7 +251,7 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294,
+      "lastRegen": 1749855434282,
       "spamTimestamps": [
         1749837396421
       ],
@@ -275,7 +275,27 @@
       },
       "maxHp": 100,
       "hp": 100,
-      "lastRegen": 1749855409294
+      "lastRegen": 1749855434282
+    },
+    "6285718581788@s.whatsapp.net": {
+      "premium": false,
+      "premiumExpired": 0,
+      "limit": 30,
+      "money": 0,
+      "xp": 9,
+      "level": 1,
+      "equipment": {},
+      "class": {
+        "bonusHp": 0,
+        "speedRegen": 6000
+      },
+      "maxHp": 100,
+      "hp": 100,
+      "lastRegen": 1749855434282,
+      "spamTimestamps": [
+        1749855429236
+      ],
+      "mutedUntil": 0
     }
   },
   "chats": {
@@ -309,7 +329,7 @@
       },
       "messages": {
         "6285643241592@s.whatsapp.net": 5,
-        "62856432415929@s.whatsapp.net": 56,
+        "62856432415929@s.whatsapp.net": 58,
         "6283852638995@s.whatsapp.net": 6,
         "6281376421452@s.whatsapp.net": 2,
         "6289676226170@s.whatsapp.net": 11,
@@ -317,7 +337,8 @@
         "6281275386270@s.whatsapp.net": 12,
         "6283136394255@s.whatsapp.net": 3,
         "6283871524225@s.whatsapp.net": 10,
-        "6285179620071@s.whatsapp.net": 4
+        "6285179620071@s.whatsapp.net": 4,
+        "6285718581788@s.whatsapp.net": 1
       },
       "startMessage": 1749727092290,
       "antipromosi": {
