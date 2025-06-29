@@ -2336,6 +2336,14 @@
       "maxHp": 100,
       "hp": 100,
       "lastRegen": 1751196159314
+    },
+    "6288212594097@s.whatsapp.net": {
+      "premium": false,
+      "premiumExpired": 0,
+      "limit": 30,
+      "money": 0,
+      "xp": 1,
+      "level": 1
     }
   },
   "chats": {
