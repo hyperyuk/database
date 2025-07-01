@@ -1,58 +1,12 @@
 {
   "users": {
     "7617987031": {
-      "saldo": 100,
+      "saldo": 2100,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": true,
-      "saweria": {
-        "msg": {
-          "message_id": 50,
-          "from": {
-            "id": 7593568365,
-            "is_bot": true,
-            "first_name": "RISS X BOTS TELE",
-            "username": "rissmdbot"
-          },
-          "chat": {
-            "id": 7617987031,
-            "first_name": "Riss",
-            "last_name": "gtg",
-            "username": "rissgtg",
-            "type": "private"
-          },
-          "date": 1751392150,
-          "photo": [
-            {
-              "file_id": "AgACAgQAAxkDAAMyaGQflnxLKSSL1Kczs14LMkm4Y9sAAsm5MRuE7SVTc_enUowOxeQBAAMCAANzAAM2BA",
-              "file_unique_id": "AQADybkxG4TtJVN4",
-              "file_size": 2293,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgQAAxkDAAMyaGQflnxLKSSL1Kczs14LMkm4Y9sAAsm5MRuE7SVTc_enUowOxeQBAAMCAANtAAM2BA",
-              "file_unique_id": "AQADybkxG4TtJVNy",
-              "file_size": 14951,
-              "width": 268,
-              "height": 268
-            }
-          ],
-          "caption": "*乂 INFORMASI DEPOSIT SALDO*\n\n• ID Transaksi : DA6396F42E\n• Total : Rp1000\n• Expired : 5 menit\n\n📌 QRIS ini hanya berlaku 5 menit\n✅ Saldo otomatis masuk setelah pembayaran berhasil\n\nKetik */batalbeli* untuk membatalkan.",
-          "caption_entities": [
-            {
-              "offset": 188,
-              "length": 10,
-              "type": "bot_command"
-            }
-          ]
-        },
-        "chat": "7617987031",
-        "transactionId": "DA6396F42E",
-        "amount": "1000"
-      }
+      "status_deposit": false
     }
   },
   "chats": {
