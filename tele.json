@@ -8,61 +8,12 @@
       "date_registered": "2025-07-01T16:59:27.517Z",
       "status_deposit": true,
       "saweria": {
-        "msg": {
-          "message_id": 135,
-          "from": {
-            "id": 7593568365,
-            "is_bot": true,
-            "first_name": "RISS X BOTS TELE",
-            "username": "rissmdbot"
-          },
-          "chat": {
-            "id": 7617987031,
-            "first_name": "Riss",
-            "last_name": "gtg",
-            "username": "rissgtg",
-            "type": "private"
-          },
-          "date": 1751431632,
-          "photo": [
-            {
-              "file_id": "AgACAgUAAxkDAAOHaGS50F1kMGZk1iVjyyR40s594wQAArnPMRtU2ClXa7xkXcspMpUBAAMCAANzAAM2BA",
-              "file_unique_id": "AQADuc8xG1TYKVd4",
-              "file_size": 2738,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgUAAxkDAAOHaGS50F1kMGZk1iVjyyR40s594wQAArnPMRtU2ClXa7xkXcspMpUBAAMCAANtAAM2BA",
-              "file_unique_id": "AQADuc8xG1TYKVdy",
-              "file_size": 12619,
-              "width": 268,
-              "height": 268
-            }
-          ],
-          "caption": "乂 INFORMASI DEPOSIT SALDO\n\n• ID Transaksi : E0A6D9C0E1\n• Total Dibayar : Rp118\n• Expired : 5 menit\n\n📌 QRIS ini hanya berlaku 5 menit\n✅ Saldo otomatis masuk setelah pembayaran berhasil\n\nKetik /batalbeli untuk membatalkan.",
-          "caption_entities": [
-            {
-              "offset": 0,
-              "length": 25,
-              "type": "bold"
-            },
-            {
-              "offset": 192,
-              "length": 10,
-              "type": "bot_command"
-            },
-            {
-              "offset": 192,
-              "length": 10,
-              "type": "bold"
-            }
-          ]
-        },
         "chat": "7617987031",
-        "transactionId": "E0A6D9C0E1",
-        "amount": "118",
-        "nominal": "5"
+        "msg_id": 141,
+        "transactionId": "A67B1E431D",
+        "amount": "1158",
+        "nominal": "1000",
+        "createdAt": 1751432837372
       }
     }
   },
