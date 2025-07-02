@@ -38,7 +38,19 @@
       "username": null,
       "name": "HARIS",
       "date_registered": "2025-07-02T08:53:48.946Z",
-      "saldo": 10000
+      "saldo": 8000,
+      "panels": [
+        {
+          "id": 9,
+          "username": "hahaxd",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-A3C19366639AB840",
+          "expireGaransi": 1753174503293,
+          "createdAt": 1751446503293
+        }
+      ]
     }
   },
   "chats": {
