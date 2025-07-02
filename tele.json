@@ -48,7 +48,7 @@
       "username": null,
       "name": "HARIS",
       "date_registered": "2025-07-02T08:53:48.946Z",
-      "saldo": 8000,
+      "saldo": 6000,
       "panels": [
         {
           "id": 9,
@@ -59,6 +59,16 @@
           "tokenGaransi": "RISSG-A3C19366639AB840",
           "expireGaransi": 1753174503293,
           "createdAt": 1751446503293
+        },
+        {
+          "id": 11,
+          "username": "tesje",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-6F7DA19C3B9E",
+          "expireGaransi": 1753204218494,
+          "createdAt": 1751476218494
         }
       ]
     },
