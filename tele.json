@@ -6,7 +6,64 @@
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": false
+      "status_deposit": true,
+      "saweria": {
+        "msg": {
+          "message_id": 115,
+          "from": {
+            "id": 7593568365,
+            "is_bot": true,
+            "first_name": "RISS X BOTS TELE",
+            "username": "rissmdbot"
+          },
+          "chat": {
+            "id": 7617987031,
+            "first_name": "Riss",
+            "last_name": "gtg",
+            "username": "rissgtg",
+            "type": "private"
+          },
+          "date": 1751426197,
+          "photo": [
+            {
+              "file_id": "AgACAgUAAxkDAANzaGSklXafIk_6evM-nxmPiTtcCVcAAoDPMRtU2ClX7PpKUbWQifgBAAMCAANzAAM2BA",
+              "file_unique_id": "AQADgM8xG1TYKVd4",
+              "file_size": 2102,
+              "width": 90,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgUAAxkDAANzaGSklXafIk_6evM-nxmPiTtcCVcAAoDPMRtU2ClX7PpKUbWQifgBAAMCAANtAAM2BA",
+              "file_unique_id": "AQADgM8xG1TYKVdy",
+              "file_size": 13329,
+              "width": 268,
+              "height": 268
+            }
+          ],
+          "caption": "乂 INFORMASI DEPOSIT SALDO\n\n• ID Transaksi : B1E7369F6C\n• Total Dibayar : Rp147\n• Expired : 5 menit\n\n📌 QRIS ini hanya berlaku 5 menit\n✅ Saldo otomatis masuk setelah pembayaran berhasil\n\nKetik /batalbeli untuk membatalkan.",
+          "caption_entities": [
+            {
+              "offset": 0,
+              "length": 25,
+              "type": "bold"
+            },
+            {
+              "offset": 192,
+              "length": 10,
+              "type": "bot_command"
+            },
+            {
+              "offset": 192,
+              "length": 10,
+              "type": "bold"
+            }
+          ]
+        },
+        "chat": "7617987031",
+        "transactionId": "B1E7369F6C",
+        "amount": "147",
+        "nominal": "2"
+      }
     }
   },
   "chats": {
