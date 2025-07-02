@@ -1,12 +1,24 @@
 {
   "users": {
     "7617987031": {
-      "saldo": 2110,
+      "saldo": 110,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": false
+      "status_deposit": false,
+      "panels": [
+        {
+          "id": 7,
+          "username": "bapak",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-9BBEE12603177BA9",
+          "expireGaransi": 1753162207784,
+          "createdAt": 1751434207784
+        }
+      ]
     }
   },
   "chats": {
