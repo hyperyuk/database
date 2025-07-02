@@ -1,7 +1,7 @@
 {
   "users": {
     "7617987031": {
-      "saldo": 98110,
+      "saldo": 87110,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
@@ -27,6 +27,16 @@
           "tokenGaransi": "RISSG-4925319D0FB47DF2",
           "expireGaransi": 1753174349660,
           "createdAt": 1751446349660
+        },
+        {
+          "id": 10,
+          "username": "unli",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-AE8F4B8C786A",
+          "expireGaransi": 1753203950440,
+          "createdAt": 1751475950440
         }
       ]
     },
