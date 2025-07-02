@@ -6,15 +6,7 @@
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": true,
-      "saweria": {
-        "chat": "7617987031",
-        "msg_id": 141,
-        "transactionId": "A67B1E431D",
-        "amount": "1158",
-        "nominal": "1000",
-        "createdAt": 1751432837372
-      }
+      "status_deposit": false
     }
   },
   "chats": {
