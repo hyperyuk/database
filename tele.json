@@ -9,7 +9,7 @@
       "status_deposit": true,
       "saweria": {
         "msg": {
-          "message_id": 69,
+          "message_id": 92,
           "from": {
             "id": 7593568365,
             "is_bot": true,
@@ -23,36 +23,46 @@
             "username": "rissgtg",
             "type": "private"
           },
-          "date": 1751392819,
+          "date": 1751422626,
           "photo": [
             {
-              "file_id": "AgACAgQAAxkDAANFaGQiMzZPLeFUAlIIPVxpOr77F1YAAn25MRvPSSVTQ-aTTsVAx_0BAAMCAANzAAM2BA",
-              "file_unique_id": "AQADfbkxG89JJVN4",
-              "file_size": 1660,
+              "file_id": "AgACAgUAAxkDAANcaGSWopLLjc9JYSjUP0QWEFLhAmwAAmPPMRtU2ClXafVPBUbZy8ABAAMCAANzAAM2BA",
+              "file_unique_id": "AQADY88xG1TYKVd4",
+              "file_size": 2052,
               "width": 90,
               "height": 90
             },
             {
-              "file_id": "AgACAgQAAxkDAANFaGQiMzZPLeFUAlIIPVxpOr77F1YAAn25MRvPSSVTQ-aTTsVAx_0BAAMCAANtAAM2BA",
-              "file_unique_id": "AQADfbkxG89JJVNy",
-              "file_size": 11535,
+              "file_id": "AgACAgUAAxkDAANcaGSWopLLjc9JYSjUP0QWEFLhAmwAAmPPMRtU2ClXafVPBUbZy8ABAAMCAANtAAM2BA",
+              "file_unique_id": "AQADY88xG1TYKVdy",
+              "file_size": 13906,
               "width": 268,
               "height": 268
             }
           ],
-          "caption": "*乂 INFORMASI DEPOSIT SALDO*\n\n• ID Transaksi : 30EC36EE9F\n• Total Dibayar : Rp5191\n• Expired : 5 menit\n\n📌 QRIS ini hanya berlaku 5 menit\n✅ Saldo otomatis masuk setelah pembayaran berhasil\n\nKetik */batalbeli* untuk membatalkan.",
+          "caption": "乂 INFORMASI DEPOSIT SALDO\n\n• ID Transaksi : FEA6C6655E\n• Total Dibayar : Rp1128\n• Expired : 5 menit\n\n📌 QRIS ini hanya berlaku 5 menit\n✅ Saldo otomatis masuk setelah pembayaran berhasil\n\nKetik /batalbeli untuk membatalkan.",
           "caption_entities": [
             {
-              "offset": 196,
+              "offset": 0,
+              "length": 25,
+              "type": "bold"
+            },
+            {
+              "offset": 193,
               "length": 10,
               "type": "bot_command"
+            },
+            {
+              "offset": 193,
+              "length": 10,
+              "type": "bold"
             }
           ]
         },
         "chat": "7617987031",
-        "transactionId": "30EC36EE9F",
-        "amount": "5191",
-        "nominal": "5000"
+        "transactionId": "FEA6C6655E",
+        "amount": "1128",
+        "nominal": "1000"
       }
     }
   },
