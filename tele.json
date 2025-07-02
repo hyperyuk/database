@@ -1,69 +1,12 @@
 {
   "users": {
     "7617987031": {
-      "saldo": 2100,
+      "saldo": 2110,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": true,
-      "saweria": {
-        "msg": {
-          "message_id": 112,
-          "from": {
-            "id": 7593568365,
-            "is_bot": true,
-            "first_name": "RISS X BOTS TELE",
-            "username": "rissmdbot"
-          },
-          "chat": {
-            "id": 7617987031,
-            "first_name": "Riss",
-            "last_name": "gtg",
-            "username": "rissgtg",
-            "type": "private"
-          },
-          "date": 1751425668,
-          "photo": [
-            {
-              "file_id": "AgACAgUAAxkDAANwaGSihNsmWOfhUUCaBMriW0y3l90AAn3PMRtU2ClXa7kEsO4zxCoBAAMCAANzAAM2BA",
-              "file_unique_id": "AQADfc8xG1TYKVd4",
-              "file_size": 2519,
-              "width": 90,
-              "height": 90
-            },
-            {
-              "file_id": "AgACAgUAAxkDAANwaGSihNsmWOfhUUCaBMriW0y3l90AAn3PMRtU2ClXa7kEsO4zxCoBAAMCAANtAAM2BA",
-              "file_unique_id": "AQADfc8xG1TYKVdy",
-              "file_size": 12814,
-              "width": 268,
-              "height": 268
-            }
-          ],
-          "caption": "乂 INFORMASI DEPOSIT SALDO\n\n• ID Transaksi : 61B6A33D5B\n• Total Dibayar : Rp154\n• Expired : 5 menit\n\n📌 QRIS ini hanya berlaku 5 menit\n✅ Saldo otomatis masuk setelah pembayaran berhasil\n\nKetik /batalbeli untuk membatalkan.",
-          "caption_entities": [
-            {
-              "offset": 0,
-              "length": 25,
-              "type": "bold"
-            },
-            {
-              "offset": 192,
-              "length": 10,
-              "type": "bot_command"
-            },
-            {
-              "offset": 192,
-              "length": 10,
-              "type": "bold"
-            }
-          ]
-        },
-        "chat": "7617987031",
-        "transactionId": "61B6A33D5B",
-        "amount": "154",
-        "nominal": "10"
-      }
+      "status_deposit": false
     }
   },
   "chats": {
