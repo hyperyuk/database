@@ -2,18 +2,12 @@
   "users": {
     "6212082135": {},
     "7617987031": {
-      "saldo": "99977641146",
+      "saldo": 99977640306,
       "status_deposit": false,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
-      "date_registered": "2025-07-03T10:04:39.385Z",
-      "temp_topup": {
-        "game": "ff",
-        "step": "choose_nominal",
-        "idGame": "6630915779",
-        "username": "ᏒᴇᴅメRyuu"
-      }
+      "date_registered": "2025-07-03T10:04:39.385Z"
     }
   },
   "chats": {
