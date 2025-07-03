@@ -2,11 +2,16 @@
   "users": {
     "6212082135": {},
     "7617987031": {
-      "saldo": 10000000,
-      "temp_topup": {
+      "saldo": 9998910,
+      "status_deposit": true,
+      "pending_topup": {
+        "id": "TG1751534809784",
         "nomor": "085643241592",
-        "step": "choose_nominal",
-        "metode": "DANA"
+        "kode": "D1",
+        "harga": 1090,
+        "keterangan": "Dana 1.000",
+        "status": "pending",
+        "createdAt": 1751534809784
       }
     }
   },
