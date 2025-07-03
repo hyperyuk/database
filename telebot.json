@@ -1,6 +1,16 @@
 {
   "users": {
-    "7617987031": {}
+    "7617987031": {
+      "status_deposit": true,
+      "saweria": {
+        "chat": "7617987031",
+        "msg_id": 502,
+        "transactionId": "31B687084D",
+        "amount": "101106",
+        "nominal": "100000",
+        "createdAt": 1751549322198
+      }
+    }
   },
   "chats": {
     "7617987031": {}
