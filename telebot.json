@@ -10,8 +10,11 @@
       "date_registered": "2025-07-03T10:04:39.385Z",
       "temp_topup": {
         "nomor": "08564341592",
-        "step": "choose_nominal",
-        "metode": "DANA"
+        "step": "confirm",
+        "metode": "DANA",
+        "kode": "D1",
+        "harga": 1090,
+        "keterangan": "Dana 1.000"
       }
     }
   },
