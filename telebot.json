@@ -18,8 +18,12 @@
       "name": "Riss",
       "date_registered": "2025-07-03T10:04:39.385Z",
       "temp_topup": {
-        "game": "ff",
-        "step": "wait_id"
+        "metode": "ff",
+        "nomor": "10228928282",
+        "kode": "FF5",
+        "harga": "840",
+        "keterangan": "5 Diamond Free Fire",
+        "step": "confirm"
       }
     }
   },
