@@ -7,7 +7,13 @@
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
-      "date_registered": "2025-07-03T10:04:39.385Z"
+      "date_registered": "2025-07-03T10:04:39.385Z",
+      "temp_topup": {
+        "game": "ff",
+        "step": "choose_nominal",
+        "idGame": "6630915779",
+        "username": "ᏒᴇᴅメRyuu"
+      }
     }
   },
   "chats": {
