@@ -2,20 +2,12 @@
   "users": {
     "6212082135": {},
     "7617987031": {
-      "saldo": 9998910,
+      "saldo": "99977641146",
       "status_deposit": false,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
-      "date_registered": "2025-07-03T10:04:39.385Z",
-      "temp_topup": {
-        "metode": "ml",
-        "nomor": "160674806 | 2812",
-        "kode": "DML3",
-        "harga": "1146",
-        "keterangan": "3 Diamond Mobile Legend",
-        "step": "confirm"
-      }
+      "date_registered": "2025-07-03T10:04:39.385Z"
     }
   },
   "chats": {
