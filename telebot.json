@@ -3,7 +3,14 @@
     "6212082135": {},
     "7617987031": {
       "saldo": 9998910,
-      "status_deposit": false
+      "status_deposit": false,
+      "registered": true,
+      "username": "rissgtg",
+      "name": "Riss",
+      "date_registered": "2025-07-03T10:04:39.385Z",
+      "temp_topup": {
+        "step": "choose_game"
+      }
     }
   },
   "chats": {
