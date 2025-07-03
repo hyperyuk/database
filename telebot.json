@@ -9,7 +9,10 @@
       "name": "Riss",
       "date_registered": "2025-07-03T10:04:39.385Z",
       "temp_topup": {
-        "step": "choose_game"
+        "game": "ml",
+        "step": "choose_nominal",
+        "idGame": "160674806|2812",
+        "username": "R I S S X D"
       }
     }
   },
