@@ -1,6 +1,11 @@
 {
   "users": {
-    "6212082135": {},
+    "6212082135": {
+      "temp_topup": {
+        "game": "ml",
+        "step": "wait_id"
+      }
+    },
     "7617987031": {
       "saldo": 99977640306,
       "status_deposit": false,
