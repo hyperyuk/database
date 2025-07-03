@@ -1,5 +1,11 @@
 {
   "users": {
+    "1707382528": {
+      "registered": true,
+      "username": "refkipredikta",
+      "name": "Refki📦 Bums 🐾",
+      "date_registered": "2025-07-03T03:10:35.094Z"
+    },
     "7617987031": {
       "saldo": 87110,
       "registered": true,
@@ -81,6 +87,7 @@
     }
   },
   "chats": {
+    "1707382528": {},
     "7617987031": {},
     "6212082135": {},
     "6868094113": {}
