@@ -7,7 +7,14 @@
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
-      "date_registered": "2025-07-03T10:04:39.385Z"
+      "date_registered": "2025-07-03T10:04:39.385Z",
+      "temp_topup": {
+        "nomor": "085643241592",
+        "step": "confirm",
+        "metode": "DANA",
+        "kode": "D1",
+        "confirm_id": "D1"
+      }
     }
   },
   "chats": {
