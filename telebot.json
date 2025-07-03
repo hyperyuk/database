@@ -18,7 +18,8 @@
       "name": "Riss",
       "date_registered": "2025-07-03T10:04:39.385Z",
       "temp_topup": {
-        "step": "choose_game"
+        "game": "ff",
+        "step": "wait_id"
       }
     }
   },
