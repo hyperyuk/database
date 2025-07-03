@@ -8,12 +8,12 @@
       "status_deposit": false
     },
     "7617987031": {
-      "saldo": 87110,
+      "saldo": 86020,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": false,
+      "status_deposit": true,
       "panels": [
         {
           "id": 7,
@@ -46,10 +46,14 @@
           "createdAt": 1751475950440
         }
       ],
-      "temp_topup": {
+      "pending_topup": {
+        "id": "TG1751533505391",
         "nomor": "085643241592",
-        "step": "choose_nominal",
-        "metode": "DANA"
+        "kode": "D1",
+        "harga": 1090,
+        "keterangan": "Dana 1.000",
+        "status": "pending",
+        "createdAt": 1751533505391
       }
     },
     "7593568365": {
