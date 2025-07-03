@@ -2,7 +2,13 @@
   "users": {
     "6212082135": {
       "saldo": null,
-      "status_deposit": false
+      "status_deposit": false,
+      "temp_topup": {
+        "game": "ml",
+        "step": "choose_nominal",
+        "idGame": "160674806  2812",
+        "username": "R I S S X D"
+      }
     },
     "7617987031": {
       "saldo": 99977640306,
