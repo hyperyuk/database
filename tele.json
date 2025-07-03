@@ -13,7 +13,7 @@
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-01T16:59:27.517Z",
-      "status_deposit": true,
+      "status_deposit": false,
       "panels": [
         {
           "id": 7,
@@ -45,15 +45,7 @@
           "expireGaransi": 1753203950440,
           "createdAt": 1751475950440
         }
-      ],
-      "saweria": {
-        "chat": "7617987031",
-        "msg_id": 323,
-        "transactionId": "D1F6713086",
-        "amount": "5187",
-        "nominal": "5000",
-        "createdAt": 1751531782594
-      }
+      ]
     },
     "7593568365": {
       "saldo": 1000
