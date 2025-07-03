@@ -2,7 +2,14 @@
   "users": {
     "1707382528": {},
     "7617987031": {
-      "status_deposit": false
+      "status_deposit": false,
+      "registered": true,
+      "username": "rissgtg",
+      "name": "Riss",
+      "date_registered": "2025-07-03T16:53:25.539Z",
+      "temp_topup": {
+        "step": "choose_game"
+      }
     },
     "6212082135": {}
   },
