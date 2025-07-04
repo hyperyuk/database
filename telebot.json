@@ -2,7 +2,7 @@
   "users": {
     "1707382528": {},
     "7617987031": {
-      "status_deposit": false,
+      "status_deposit": true,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
@@ -19,7 +19,15 @@
           "expireGaransi": 1753332642689,
           "createdAt": 1751604642689
         }
-      ]
+      ],
+      "saweria": {
+        "chat": "7617987031",
+        "msg_id": 576,
+        "transactionId": "0A4AAA74C2",
+        "amount": "1130",
+        "nominal": "1000",
+        "createdAt": 1751606732806
+      }
     },
     "6212082135": {}
   },
