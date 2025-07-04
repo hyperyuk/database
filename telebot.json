@@ -19,7 +19,10 @@
           "expireGaransi": 1753332642689,
           "createdAt": 1751604642689
         }
-      ]
+      ],
+      "temp_topup": {
+        "step": "choose_game"
+      }
     },
     "6212082135": {}
   },
