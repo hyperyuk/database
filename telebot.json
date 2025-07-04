@@ -7,7 +7,19 @@
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-03T16:53:25.539Z",
-      "saldo": "NaN1146"
+      "saldo": null,
+      "panels": [
+        {
+          "id": 12,
+          "username": "jujur",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-DBC6F10D9890",
+          "expireGaransi": 1753332642689,
+          "createdAt": 1751604642689
+        }
+      ]
     },
     "6212082135": {}
   },
