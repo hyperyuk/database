@@ -2,27 +2,6 @@
   "users": {
     "1707382528": {},
     "7617987031": {
-      "topup": {
-        "status": true,
-        "code": "FF10",
-        "product": {
-          "code": "FF10",
-          "name": "Free Fire 10 Diamond",
-          "category": "Games",
-          "type": "Umum",
-          "provider": "FREE FIRE",
-          "brand_status": "1",
-          "price": "1737",
-          "note": "Free Fire 10 Diamond",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1712125176_da20717be3730fdc32cb.png"
-        },
-        "price": 1737,
-        "waktu": 1751669322413,
-        "target": "6630915779",
-        "reff_id": "TOPUP-1751669326759",
-        "transaction_id": "LdvM0N3vRuUglURqarlH"
-      },
       "saldo": null
     },
     "6212082135": {}
