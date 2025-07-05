@@ -2,7 +2,14 @@
   "users": {
     "1707382528": {},
     "7617987031": {
-      "saldo": null
+      "saldo": null,
+      "registered": true,
+      "username": "rissgtg",
+      "name": "Riss",
+      "date_registered": "2025-07-05T06:11:56.743Z",
+      "temp_topup": {
+        "step": "choose_game"
+      }
     },
     "6212082135": {}
   },
