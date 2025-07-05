@@ -1,28 +1,7 @@
 {
   "users": {
     "7617987031": {
-      "saldo": 14684,
-      "topup": {
-        "status": true,
-        "code": "DANA2",
-        "product": {
-          "code": "DANA2",
-          "name": "DANA 2.000",
-          "category": "E-Money",
-          "type": "Umum",
-          "provider": "DANA",
-          "brand_status": "1",
-          "price": "2158",
-          "note": "-",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
-        },
-        "price": 2158,
-        "waktu": 1751703513001,
-        "target": "085643241592",
-        "reff_id": "TOPUP-1751703524838",
-        "transaction_id": "ebxZR2cVQZCK10de6DXq"
-      }
+      "saldo": 14684
     },
     "7629178652": {
       "saldo": 3000
