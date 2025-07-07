@@ -40,8 +40,20 @@
       "username": "alcvvoucher",
       "name": "AL | OPEN CV GOCO, VOUCHER GAME",
       "date_registered": "2025-07-07T10:26:43.975Z",
-      "saldo": 6000,
-      "total_deposit": 6000
+      "saldo": 0,
+      "total_deposit": 6000,
+      "panels": [
+        {
+          "id": 13,
+          "username": "shezzkz",
+          "ram": 5000,
+          "disk": 5500,
+          "cpu": 120,
+          "tokenGaransi": "RISSG-82CE129683EA",
+          "expireGaransi": 1753612104421,
+          "createdAt": 1751884104421
+        }
+      ]
     }
   },
   "chats": {
