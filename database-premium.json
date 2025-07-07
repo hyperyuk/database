@@ -29,6 +29,12 @@
       "key": "PREMRISSCRIPT",
       "createdAt": "2025-07-07T15:24:12.320Z",
       "expiredAt": "2025-07-08T15:24:12.320Z"
+    },
+    {
+      "nomor": "081264626001",
+      "key": "firman",
+      "createdAt": "2025-07-07T16:19:06.358Z",
+      "expiredAt": "2025-07-14T16:19:06.358Z"
     }
   ]
 }
