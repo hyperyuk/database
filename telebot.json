@@ -22,12 +22,19 @@
       "username": "Kizhoo0",
       "name": "Kizhoo",
       "date_registered": "2025-07-06T16:15:17.463Z"
+    },
+    "6212082135": {
+      "registered": true,
+      "username": null,
+      "name": "HARIS",
+      "date_registered": "2025-07-07T06:59:47.602Z"
     }
   },
   "chats": {
     "7617987031": {},
     "7654518224": {},
-    "7465739067": {}
+    "7465739067": {},
+    "6212082135": {}
   },
   "settings": {
     "7629178652": {}
