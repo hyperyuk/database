@@ -34,6 +34,12 @@
       "username": null,
       "name": "HARIS",
       "date_registered": "2025-07-07T06:59:47.602Z"
+    },
+    "7803943275": {
+      "registered": true,
+      "username": "alcvvoucher",
+      "name": "AL | OPEN CV GOCO, VOUCHER GAME",
+      "date_registered": "2025-07-07T10:26:43.975Z"
     }
   },
   "chats": {
@@ -41,7 +47,8 @@
     "7617987031": {},
     "7654518224": {},
     "7465739067": {},
-    "6212082135": {}
+    "6212082135": {},
+    "7803943275": {}
   },
   "settings": {
     "7629178652": {},
