@@ -97,7 +97,9 @@
   },
   "settings": {
     "7629178652": {},
-    "7593568365": {}
+    "7593568365": {
+      "autojpmch": true
+    }
   },
   "database": {
     "idSaluran": [
