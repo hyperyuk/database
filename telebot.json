@@ -2,7 +2,11 @@
   "users": {
     "7617987031": {
       "saldo": 0,
-      "resellerExpired": 1757497538578
+      "resellerExpired": 1757497538578,
+      "registered": true,
+      "username": "rissgtg",
+      "name": "Riss",
+      "date_registered": "2025-07-12T09:54:00.354Z"
     },
     "6601328421": {
       "registered": true,
