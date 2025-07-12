@@ -1,8 +1,8 @@
 {
   "users": {
     "7617987031": {
-      "saldo": null,
-      "resellerExpired": 1754905538578
+      "saldo": 0,
+      "resellerExpired": 1757497538578
     },
     "6601328421": {
       "registered": true,
