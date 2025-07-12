@@ -22,7 +22,8 @@
   },
   "settings": {
     "7593568365": {},
-    "autojpm": true
+    "autojpm": true,
+    "autojpmch": true
   },
   "database": {
     "idSaluran": [
