@@ -15,7 +15,11 @@
       "date_registered": "2025-07-12T09:26:36.758Z"
     },
     "6212082135": {
-      "saldo": 0
+      "saldo": 0,
+      "registered": true,
+      "username": null,
+      "name": "HARIS",
+      "date_registered": "2025-07-12T10:24:31.998Z"
     }
   },
   "chats": {
