@@ -23,5 +23,9 @@
   "settings": {
     "7593568365": {}
   },
-  "database": {}
+  "database": {
+    "idSaluran": [
+      "120363420150026733@newsletter"
+    ]
+  }
 }
