@@ -27,6 +27,13 @@
       "username": "FirMods",
       "name": "Fir",
       "date_registered": "2025-07-13T07:24:36.475Z"
+    },
+    "6798265865": {
+      "saldo": 0,
+      "registered": true,
+      "username": "ofcgiordanos",
+      "name": "Arkayasa",
+      "date_registered": "2025-07-13T11:09:42.958Z"
     }
   },
   "chats": {
@@ -34,7 +41,8 @@
     "6601328421": {},
     "-1002846547725": {},
     "6212082135": {},
-    "7541672900": {}
+    "7541672900": {},
+    "6798265865": {}
   },
   "settings": {
     "7593568365": {},
