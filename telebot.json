@@ -69,6 +69,13 @@
       "username": "CiaaCantikkkkk",
       "name": "CS Vpedia || CiaaSoft Development",
       "date_registered": "2025-07-14T18:51:41.912Z"
+    },
+    "6467640136": {
+      "saldo": 0,
+      "registered": true,
+      "username": "theeblackArab",
+      "name": "Richie Techwizard",
+      "date_registered": "2025-07-14T19:38:07.372Z"
     }
   },
   "chats": {
@@ -82,7 +89,8 @@
     "6798265865": {},
     "7146673353": {},
     "6476440549": {},
-    "7646712239": {}
+    "7646712239": {},
+    "6467640136": {}
   },
   "settings": {
     "7593568365": {},
