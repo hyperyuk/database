@@ -7,6 +7,13 @@
       "name": "cid kagenoh",
       "date_registered": "2025-07-13T23:59:55.087Z"
     },
+    "1931469389": {
+      "saldo": 0,
+      "registered": true,
+      "username": "store_clover",
+      "name": "CLOVER",
+      "date_registered": "2025-07-14T06:26:17.820Z"
+    },
     "7617987031": {
       "saldo": 0,
       "resellerExpired": 1757497538578,
@@ -59,6 +66,7 @@
   },
   "chats": {
     "1100851311": {},
+    "1931469389": {},
     "7617987031": {},
     "6601328421": {},
     "-1002846547725": {},
