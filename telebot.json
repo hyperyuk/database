@@ -62,6 +62,13 @@
       "username": "jarroffc",
       "name": "Jarr",
       "date_registered": "2025-07-13T13:45:54.681Z"
+    },
+    "7646712239": {
+      "saldo": 0,
+      "registered": true,
+      "username": "CiaaCantikkkkk",
+      "name": "CS Vpedia || CiaaSoft Development",
+      "date_registered": "2025-07-14T18:51:41.912Z"
     }
   },
   "chats": {
@@ -74,7 +81,8 @@
     "7541672900": {},
     "6798265865": {},
     "7146673353": {},
-    "6476440549": {}
+    "6476440549": {},
+    "7646712239": {}
   },
   "settings": {
     "7593568365": {},
