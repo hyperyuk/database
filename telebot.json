@@ -21,18 +21,7 @@
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-12T09:54:00.354Z",
-      "nokos": [
-        {
-          "id": 29923659,
-          "number": "639109058511",
-          "country": "Philippines",
-          "operator": "any",
-          "service": "Whatsapp",
-          "price": "3305",
-          "otpSent": [],
-          "time": "2025-07-15T08:55:32.106Z"
-        }
-      ]
+      "nokos": []
     },
     "6601328421": {
       "registered": true,
