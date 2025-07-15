@@ -21,18 +21,7 @@
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-12T09:54:00.354Z",
-      "nokos": [
-        {
-          "id": 29959682,
-          "number": "6285808607758",
-          "country": "Indonesia",
-          "operator": "indosat",
-          "service": "Whatsapp",
-          "price": 2815,
-          "otpSent": [],
-          "time": "2025-07-15T16:54:58.115Z"
-        }
-      ]
+      "nokos": []
     },
     "6601328421": {
       "registered": true,
