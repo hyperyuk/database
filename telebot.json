@@ -15,12 +15,24 @@
       "date_registered": "2025-07-14T06:26:17.820Z"
     },
     "7617987031": {
-      "saldo": 1000000,
+      "saldo": 999632,
       "resellerExpired": 1757497538578,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
-      "date_registered": "2025-07-12T09:54:00.354Z"
+      "date_registered": "2025-07-12T09:54:00.354Z",
+      "nokos": [
+        {
+          "id": 29920074,
+          "number": "601161883011",
+          "country": "Malaysia",
+          "operator": "any",
+          "service": "Instagram",
+          "price": "368",
+          "otpSent": [],
+          "time": "2025-07-15T08:04:19.430Z"
+        }
+      ]
     },
     "6601328421": {
       "registered": true,
