@@ -15,7 +15,7 @@
       "date_registered": "2025-07-14T06:26:17.820Z"
     },
     "7617987031": {
-      "saldo": 992836,
+      "saldo": 992160,
       "resellerExpired": 1757497538578,
       "registered": true,
       "username": "rissgtg",
@@ -40,6 +40,16 @@
           "time": "2025-07-15T17:18:14.448Z",
           "pendingSent": true,
           "successSent": true
+        },
+        {
+          "id": 29961864,
+          "number": "79169513309",
+          "country": "Russia",
+          "operator": "any",
+          "service": "Discord",
+          "price": 676,
+          "otpSent": [],
+          "time": "2025-07-15T17:37:15.403Z"
         }
       ]
     },
