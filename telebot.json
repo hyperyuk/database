@@ -40,17 +40,6 @@
           "time": "2025-07-15T17:18:14.448Z",
           "pendingSent": true,
           "successSent": true
-        },
-        {
-          "id": 29961864,
-          "number": "79169513309",
-          "country": "Russia",
-          "operator": "any",
-          "service": "Discord",
-          "price": 676,
-          "otpSent": [],
-          "time": "2025-07-15T17:37:15.403Z",
-          "pendingSent": true
         }
       ]
     },
