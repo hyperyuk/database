@@ -15,13 +15,24 @@
       "date_registered": "2025-07-14T06:26:17.820Z"
     },
     "7617987031": {
-      "saldo": 993512,
+      "saldo": 992836,
       "resellerExpired": 1757497538578,
       "registered": true,
       "username": "rissgtg",
       "name": "Riss",
       "date_registered": "2025-07-12T09:54:00.354Z",
-      "nokos": []
+      "nokos": [
+        {
+          "id": 29960817,
+          "number": "6285591070818",
+          "country": "Indonesia",
+          "operator": "indosat",
+          "service": "Discord",
+          "price": 676,
+          "otpSent": [],
+          "time": "2025-07-15T17:18:14.448Z"
+        }
+      ]
     },
     "6601328421": {
       "registered": true,
