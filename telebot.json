@@ -115,6 +115,13 @@
       "username": "alcvvoucher",
       "name": "AL | OPEN CV GOCO, VOUCHER GAME",
       "date_registered": "2025-07-16T17:14:18.313Z"
+    },
+    "7150036019": {
+      "saldo": 0,
+      "registered": true,
+      "username": "HaidarDigitalShop",
+      "name": "Haidar",
+      "date_registered": "2025-07-18T05:30:58.826Z"
     }
   },
   "chats": {
@@ -131,7 +138,8 @@
     "7646712239": {},
     "6467640136": {},
     "7125541832": {},
-    "7803943275": {}
+    "7803943275": {},
+    "7150036019": {}
   },
   "settings": {
     "7593568365": {},
