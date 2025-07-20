@@ -37,7 +37,26 @@
           "tanggal": "2025-07-20T17:44:31.914Z"
         }
       ],
-      "total_deposit": 1000
+      "total_deposit": 1000,
+      "topup": {
+        "status": false,
+        "code": "DANA12",
+        "product": {
+          "code": "DANA12",
+          "name": "DANA 12.000",
+          "category": "E-Money",
+          "type": "Umum",
+          "provider": "DANA",
+          "brand_status": "1",
+          "price": "12145",
+          "note": "-",
+          "status": "available",
+          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
+        },
+        "kategori": null,
+        "price": 13360,
+        "waktu": 1753034098623
+      }
     }
   },
   "chats": {
