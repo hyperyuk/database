@@ -9,6 +9,13 @@
       "waiting_custom_deposit": false,
       "deposit_history": [
         {
+          "nominal": 92768,
+          "status": "cancelled",
+          "id": "zS67Eg8daLoDQQ9NKVaK",
+          "reff_id": "DEP1753033967842",
+          "tanggal": "2025-07-20T17:52:51.185Z"
+        },
+        {
           "nominal": 1219,
           "status": "cancelled",
           "id": "3CyBSuaPXpEwhnpdBALT",
