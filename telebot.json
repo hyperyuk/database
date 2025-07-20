@@ -40,23 +40,22 @@
       "total_deposit": 1000,
       "topup": {
         "status": false,
-        "code": "DANA10",
+        "code": "DANA2",
         "product": {
-          "code": "DANA10",
-          "name": "DANA 10.000",
+          "code": "DANA2",
+          "name": "DANA 2.000",
           "category": "E-Money",
           "type": "Umum",
           "provider": "DANA",
           "brand_status": "1",
-          "price": "10175",
-          "note": "Admin 500",
+          "price": "2145",
+          "note": "-",
           "status": "available",
           "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
         },
         "kategori": null,
-        "price": 11193,
-        "waktu": 1753034159680,
-        "target": "085643241592"
+        "price": 2360,
+        "waktu": 1753034228581
       }
     }
   },
