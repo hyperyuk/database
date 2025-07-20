@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 111000,
+      "saldo": 108640,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -39,7 +39,7 @@
       ],
       "total_deposit": 1000,
       "topup": {
-        "status": false,
+        "status": true,
         "code": "DANA2",
         "product": {
           "code": "DANA2",
@@ -55,7 +55,10 @@
         },
         "kategori": null,
         "price": 2360,
-        "waktu": 1753034228581
+        "waktu": 1753034228581,
+        "target": "085643241592",
+        "reff_id": "TOPUP-1753034234691",
+        "transaction_id": "tORrqur9yixhTg7iJP0B"
       }
     }
   },
