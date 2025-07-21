@@ -82,10 +82,19 @@
           "createdAt": 1753075049071
         }
       ]
+    },
+    "6212082135": {
+      "saldo": 0,
+      "registered": true,
+      "username": "rissmdbotz",
+      "name": "RISS",
+      "date_registered": "2025-07-21T05:24:30.642Z",
+      "waiting_custom_deposit": false
     }
   },
   "chats": {
-    "7458699573": {}
+    "7458699573": {},
+    "6212082135": {}
   },
   "settings": {
     "7722830976": {},
