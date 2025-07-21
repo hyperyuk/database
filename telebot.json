@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 106640,
+      "saldo": 95640,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -70,6 +70,16 @@
           "tokenGaransi": "RISSG-6B59F929C0B3",
           "expireGaransi": 1754787355695,
           "createdAt": 1753059355695
+        },
+        {
+          "id": 6,
+          "username": "rissxd",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-8E729BB75AB0",
+          "expireGaransi": 1754803049071,
+          "createdAt": 1753075049071
         }
       ]
     }
