@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 108640,
+      "saldo": 106640,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -59,7 +59,19 @@
         "target": "085643241592",
         "reff_id": "TOPUP-1753034234691",
         "transaction_id": "tORrqur9yixhTg7iJP0B"
-      }
+      },
+      "panels": [
+        {
+          "id": 5,
+          "username": "tesajacuy",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-6B59F929C0B3",
+          "expireGaransi": 1754787355695,
+          "createdAt": 1753059355695
+        }
+      ]
     }
   },
   "chats": {
