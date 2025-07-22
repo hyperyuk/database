@@ -36,7 +36,8 @@
       ],
       "depositManual": {
         "metode": "dana",
-        "step": "waiting_photo"
+        "step": "confirm_photo",
+        "bukti": "AgACAgUAAxkBAAPZaH-6O_NWyqXCU2MlKwq2zYssIfMAAvzEMRvvcwABVJ4sZQLggO6wAQADAgADeQADNgQ"
       }
     },
     "7125258190": {
