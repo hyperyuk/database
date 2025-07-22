@@ -14,7 +14,7 @@
       "name": "Ris",
       "date_registered": "2025-07-21T07:56:03.669Z",
       "resellerExpired": 0,
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "deposit_history": [
         {
           "nominal": 1208,
