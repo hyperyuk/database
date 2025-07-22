@@ -36,8 +36,9 @@
       ],
       "depositManual": {
         "metode": "dana",
-        "step": "waiting_nominal",
-        "bukti": "AgACAgUAAxkBAAPZaH-6O_NWyqXCU2MlKwq2zYssIfMAAvzEMRvvcwABVJ4sZQLggO6wAQADAgADeQADNgQ"
+        "step": "waiting_approval",
+        "bukti": "AgACAgUAAxkBAAPZaH-6O_NWyqXCU2MlKwq2zYssIfMAAvzEMRvvcwABVJ4sZQLggO6wAQADAgADeQADNgQ",
+        "nominal": 10000
       }
     },
     "7125258190": {
