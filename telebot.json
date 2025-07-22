@@ -18,7 +18,7 @@
       ]
     },
     "7458699573": {
-      "saldo": 988807,
+      "saldo": 998807,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -34,12 +34,7 @@
           "tanggal": "2025-07-22T08:44:18.757Z"
         }
       ],
-      "depositManual": {
-        "metode": "dana",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAPZaH-6O_NWyqXCU2MlKwq2zYssIfMAAvzEMRvvcwABVJ4sZQLggO6wAQADAgADeQADNgQ",
-        "nominal": 10000
-      }
+      "depositManual": null
     },
     "7125258190": {
       "saldo": 0,
