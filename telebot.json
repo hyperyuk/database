@@ -50,7 +50,8 @@
   },
   "settings": {
     "7725099858": {},
-    "autojpmch": false
+    "autojpmch": false,
+    "autojpm": true
   },
   "database": {
     "tekspromosi": "tes"
