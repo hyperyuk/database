@@ -36,7 +36,8 @@
       ],
       "depositManual": {
         "metode": "gopay",
-        "step": "waiting_photo"
+        "step": "waiting_nominal",
+        "bukti": "AgACAgUAAxkBAAPZaH-6O_NWyqXCU2MlKwq2zYssIfMAAvzEMRvvcwABVJ4sZQLggO6wAQADAgADeQADNgQ"
       }
     },
     "7125258190": {
