@@ -10,7 +10,7 @@
       "deposit_history": [
         {
           "nominal": 100000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "DEP1753202810232",
           "metode": "gopay",
           "tanggal": "2025-07-22T16:47:11.371Z"
@@ -23,17 +23,7 @@
           "tanggal": "2025-07-22T13:02:47.389Z"
         }
       ],
-      "depositManual": {
-        "id": "DEP1753202810232",
-        "metode": "gopay",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAP8aH_AgNSq_dvkqv089rE22G3fb1EAAnzHMRu4SAFUaiJkutSDtl8BAAMCAAN5AAM2BA",
-        "nominal": 100000,
-        "ownerMessage": {
-          "chat_id": "7458699573",
-          "message_id": 257
-        }
-      }
+      "depositManual": null
     },
     "7125258190": {
       "saldo": 0,
