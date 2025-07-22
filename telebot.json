@@ -6,7 +6,24 @@
       "username": "rissmdbotz",
       "name": "RISS",
       "date_registered": "2025-07-21T07:38:22.061Z",
-      "waiting_custom_deposit": false
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "ccMQVyKjS7XDKjtHgFiD",
+        "reff_id": "DEP1753189364488",
+        "nominal": 10272,
+        "status": true,
+        "expired": "2025-07-22 21:02:47",
+        "message_id": 163
+      },
+      "deposit_history": [
+        {
+          "nominal": 10272,
+          "status": "pending",
+          "id": "ccMQVyKjS7XDKjtHgFiD",
+          "reff_id": "DEP1753189364488",
+          "tanggal": "2025-07-22T13:02:47.389Z"
+        }
+      ]
     },
     "7458699573": {
       "saldo": 988807,
@@ -24,29 +41,7 @@
           "reff_id": "DEP1753173854628",
           "tanggal": "2025-07-22T08:44:18.757Z"
         }
-      ],
-      "topup": {
-        "status": true,
-        "code": "DANA10",
-        "product": {
-          "code": "DANA10",
-          "name": "DANA 10.000",
-          "category": "E-Money",
-          "type": "Umum",
-          "provider": "DANA",
-          "brand_status": "1",
-          "price": "10175",
-          "note": "Admin 500",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
-        },
-        "kategori": null,
-        "price": 11193,
-        "waktu": 1753175133826,
-        "target": "085643241592",
-        "reff_id": "TOPUP-1753175153083",
-        "transaction_id": "4fLcvL5DufUJegZOOOSH"
-      }
+      ]
     },
     "7125258190": {
       "saldo": 0,
