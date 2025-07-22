@@ -30,7 +30,11 @@
       "username": "rissofc",
       "name": "Ris",
       "date_registered": "2025-07-22T16:40:03.987Z",
-      "depositManual": null
+      "depositManual": {
+        "id": "DEP1753202416773",
+        "metode": "gopay",
+        "step": "waiting_photo"
+      }
     }
   },
   "chats": {
