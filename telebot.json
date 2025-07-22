@@ -17,34 +17,19 @@
         }
       ]
     },
-    "7458699573": {
-      "saldo": 998807,
-      "registered": true,
-      "username": "rissofc",
-      "name": "Ris",
-      "date_registered": "2025-07-21T07:56:03.669Z",
-      "resellerExpired": 0,
-      "waiting_custom_deposit": false,
-      "deposit_history": [
-        {
-          "nominal": 1208,
-          "status": "cancelled",
-          "id": "HiFjqgdvnTX8GY2IULPA",
-          "reff_id": "DEP1753173854628",
-          "tanggal": "2025-07-22T08:44:18.757Z"
-        }
-      ],
-      "depositManual": {
-        "metode": "gopay",
-        "step": "waiting_photo"
-      }
-    },
     "7125258190": {
       "saldo": 0,
       "registered": true,
       "username": "pongg443",
       "name": "pongg",
       "date_registered": "2025-07-22T12:32:26.869Z"
+    },
+    "7458699573": {
+      "saldo": 0,
+      "registered": true,
+      "username": "rissofc",
+      "name": "Ris",
+      "date_registered": "2025-07-22T16:40:03.987Z"
     }
   },
   "chats": {
