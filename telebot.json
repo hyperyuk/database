@@ -34,12 +34,7 @@
           "tanggal": "2025-07-22T08:44:18.757Z"
         }
       ],
-      "depositManual": {
-        "metode": "gopay",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAPZaH-6O_NWyqXCU2MlKwq2zYssIfMAAvzEMRvvcwABVJ4sZQLggO6wAQADAgADeQADNgQ",
-        "nominal": 10000
-      }
+      "depositManual": null
     },
     "7125258190": {
       "saldo": 0,
