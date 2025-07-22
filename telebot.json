@@ -14,7 +14,7 @@
       "name": "Ris",
       "date_registered": "2025-07-21T07:56:03.669Z",
       "resellerExpired": 0,
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
         {
           "nominal": 1208,
@@ -46,11 +46,19 @@
         "reff_id": "TOPUP-1753175153083",
         "transaction_id": "4fLcvL5DufUJegZOOOSH"
       }
+    },
+    "7125258190": {
+      "saldo": 0,
+      "registered": true,
+      "username": "pongg443",
+      "name": "pongg",
+      "date_registered": "2025-07-22T12:32:26.869Z"
     }
   },
   "chats": {
     "7458699573": {},
-    "6212082135": {}
+    "6212082135": {},
+    "7125258190": {}
   },
   "settings": {
     "7725099858": {}
