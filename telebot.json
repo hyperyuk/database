@@ -51,5 +51,7 @@
   "settings": {
     "7725099858": {}
   },
-  "database": {}
+  "database": {
+    "tekspromosi": "tes"
+  }
 }
