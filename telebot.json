@@ -33,7 +33,11 @@
           "reff_id": "DEP1753173854628",
           "tanggal": "2025-07-22T08:44:18.757Z"
         }
-      ]
+      ],
+      "depositManual": {
+        "metode": "dana",
+        "step": "waiting_photo"
+      }
     },
     "7125258190": {
       "saldo": 0,
