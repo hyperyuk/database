@@ -45,7 +45,7 @@
       "username": "pongg443",
       "name": "pongg",
       "date_registered": "2025-07-22T12:32:26.869Z",
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "depositManual": {
         "id": "DEP1753250079017",
         "metode": "dana",
