@@ -81,7 +81,7 @@
       "depositManual": {
         "id": "DEP1753281512552",
         "metode": "dana",
-        "step": "confirm_photo",
+        "step": "waiting_nominal",
         "bukti": "AgACAgUAAxkBAAIB9WiA8-yPsx4n1VaUtU5Rdd0bCRFgAALZxDEb-hIAAVQTkT264opSxQEAAwIAA3kAAzYE"
       },
       "deposit_history": [
