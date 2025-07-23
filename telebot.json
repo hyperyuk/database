@@ -49,9 +49,23 @@
       "depositManual": {
         "id": "DEP1753247648786",
         "metode": "dana",
-        "step": "waiting_nominal",
-        "bukti": "AgACAgUAAxkBAAIBIWiAb-jlqZeSEHpXFdaYz-i9B6oGAAKIxjEbqssAAVQejlHen7iO8gEAAwIAA3kAAzYE"
-      }
+        "step": "waiting_approval",
+        "bukti": "AgACAgUAAxkBAAIBIWiAb-jlqZeSEHpXFdaYz-i9B6oGAAKIxjEbqssAAVQejlHen7iO8gEAAwIAA3kAAzYE",
+        "nominal": 5000,
+        "ownerMessage": {
+          "chat_id": "7458699573",
+          "message_id": 322
+        }
+      },
+      "deposit_history": [
+        {
+          "nominal": 5000,
+          "status": "pending",
+          "id": "DEP1753247648786",
+          "metode": "dana",
+          "tanggal": "2025-07-23T05:26:16.737Z"
+        }
+      ]
     },
     "7458699573": {
       "saldo": 10000,
