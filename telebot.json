@@ -40,27 +40,17 @@
       "depositManual": null
     },
     "7125258190": {
-      "saldo": 0,
+      "saldo": 3874,
       "registered": true,
       "username": "pongg443",
       "name": "pongg",
       "date_registered": "2025-07-22T12:32:26.869Z",
       "waiting_custom_deposit": false,
-      "depositManual": {
-        "id": "DEP1753250287783",
-        "metode": "dana",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAIBT2iAePe65YnFospBAr2hyO8oYKGEAAKoxjEbqssAAVSidrNTh-YYEgEAAwIAA3kAAzYE",
-        "nominal": 3874,
-        "ownerMessage": {
-          "chat_id": "7458699573",
-          "message_id": 351
-        }
-      },
+      "depositManual": null,
       "deposit_history": [
         {
           "nominal": 3874,
-          "status": "pending",
+          "status": "success",
           "id": "DEP1753250287783",
           "metode": "dana",
           "tanggal": "2025-07-23T05:58:50.150Z"
@@ -79,7 +69,8 @@
           "metode": "dana",
           "tanggal": "2025-07-23T05:26:16.737Z"
         }
-      ]
+      ],
+      "total_deposit": 3874
     },
     "7458699573": {
       "saldo": 10000,
