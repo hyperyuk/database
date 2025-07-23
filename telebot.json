@@ -46,21 +46,11 @@
       "name": "pongg",
       "date_registered": "2025-07-22T12:32:26.869Z",
       "waiting_custom_deposit": false,
-      "depositManual": {
-        "id": "DEP1753250079017",
-        "metode": "dana",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAIBT2iAePe65YnFospBAr2hyO8oYKGEAAKoxjEbqssAAVSidrNTh-YYEgEAAwIAA3kAAzYE",
-        "nominal": 3874,
-        "ownerMessage": {
-          "chat_id": "7458699573",
-          "message_id": 341
-        }
-      },
+      "depositManual": null,
       "deposit_history": [
         {
           "nominal": 3874,
-          "status": "pending",
+          "status": "cancelled",
           "id": "DEP1753250079017",
           "metode": "dana",
           "tanggal": "2025-07-23T05:55:00.929Z"
