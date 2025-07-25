@@ -40,7 +40,7 @@
       "depositManual": null
     },
     "7125258190": {
-      "saldo": 3874,
+      "saldo": 879,
       "registered": true,
       "username": "pongg443",
       "name": "pongg",
@@ -70,7 +70,20 @@
           "tanggal": "2025-07-23T05:26:16.737Z"
         }
       ],
-      "total_deposit": 3874
+      "total_deposit": 3874,
+      "nokos": [
+        {
+          "id": 30829916,
+          "number": "6287752581973",
+          "country": "Indonesia",
+          "operator": "axis",
+          "service": "Whatsapp",
+          "price": 2995,
+          "otpSent": [],
+          "time": "2025-07-25T20:30:04.654Z",
+          "expiresAt": 1753476604654
+        }
+      ]
     },
     "7458699573": {
       "saldo": 110000,
