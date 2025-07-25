@@ -71,19 +71,7 @@
         }
       ],
       "total_deposit": 3874,
-      "nokos": [
-        {
-          "id": 30829916,
-          "number": "6287752581973",
-          "country": "Indonesia",
-          "operator": "axis",
-          "service": "Whatsapp",
-          "price": 2995,
-          "otpSent": [],
-          "time": "2025-07-25T20:30:04.654Z",
-          "expiresAt": 1753476604654
-        }
-      ]
+      "nokos": []
     },
     "7458699573": {
       "saldo": 110000,
