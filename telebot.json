@@ -1,7 +1,7 @@
 {
   "users": {
     "1296229487": {
-      "saldo": 5000,
+      "saldo": 0,
       "registered": true,
       "username": "Alphared26",
       "name": "EQUINOX",
@@ -16,7 +16,19 @@
           "tanggal": "2025-07-26T04:22:06.108Z"
         }
       ],
-      "total_deposit": 5000
+      "total_deposit": 5000,
+      "panels": [
+        {
+          "id": 7,
+          "username": "alphared26",
+          "ram": 4000,
+          "disk": 4500,
+          "cpu": 100,
+          "tokenGaransi": "RISSG-E2D3400696FE",
+          "expireGaransi": 1755231804003,
+          "createdAt": 1753503804003
+        }
+      ]
     },
     "6212082135": {
       "saldo": 0,
