@@ -155,7 +155,7 @@
       "date_registered": "2025-07-27T03:00:43.641Z"
     },
     "7780064207": {
-      "saldo": 2338,
+      "saldo": 338,
       "registered": true,
       "username": "ganzzgantng",
       "name": "Ganzz-kenon",
@@ -179,7 +179,19 @@
         }
       ],
       "total_deposit": 7000,
-      "nokos": []
+      "nokos": [],
+      "panels": [
+        {
+          "id": 8,
+          "username": "ganzx",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-7F6A1C169B7C",
+          "expireGaransi": 1755376095712,
+          "createdAt": 1753648095712
+        }
+      ]
     },
     "6906449577": {
       "saldo": 0,
