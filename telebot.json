@@ -155,7 +155,7 @@
       "date_registered": "2025-07-27T03:00:43.641Z"
     },
     "7780064207": {
-      "saldo": 7000,
+      "saldo": 2338,
       "registered": true,
       "username": "ganzzgantng",
       "name": "Ganzz-kenon",
@@ -179,7 +179,19 @@
         }
       ],
       "total_deposit": 7000,
-      "nokos": []
+      "nokos": [
+        {
+          "id": 30966156,
+          "number": "6285766449518",
+          "country": "Indonesia",
+          "operator": "indosat",
+          "service": "Whatsapp",
+          "price": 4662,
+          "otpSent": [],
+          "time": "2025-07-27T13:04:27.292Z",
+          "expiresAt": 1753622667292
+        }
+      ]
     },
     "6906449577": {
       "saldo": 0,
