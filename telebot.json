@@ -220,7 +220,7 @@
       "username": "fatarcihuy15",
       "name": "@FatarModzV1",
       "date_registered": "2025-07-27T13:06:57.660Z",
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "deposit_history": [
         {
           "nominal": 5237,
