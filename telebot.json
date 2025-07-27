@@ -211,20 +211,7 @@
         }
       ],
       "total_deposit": 2500,
-      "nokos": [
-        {
-          "id": 30957986,
-          "number": "639708579877",
-          "country": "Philippines",
-          "operator": "any",
-          "service": "Telegram",
-          "price": 2404,
-          "otpSent": [],
-          "time": "2025-07-27T10:48:27.230Z",
-          "expiresAt": 1753614507230,
-          "otpSentLast": ""
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
