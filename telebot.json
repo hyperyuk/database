@@ -236,7 +236,7 @@
       "deposit_history": [
         {
           "nominal": 1208,
-          "status": "pending",
+          "status": "success",
           "id": "yuAMnmRhmbGsdbrhKkkh",
           "reff_id": "DEP1753622781276",
           "tanggal": "2025-07-27T13:26:23.453Z"
