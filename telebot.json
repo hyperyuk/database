@@ -153,7 +153,7 @@
       "date_registered": "2025-07-27T03:00:43.641Z"
     },
     "7780064207": {
-      "saldo": 4039,
+      "saldo": 1078,
       "registered": true,
       "username": "ganzzgantng",
       "name": "Ganzz-kenon",
@@ -188,6 +188,17 @@
           "otpSent": [],
           "time": "2025-07-27T06:44:35.834Z",
           "expiresAt": 1753599875834
+        },
+        {
+          "id": 30943775,
+          "number": "6283846630982",
+          "country": "Indonesia",
+          "operator": "any",
+          "service": "Whatsapp",
+          "price": 2961,
+          "otpSent": [],
+          "time": "2025-07-27T06:47:04.823Z",
+          "expiresAt": 1753600024823
         }
       ]
     }
