@@ -104,7 +104,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 108648,
+      "saldo": 109324,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -128,21 +128,7 @@
       ],
       "total_deposit": 100000,
       "waiting_custom_deposit": false,
-      "nokos": [
-        {
-          "id": 30961814,
-          "number": "639302383212",
-          "country": "Philippines",
-          "operator": "any",
-          "service": "Discord",
-          "price": 676,
-          "otpSent": [],
-          "time": "2025-07-27T11:54:05.918Z",
-          "expiresAt": 1753618445918,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     },
     "6118514130": {
       "saldo": 0,
