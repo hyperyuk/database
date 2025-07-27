@@ -159,11 +159,7 @@
       "username": "ganzzgantng",
       "name": "Ganzz-kenon",
       "date_registered": "2025-07-27T06:18:39.006Z",
-      "depositManual": {
-        "id": "DEP1753606045424",
-        "metode": "dana",
-        "step": "waiting_photo"
-      },
+      "depositManual": null,
       "waiting_custom_deposit": false,
       "deposit_history": [
         {
