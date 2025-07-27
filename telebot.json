@@ -238,21 +238,7 @@
         }
       ],
       "total_deposit": 6000,
-      "nokos": [
-        {
-          "id": 30967938,
-          "number": "6283182513449",
-          "country": "Indonesia",
-          "operator": "any",
-          "service": "Telegram",
-          "price": 3916,
-          "otpSent": [],
-          "time": "2025-07-27T13:35:33.935Z",
-          "expiresAt": 1753624533935,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
