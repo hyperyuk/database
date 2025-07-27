@@ -188,7 +188,7 @@
       "date_registered": "2025-07-27T07:07:51.149Z"
     },
     "7076032431": {
-      "saldo": 2500,
+      "saldo": 96,
       "registered": true,
       "username": "SancaCruel",
       "name": "SANCA",
@@ -210,7 +210,20 @@
           "tanggal": "2025-07-27T10:46:03.998Z"
         }
       ],
-      "total_deposit": 2500
+      "total_deposit": 2500,
+      "nokos": [
+        {
+          "id": 30957986,
+          "number": "639708579877",
+          "country": "Philippines",
+          "operator": "any",
+          "service": "Telegram",
+          "price": 2404,
+          "otpSent": [],
+          "time": "2025-07-27T10:48:27.230Z",
+          "expiresAt": 1753614507230
+        }
+      ]
     }
   },
   "chats": {
