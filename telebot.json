@@ -192,7 +192,8 @@
       "registered": true,
       "username": "SancaCruel",
       "name": "SANCA",
-      "date_registered": "2025-07-27T10:36:03.080Z"
+      "date_registered": "2025-07-27T10:36:03.080Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
