@@ -126,7 +126,8 @@
           "tanggal": "2025-07-23T05:34:29.051Z"
         }
       ],
-      "total_deposit": 100000
+      "total_deposit": 100000,
+      "waiting_custom_deposit": false
     },
     "6118514130": {
       "saldo": 0,
