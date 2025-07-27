@@ -215,7 +215,7 @@
       "nokos": []
     },
     "7927189012": {
-      "saldo": 6000,
+      "saldo": 2084,
       "registered": true,
       "username": "fatarcihuy15",
       "name": "@FatarModzV1",
@@ -237,7 +237,20 @@
           "tanggal": "2025-07-27T13:07:45.285Z"
         }
       ],
-      "total_deposit": 6000
+      "total_deposit": 6000,
+      "nokos": [
+        {
+          "id": 30967938,
+          "number": "6283182513449",
+          "country": "Indonesia",
+          "operator": "any",
+          "service": "Telegram",
+          "price": 3916,
+          "otpSent": [],
+          "time": "2025-07-27T13:35:33.935Z",
+          "expiresAt": 1753624533935
+        }
+      ]
     }
   },
   "chats": {
