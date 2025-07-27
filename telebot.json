@@ -238,21 +238,7 @@
         }
       ],
       "total_deposit": 6000,
-      "nokos": [
-        {
-          "id": 30968932,
-          "number": "639122548635",
-          "country": "Philippines",
-          "operator": "tm",
-          "service": "Whatsapp",
-          "price": 4790,
-          "otpSent": [],
-          "time": "2025-07-27T13:51:45.476Z",
-          "expiresAt": 1753625505476,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
