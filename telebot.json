@@ -215,7 +215,7 @@
       "nokos": []
     },
     "7927189012": {
-      "saldo": 6000,
+      "saldo": 1210,
       "registered": true,
       "username": "fatarcihuy15",
       "name": "@FatarModzV1",
@@ -238,7 +238,19 @@
         }
       ],
       "total_deposit": 6000,
-      "nokos": []
+      "nokos": [
+        {
+          "id": 30968932,
+          "number": "639122548635",
+          "country": "Philippines",
+          "operator": "tm",
+          "service": "Whatsapp",
+          "price": 4790,
+          "otpSent": [],
+          "time": "2025-07-27T13:51:45.476Z",
+          "expiresAt": 1753625505476
+        }
+      ]
     }
   },
   "chats": {
