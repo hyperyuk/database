@@ -259,7 +259,8 @@
       "registered": true,
       "username": null,
       "name": "Yanz",
-      "date_registered": "2025-07-28T15:42:20.996Z"
+      "date_registered": "2025-07-28T15:42:20.996Z",
+      "waiting_custom_deposit": false
     }
   },
   "chats": {
