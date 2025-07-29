@@ -270,7 +270,7 @@
       "date_registered": "2025-07-29T12:19:55.843Z"
     },
     "8177563326": {
-      "saldo": 5000,
+      "saldo": 0,
       "registered": true,
       "username": null,
       "name": "fauzz",
@@ -285,7 +285,19 @@
           "tanggal": "2025-07-29T13:34:06.500Z"
         }
       ],
-      "total_deposit": 5000
+      "total_deposit": 5000,
+      "panels": [
+        {
+          "id": 10,
+          "username": "bot_bisnis",
+          "ram": 4000,
+          "disk": 4500,
+          "cpu": 100,
+          "tokenGaransi": "RISSG-FDD57A046135",
+          "expireGaransi": 1755524366481,
+          "createdAt": 1753796366481
+        }
+      ]
     }
   },
   "chats": {
