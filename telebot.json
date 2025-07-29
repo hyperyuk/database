@@ -261,6 +261,13 @@
       "name": "Yanz",
       "date_registered": "2025-07-28T15:42:20.996Z",
       "waiting_custom_deposit": false
+    },
+    "7295560711": {
+      "saldo": 0,
+      "registered": true,
+      "username": "davinacantik",
+      "name": "davinaaaaaaaaa di panggil nengokkk",
+      "date_registered": "2025-07-29T12:19:55.843Z"
     }
   },
   "chats": {
@@ -274,7 +281,8 @@
     "6906449577": {},
     "7076032431": {},
     "7927189012": {},
-    "7584684515": {}
+    "7584684515": {},
+    "7295560711": {}
   },
   "settings": {
     "7725099858": {},
