@@ -227,47 +227,6 @@
       "total_deposit": 2500,
       "nokos": []
     },
-    "7927189012": {
-      "saldo": -4959,
-      "registered": true,
-      "username": "fatarcihuy15",
-      "name": "@FatarModzV1",
-      "date_registered": "2025-07-27T13:06:57.660Z",
-      "waiting_custom_deposit": false,
-      "deposit_history": [
-        {
-          "nominal": 1208,
-          "status": "success",
-          "id": "yuAMnmRhmbGsdbrhKkkh",
-          "reff_id": "DEP1753622781276",
-          "tanggal": "2025-07-27T13:26:23.453Z"
-        },
-        {
-          "nominal": 5237,
-          "status": "success",
-          "id": "GjZveUhKTa5kGjDEq4jc",
-          "reff_id": "DEP1753621662977",
-          "tanggal": "2025-07-27T13:07:45.285Z"
-        }
-      ],
-      "total_deposit": 6000,
-      "nokos": [
-        {
-          "id": 31218784,
-          "number": "6287756924262",
-          "country": "Indonesia",
-          "operator": "any",
-          "service": "Whatsapp",
-          "price": 4959,
-          "otpSent": [],
-          "time": "2025-07-30T15:48:12.034Z",
-          "expiresAt": 1753891692034,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ],
-      "resellerExpired": 0
-    },
     "7584684515": {
       "saldo": 0,
       "registered": true,
