@@ -241,21 +241,7 @@
       "username": "davinacantik",
       "name": "davinaaaaaaaaa di panggil nengokkk",
       "date_registered": "2025-07-29T12:19:55.843Z",
-      "nokos": [
-        {
-          "id": 31220715,
-          "number": "639637367790",
-          "country": "Philippines",
-          "operator": "any",
-          "service": "Whatsapp",
-          "price": 5966,
-          "otpSent": [],
-          "time": "2025-07-30T16:06:35.147Z",
-          "expiresAt": 1753892795147,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     },
     "8177563326": {
       "saldo": 0,
