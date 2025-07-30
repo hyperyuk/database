@@ -228,7 +228,7 @@
       "nokos": []
     },
     "7927189012": {
-      "saldo": 6000,
+      "saldo": 1041,
       "registered": true,
       "username": "fatarcihuy15",
       "name": "@FatarModzV1",
@@ -251,7 +251,19 @@
         }
       ],
       "total_deposit": 6000,
-      "nokos": [],
+      "nokos": [
+        {
+          "id": 31218784,
+          "number": "6287756924262",
+          "country": "Indonesia",
+          "operator": "any",
+          "service": "Whatsapp",
+          "price": 4959,
+          "otpSent": [],
+          "time": "2025-07-30T15:48:12.034Z",
+          "expiresAt": 1753891692034
+        }
+      ],
       "resellerExpired": 0
     },
     "7584684515": {
