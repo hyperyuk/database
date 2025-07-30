@@ -104,7 +104,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 84662,
+      "saldo": 79780,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -128,7 +128,19 @@
       ],
       "total_deposit": 100000,
       "waiting_custom_deposit": false,
-      "nokos": [],
+      "nokos": [
+        {
+          "id": 31217468,
+          "number": "6287825270218",
+          "country": "Indonesia",
+          "operator": "any",
+          "service": "Whatsapp",
+          "price": 4882,
+          "otpSent": [],
+          "time": "2025-07-30T15:36:33.417Z",
+          "expiresAt": 1753890993417
+        }
+      ],
       "resellerExpired": 1756282539583
     },
     "6118514130": {
