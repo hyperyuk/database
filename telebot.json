@@ -139,7 +139,8 @@
           "otpSent": [],
           "time": "2025-07-30T15:54:57.166Z",
           "expiresAt": 1753892097166,
-          "otpSentLast": ""
+          "otpSentLast": "",
+          "pendingSent": true
         }
       ],
       "resellerExpired": 1756282539583
