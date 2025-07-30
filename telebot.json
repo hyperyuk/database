@@ -236,12 +236,24 @@
       "waiting_custom_deposit": false
     },
     "7295560711": {
-      "saldo": 6000,
+      "saldo": 1378,
       "registered": true,
       "username": "davinacantik",
       "name": "davinaaaaaaaaa di panggil nengokkk",
       "date_registered": "2025-07-29T12:19:55.843Z",
-      "nokos": []
+      "nokos": [
+        {
+          "id": 31232304,
+          "number": "639519305126",
+          "country": "Philippines",
+          "operator": "any",
+          "service": "Telegram",
+          "price": 4622,
+          "otpSent": [],
+          "time": "2025-07-30T23:15:23.467Z",
+          "expiresAt": 1753918523467
+        }
+      ]
     },
     "8177563326": {
       "saldo": 0,
