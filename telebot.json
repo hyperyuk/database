@@ -104,7 +104,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 84662,
+      "saldo": 73674,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -131,7 +131,7 @@
       "nokos": [],
       "resellerExpired": 1756282539583,
       "topup": {
-        "status": false,
+        "status": true,
         "code": "TDMSL2",
         "product": {
           "code": "TDMSL2",
@@ -148,7 +148,9 @@
         "kategori": null,
         "price": 10988,
         "waktu": 1753932011158,
-        "target": "0895802466656"
+        "target": "0895802466656",
+        "reff_id": "TOPUP-1753932037604",
+        "transaction_id": "HdhKSOacXBpojSJ73Fui"
       }
     },
     "6118514130": {
