@@ -129,29 +129,7 @@
       "total_deposit": 100000,
       "waiting_custom_deposit": false,
       "nokos": [],
-      "resellerExpired": 1756282539583,
-      "topup": {
-        "status": true,
-        "code": "TDMSL2",
-        "product": {
-          "code": "TDMSL2",
-          "name": "Tri Mix Small 2.75 GB 3 Hari",
-          "category": "Data Internet",
-          "type": "Mix",
-          "provider": "TRI",
-          "brand_status": "1",
-          "price": "10988",
-          "note": "0.75 GB (semua jaringan) + 2 GB (jaringan 4G) , Masa Aktif 3 Hari",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699688310_bd4da75681eec415c0ea.png"
-        },
-        "kategori": null,
-        "price": 10988,
-        "waktu": 1753932011158,
-        "target": "0895802466656",
-        "reff_id": "TOPUP-1753932037604",
-        "transaction_id": "HdhKSOacXBpojSJ73Fui"
-      }
+      "resellerExpired": 1756282539583
     },
     "6118514130": {
       "saldo": 0,
