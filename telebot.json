@@ -306,7 +306,7 @@
   },
   "settings": {
     "7725099858": {},
-    "autojpmch": false,
+    "autojpmch": true,
     "autojpm": false
   },
   "database": {
