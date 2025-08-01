@@ -127,7 +127,7 @@
         }
       ],
       "total_deposit": 100000,
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "nokos": [],
       "resellerExpired": 1756282539583
     },
