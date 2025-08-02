@@ -121,7 +121,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 73674,
+      "saldo": 67734,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -162,7 +162,7 @@
       "nokos": [],
       "resellerExpired": 1756282539583,
       "topup": {
-        "status": false,
+        "status": true,
         "code": "IDY1C",
         "product": {
           "code": "IDY1C",
@@ -179,7 +179,9 @@
         "kategori": null,
         "price": 5940,
         "waktu": 1754134622520,
-        "target": "085643241592"
+        "target": "085643241592",
+        "reff_id": "TOPUP-1754134631412",
+        "transaction_id": "69YsZQ3rAB9nuM2ucFmR"
       }
     },
     "6118514130": {
