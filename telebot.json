@@ -1,7 +1,7 @@
 {
   "users": {
     "1296229487": {
-      "saldo": 4000,
+      "saldo": 0,
       "registered": true,
       "username": "Alphared26",
       "name": "EQUINOX",
@@ -34,6 +34,16 @@
           "tokenGaransi": "RISSG-E2D3400696FE",
           "expireGaransi": 1755231804003,
           "createdAt": 1753503804003
+        },
+        {
+          "id": 11,
+          "username": "gavin",
+          "ram": 3000,
+          "disk": 3500,
+          "cpu": 80,
+          "tokenGaransi": "RISSG-4EC5EAB58AE0",
+          "expireGaransi": 1755822681073,
+          "createdAt": 1754094681073
         }
       ]
     },
