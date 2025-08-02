@@ -121,7 +121,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 67734,
+      "saldo": 59529,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -162,7 +162,7 @@
       "nokos": [],
       "resellerExpired": 1756282539583,
       "topup": {
-        "status": false,
+        "status": true,
         "code": "DANA8",
         "product": {
           "code": "DANA8",
@@ -179,7 +179,9 @@
         "kategori": null,
         "price": 8205,
         "waktu": 1754149938085,
-        "target": "0882006540998"
+        "target": "0882006540998",
+        "reff_id": "TOPUP-1754149942583",
+        "transaction_id": "pVHsR13HBys8hOK0xUZB"
       }
     },
     "6118514130": {
