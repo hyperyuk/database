@@ -160,7 +160,26 @@
       "total_deposit": 100000,
       "waiting_custom_deposit": false,
       "nokos": [],
-      "resellerExpired": 1756282539583
+      "resellerExpired": 1756282539583,
+      "topup": {
+        "status": false,
+        "code": "IDY1C",
+        "product": {
+          "code": "IDY1C",
+          "name": "Indosat Yellow 1 GB 3 Hari",
+          "category": "Data Internet",
+          "type": "Yellow",
+          "provider": "INDOSAT",
+          "brand_status": "1",
+          "price": "5940",
+          "note": "Online Gaspol 1GB 3 Hari",
+          "status": "available",
+          "img_url": "https://s3.atlantic-pedia.co.id/1699688258_31a4817eb6b410cc2717.png"
+        },
+        "kategori": null,
+        "price": 5940,
+        "waktu": 1754134622520
+      }
     },
     "6118514130": {
       "saldo": 0,
