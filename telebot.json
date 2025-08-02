@@ -160,29 +160,7 @@
       "total_deposit": 100000,
       "waiting_custom_deposit": false,
       "nokos": [],
-      "resellerExpired": 1756282539583,
-      "topup": {
-        "status": true,
-        "code": "DANA8",
-        "product": {
-          "code": "DANA8",
-          "name": "DANA 8.000",
-          "category": "E-Money",
-          "type": "Umum",
-          "provider": "DANA",
-          "brand_status": "1",
-          "price": "8205",
-          "note": "Cut Off jam 22.00 - 01.00",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
-        },
-        "kategori": null,
-        "price": 8205,
-        "waktu": 1754149938085,
-        "target": "0882006540998",
-        "reff_id": "TOPUP-1754149942583",
-        "transaction_id": "pVHsR13HBys8hOK0xUZB"
-      }
+      "resellerExpired": 1756282539583
     },
     "6118514130": {
       "saldo": 0,
