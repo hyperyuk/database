@@ -138,9 +138,22 @@
       "depositManual": {
         "id": "DEP1754377117040",
         "metode": "dana",
-        "step": "waiting_photo"
+        "step": "waiting_approval",
+        "bukti": "AgACAgUAAxkBAAIFiWiRq6EaMskHVZaXJ-gNSY4AASvorgAC88YxG4KokVRIU1KM-GQ63AEAAwIAA3kAAzYE",
+        "nominal": 1000,
+        "ownerMessage": {
+          "chat_id": "7458699573",
+          "message_id": 1420
+        }
       },
       "deposit_history": [
+        {
+          "nominal": 1000,
+          "status": "pending",
+          "id": "DEP1754377117040",
+          "metode": "dana",
+          "tanggal": "2025-08-05T06:58:46.438Z"
+        },
         {
           "nominal": 2000,
           "status": "cancelled",
