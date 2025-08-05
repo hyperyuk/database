@@ -377,11 +377,7 @@
       "username": "Yutaok_otsu",
       "name": "Cas",
       "date_registered": "2025-08-05T06:53:29.318Z",
-      "depositManual": {
-        "id": "DEP1754376813728",
-        "metode": "dana",
-        "step": "waiting_photo"
-      }
+      "depositManual": null
     }
   },
   "chats": {
