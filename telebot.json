@@ -339,7 +339,12 @@
       "username": "Ry_ven",
       "name": "Ryven",
       "date_registered": "2025-08-05T06:02:13.387Z",
-      "waiting_custom_deposit": false
+      "waiting_custom_deposit": false,
+      "depositManual": {
+        "id": "DEP1754373924794",
+        "metode": "dana",
+        "step": "waiting_photo"
+      }
     }
   },
   "chats": {
