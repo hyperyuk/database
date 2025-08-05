@@ -169,8 +169,9 @@
           "disk": 0,
           "cpu": 250,
           "tokenGaransi": "RISSG-8AF8FBA7CC17",
-          "expireGaransi": 1756082989267,
-          "createdAt": 1754354989267
+          "expireGaransi": 0,
+          "createdAt": 1754354989267,
+          "claimed": true
         }
       ]
     },
