@@ -362,7 +362,8 @@
       "registered": true,
       "username": "arraynothere",
       "name": "Array",
-      "date_registered": "2025-08-01T11:24:43.657Z"
+      "date_registered": "2025-08-01T11:24:43.657Z",
+      "waiting_custom_deposit": true
     },
     "6222502203": {
       "saldo": 0,
