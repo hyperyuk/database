@@ -58,6 +58,13 @@
       "waiting_custom_deposit": false,
       "deposit_history": [
         {
+          "nominal": 1000,
+          "status": "pending",
+          "id": "DEP1754376675448",
+          "metode": "dana",
+          "tanggal": "2025-08-05T06:51:28.651Z"
+        },
+        {
           "nominal": 1000000,
           "status": "cancelled",
           "id": "DEP1753203188324",
@@ -89,8 +96,13 @@
       "depositManual": {
         "id": "DEP1754376675448",
         "metode": "dana",
-        "step": "waiting_nominal",
-        "bukti": "AgACAgUAAxkBAAIFYGiRqelCKyytagQ-flbSR0k6IQObAALD0DEbV-6QVEdKMYMCs29MAQADAgADeQADNgQ"
+        "step": "waiting_approval",
+        "bukti": "AgACAgUAAxkBAAIFYGiRqelCKyytagQ-flbSR0k6IQObAALD0DEbV-6QVEdKMYMCs29MAQADAgADeQADNgQ",
+        "nominal": 1000,
+        "ownerMessage": {
+          "chat_id": "7458699573",
+          "message_id": 1379
+        }
       }
     },
     "7125258190": {
