@@ -365,7 +365,7 @@
       "date_registered": "2025-08-01T11:24:43.657Z"
     },
     "6222502203": {
-      "saldo": 2000,
+      "saldo": 0,
       "registered": true,
       "username": "Ry_ven",
       "name": "Ryven",
@@ -388,7 +388,19 @@
           "tanggal": "2025-08-05T06:56:35.019Z"
         }
       ],
-      "total_deposit": 2000
+      "total_deposit": 2000,
+      "panels": [
+        {
+          "id": 8,
+          "username": "ryven",
+          "ram": 1000,
+          "disk": 1000,
+          "cpu": 40,
+          "tokenGaransi": "RISSG-19F99ED0E55D",
+          "expireGaransi": 1756105275302,
+          "createdAt": 1754377275302
+        }
+      ]
     },
     "8042219300": {
       "saldo": 0,
