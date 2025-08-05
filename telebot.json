@@ -131,10 +131,22 @@
       "depositManual": {
         "id": "DEP1754376505606",
         "metode": "dana",
-        "step": "confirm_photo",
-        "bukti": "AgACAgUAAxkBAAIFTWiRqUBeLuwIVBMZCHk6cspkoCA_AALSxjEbgqiRVNeXmHEqIZBZAQADAgADeQADNgQ"
+        "step": "waiting_approval",
+        "bukti": "AgACAgUAAxkBAAIFTWiRqUBeLuwIVBMZCHk6cspkoCA_AALSxjEbgqiRVNeXmHEqIZBZAQADAgADeQADNgQ",
+        "nominal": 2000,
+        "ownerMessage": {
+          "chat_id": "7458699573",
+          "message_id": 1362
+        }
       },
       "deposit_history": [
+        {
+          "nominal": 2000,
+          "status": "pending",
+          "id": "DEP1754376505606",
+          "metode": "dana",
+          "tanggal": "2025-08-05T06:48:38.386Z"
+        },
         {
           "nominal": 1208,
           "status": "cancelled",
@@ -348,7 +360,8 @@
       "depositManual": {
         "id": "DEP1754376506350",
         "metode": "dana",
-        "step": "waiting_photo"
+        "step": "waiting_nominal",
+        "bukti": "AgACAgUAAxkBAAIFP2iRpQ0u6o9v8z0CYw1EFwWnxXZSAAKIzDEbI4CQVFqXJZx74SVvAQADAgADeQADNgQ"
       }
     }
   },
