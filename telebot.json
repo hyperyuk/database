@@ -121,7 +121,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 59529,
+      "saldo": 48529,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -160,7 +160,19 @@
       "total_deposit": 100000,
       "waiting_custom_deposit": false,
       "nokos": [],
-      "resellerExpired": 1756282539583
+      "resellerExpired": 1756282539583,
+      "panels": [
+        {
+          "id": 4,
+          "username": "rissnoxd",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-8AF8FBA7CC17",
+          "expireGaransi": 1756082989267,
+          "createdAt": 1754354989267
+        }
+      ]
     },
     "6118514130": {
       "saldo": 0,
