@@ -86,7 +86,11 @@
           "tanggal": "2025-07-22T13:02:47.389Z"
         }
       ],
-      "depositManual": null
+      "depositManual": {
+        "id": "DEP1754376675448",
+        "metode": "dana",
+        "step": "waiting_photo"
+      }
     },
     "7125258190": {
       "saldo": 879,
