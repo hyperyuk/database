@@ -130,7 +130,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 48529,
+      "saldo": 47425,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -215,7 +215,7 @@
         }
       ],
       "topup": {
-        "status": false,
+        "status": true,
         "code": "ML3",
         "product": {
           "code": "ML3",
@@ -231,7 +231,10 @@
         },
         "kategori": null,
         "price": 1104,
-        "waktu": 1754428955865
+        "waktu": 1754428955865,
+        "target": "160674806|2812",
+        "reff_id": "TOPUP-1754428968916",
+        "transaction_id": "ROEzsHuYPcvl72wQ60Gj"
       }
     },
     "6118514130": {
