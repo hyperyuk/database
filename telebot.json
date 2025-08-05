@@ -43,8 +43,9 @@
           "disk": 3500,
           "cpu": 80,
           "tokenGaransi": "RISSG-4EC5EAB58AE0",
-          "expireGaransi": 1755822681073,
-          "createdAt": 1754094681073
+          "expireGaransi": 0,
+          "createdAt": 1754094681073,
+          "claimed": true
         }
       ]
     },
