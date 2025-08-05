@@ -370,6 +370,13 @@
         "step": "waiting_nominal",
         "bukti": "AgACAgUAAxkBAAIFP2iRpQ0u6o9v8z0CYw1EFwWnxXZSAAKIzDEbI4CQVFqXJZx74SVvAQADAgADeQADNgQ"
       }
+    },
+    "8042219300": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Yutaok_otsu",
+      "name": "Cas",
+      "date_registered": "2025-08-05T06:53:29.318Z"
     }
   },
   "chats": {
@@ -388,7 +395,8 @@
     "8177563326": {},
     "7955637893": {},
     "7669397337": {},
-    "6222502203": {}
+    "6222502203": {},
+    "8042219300": {}
   },
   "settings": {
     "7725099858": {},
