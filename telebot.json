@@ -365,27 +365,17 @@
       "date_registered": "2025-08-01T11:24:43.657Z"
     },
     "6222502203": {
-      "saldo": 0,
+      "saldo": 2000,
       "registered": true,
       "username": "Ry_ven",
       "name": "Ryven",
       "date_registered": "2025-08-05T06:02:13.387Z",
       "waiting_custom_deposit": false,
-      "depositManual": {
-        "id": "DEP1754377184344",
-        "metode": "dana",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAIFP2iRpQ0u6o9v8z0CYw1EFwWnxXZSAAKIzDEbI4CQVFqXJZx74SVvAQADAgADeQADNgQ",
-        "nominal": 2000,
-        "ownerMessage": {
-          "chat_id": "7458699573",
-          "message_id": 1427
-        }
-      },
+      "depositManual": null,
       "deposit_history": [
         {
           "nominal": 2000,
-          "status": "pending",
+          "status": "success",
           "id": "DEP1754377184344",
           "metode": "dana",
           "tanggal": "2025-08-05T06:59:55.044Z"
@@ -397,7 +387,8 @@
           "metode": "dana",
           "tanggal": "2025-08-05T06:56:35.019Z"
         }
-      ]
+      ],
+      "total_deposit": 2000
     },
     "8042219300": {
       "saldo": 0,
