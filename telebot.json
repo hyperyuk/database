@@ -364,17 +364,11 @@
       "name": "Ryven",
       "date_registered": "2025-08-05T06:02:13.387Z",
       "waiting_custom_deposit": false,
-      "depositManual": {
-        "id": "DEP1754376986239",
-        "metode": "dana",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAIFP2iRpQ0u6o9v8z0CYw1EFwWnxXZSAAKIzDEbI4CQVFqXJZx74SVvAQADAgADeQADNgQ",
-        "nominal": 2000
-      },
+      "depositManual": null,
       "deposit_history": [
         {
           "nominal": 2000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "DEP1754376986239",
           "metode": "dana",
           "tanggal": "2025-08-05T06:56:35.019Z"
