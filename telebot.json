@@ -32,8 +32,9 @@
           "disk": 4500,
           "cpu": 100,
           "tokenGaransi": "RISSG-E2D3400696FE",
-          "expireGaransi": 1755231804003,
-          "createdAt": 1753503804003
+          "expireGaransi": 0,
+          "createdAt": 1753503804003,
+          "claimed": true
         },
         {
           "id": 11,
