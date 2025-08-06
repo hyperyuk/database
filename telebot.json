@@ -456,21 +456,7 @@
         }
       ],
       "total_deposit": 4000,
-      "nokos": [
-        {
-          "id": 31827732,
-          "number": "6285169108940",
-          "country": "Indonesia",
-          "operator": "any",
-          "service": "Whatsapp",
-          "price": 2851,
-          "otpSent": [],
-          "time": "2025-08-06T22:29:59.783Z",
-          "expiresAt": 1754520599783,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
