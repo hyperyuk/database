@@ -444,7 +444,8 @@
       "registered": true,
       "username": null,
       "name": "Vanz",
-      "date_registered": "2025-08-06T22:21:04.353Z"
+      "date_registered": "2025-08-06T22:21:04.353Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
