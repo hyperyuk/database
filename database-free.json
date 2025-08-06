@@ -1,3 +1,10 @@
 {
-  "akses": []
+  "akses": [
+    {
+      "nomor": "6289505205298",
+      "key": "satriafarcelo01",
+      "createdAt": "2025-08-06T05:28:01.257Z",
+      "expiredAt": "2025-08-07T05:28:01.257Z"
+    }
+  ]
 }
