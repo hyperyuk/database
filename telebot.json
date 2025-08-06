@@ -220,29 +220,7 @@
           "createdAt": 1754354989267,
           "claimed": true
         }
-      ],
-      "topup": {
-        "status": true,
-        "code": "DANA3",
-        "product": {
-          "code": "DANA3",
-          "name": "DANA 3.000",
-          "category": "E-Money",
-          "type": "Umum",
-          "provider": "DANA",
-          "brand_status": "1",
-          "price": "3190",
-          "note": "-",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
-        },
-        "kategori": null,
-        "price": 3509,
-        "waktu": 1754463194256,
-        "target": "085643241592",
-        "reff_id": "TOPUP-1754463202772",
-        "transaction_id": "tRihy8fCevLZPKeLYGYA"
-      }
+      ]
     },
     "6118514130": {
       "saldo": 0,
