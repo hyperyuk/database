@@ -440,7 +440,7 @@
       "date_registered": "2025-08-06T11:55:39.160Z"
     },
     "8074968487": {
-      "saldo": 4000,
+      "saldo": 1149,
       "registered": true,
       "username": null,
       "name": "Vanz",
@@ -455,7 +455,22 @@
           "tanggal": "2025-08-06T22:22:19.871Z"
         }
       ],
-      "total_deposit": 4000
+      "total_deposit": 4000,
+      "nokos": [
+        {
+          "id": 31827732,
+          "number": "6285169108940",
+          "country": "Indonesia",
+          "operator": "any",
+          "service": "Whatsapp",
+          "price": 2851,
+          "otpSent": [],
+          "time": "2025-08-06T22:29:59.783Z",
+          "expiresAt": 1754520599783,
+          "otpSentLast": "",
+          "pendingSent": true
+        }
+      ]
     }
   },
   "chats": {
