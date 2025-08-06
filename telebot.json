@@ -130,7 +130,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 47425,
+      "saldo": 43916,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -222,7 +222,7 @@
         }
       ],
       "topup": {
-        "status": false,
+        "status": true,
         "code": "DANA3",
         "product": {
           "code": "DANA3",
@@ -238,7 +238,10 @@
         },
         "kategori": null,
         "price": 3509,
-        "waktu": 1754463194256
+        "waktu": 1754463194256,
+        "target": "085643241592",
+        "reff_id": "TOPUP-1754463202772",
+        "transaction_id": "tRihy8fCevLZPKeLYGYA"
       }
     },
     "6118514130": {
