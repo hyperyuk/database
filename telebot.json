@@ -424,6 +424,13 @@
       "name": "Cas",
       "date_registered": "2025-08-05T06:53:29.318Z",
       "depositManual": null
+    },
+    "8086815679": {
+      "saldo": 0,
+      "registered": true,
+      "username": null,
+      "name": "SatriaFarcelo",
+      "date_registered": "2025-08-06T05:25:33.225Z"
     }
   },
   "chats": {
@@ -443,7 +450,8 @@
     "7955637893": {},
     "7669397337": {},
     "6222502203": {},
-    "8042219300": {}
+    "8042219300": {},
+    "8086815679": {}
   },
   "settings": {
     "7725099858": {},
