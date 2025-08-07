@@ -148,6 +148,13 @@
       },
       "deposit_history": [
         {
+          "nominal": 1208,
+          "status": "pending",
+          "id": "Dfl7LWxdPfyDGzqCYxNS",
+          "reff_id": "DEP1754540698842",
+          "tanggal": "2025-08-07T04:25:00.701Z"
+        },
+        {
           "nominal": 2214,
           "status": "cancelled",
           "id": "nOThADAiEIPQf08RLuRV",
