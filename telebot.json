@@ -148,6 +148,13 @@
       },
       "deposit_history": [
         {
+          "nominal": 10272,
+          "status": "cancelled",
+          "id": "FpXtyzuXVRganUw1Kb4t",
+          "reff_id": "DEP1754540792818",
+          "tanggal": "2025-08-07T04:26:34.610Z"
+        },
+        {
           "nominal": 1208,
           "status": "pending",
           "id": "Dfl7LWxdPfyDGzqCYxNS",
@@ -209,13 +216,6 @@
           "id": "DEP1753281512552",
           "metode": "dana",
           "tanggal": "2025-07-23T14:38:45.437Z"
-        },
-        {
-          "nominal": 10000,
-          "status": "cancelled",
-          "id": "DEP1753248854513",
-          "metode": "dana",
-          "tanggal": "2025-07-23T05:34:29.051Z"
         }
       ],
       "total_deposit": 100000,
