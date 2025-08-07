@@ -528,21 +528,6 @@
   },
   "database": {
     "tekspromosi": "🔥 PO SCRIPT BOT NOKOS VIRTUSIM V2!\n📲 Auto order nomor virtual\n💸 Cuma 35K aja (harga normal 50K)\n✅ Full otomatis – Telegram Bot\n🚀 Fitur lengkap, aman, dan cepat!\n📩 Chat admin sekarang sebelum kehabisan\n\nt.me/rissofc",
-    "products": {
-      "SC01": {
-        "nama": "SC BOT TELE NOKOS V2",
-        "harga": 30000,
-        "desk": "BY VIRTUSIM",
-        "stok": 4,
-        "terjual": 1,
-        "stockHistory": [
-          {
-            "timestamp": "2025-08-07T17:33:50.135Z",
-            "amount": 5,
-            "info": "LINK DOWNLOAD: HOHO"
-          }
-        ]
-      }
-    }
+    "products": {}
   }
 }
