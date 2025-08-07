@@ -130,7 +130,7 @@
       "nokos": []
     },
     "7458699573": {
-      "saldo": 43916,
+      "saldo": 13916,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -533,8 +533,8 @@
         "nama": "SC BOT TELE NOKOS V2",
         "harga": 30000,
         "desk": "BY VIRTUSIM",
-        "stok": 5,
-        "terjual": 0,
+        "stok": 4,
+        "terjual": 1,
         "stockHistory": [
           {
             "timestamp": "2025-08-07T17:33:50.135Z",
