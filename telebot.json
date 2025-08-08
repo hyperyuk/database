@@ -5,7 +5,17 @@
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
-      "date_registered": "2025-08-08T04:36:38.149Z"
+      "date_registered": "2025-08-08T04:36:38.149Z",
+      "waiting_custom_deposit": false,
+      "deposit_history": [
+        {
+          "nominal": 100906,
+          "status": "cancelled",
+          "id": "9GIGx3OBVaQNaJSbfda4",
+          "reff_id": "DEP1754631709196",
+          "tanggal": "2025-08-08T05:41:51.284Z"
+        }
+      ]
     }
   },
   "chats": {
