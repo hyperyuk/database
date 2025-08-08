@@ -562,6 +562,14 @@
             "info": "BABI KE\nTU KONTOL\nKE HEHD"
           }
         ]
+      },
+      "SC02": {
+        "nama": "SCTES",
+        "harga": 40000,
+        "desk": "NO UPDATE",
+        "stok": 0,
+        "terjual": 0,
+        "stockHistory": []
       }
     }
   }
