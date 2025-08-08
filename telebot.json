@@ -18,7 +18,7 @@
       ]
     },
     "7723752876": {
-      "saldo": 5100,
+      "saldo": 232,
       "registered": true,
       "username": "ManStayHigh",
       "name": "⏤ 𝐕𝐈𝐑𝐄𝐋𝐈𝐀 || 𝐃𝐚𝐫𝐠𝐨 𝟏𝟎𝟖",
@@ -68,7 +68,20 @@
           "tanggal": "2025-08-08T10:03:35.509Z"
         }
       ],
-      "total_deposit": 5100
+      "total_deposit": 5100,
+      "nokos": [
+        {
+          "id": 31995660,
+          "number": "639465841707",
+          "country": "Philippines",
+          "operator": "any",
+          "service": "Whatsapp",
+          "price": 4868,
+          "otpSent": [],
+          "time": "2025-08-08T13:32:26.536Z",
+          "expiresAt": 1754661146536
+        }
+      ]
     },
     "7722144078": {
       "saldo": 0,
