@@ -533,8 +533,8 @@
         "nama": "SCTES",
         "harga": 40000,
         "desk": "NO UPDATE",
-        "stok": 1,
-        "terjual": 1,
+        "stok": 0,
+        "terjual": 2,
         "stockHistory": [
           {
             "timestamp": "2025-08-08T00:58:17.237Z",
