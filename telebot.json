@@ -15,7 +15,26 @@
           "reff_id": "DEP1754631709196",
           "tanggal": "2025-08-08T05:41:51.284Z"
         }
-      ]
+      ],
+      "topup": {
+        "status": false,
+        "code": "DANA4",
+        "product": {
+          "code": "DANA4",
+          "name": "DANA 4.000",
+          "category": "E-Money",
+          "type": "Umum",
+          "provider": "DANA",
+          "brand_status": "1",
+          "price": "4160",
+          "note": "Cut off jam 22.00 - 01.00",
+          "status": "available",
+          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
+        },
+        "kategori": null,
+        "price": 4576,
+        "waktu": 1754649563733
+      }
     },
     "7723752876": {
       "saldo": 0,
