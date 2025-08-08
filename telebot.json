@@ -69,26 +69,7 @@
         }
       ],
       "total_deposit": 5100,
-      "nokos": [
-        {
-          "id": 31995660,
-          "number": "639465841707",
-          "country": "Philippines",
-          "operator": "any",
-          "service": "Whatsapp",
-          "price": 4868,
-          "otpSent": [
-            {
-              "msg": "979665"
-            }
-          ],
-          "time": "2025-08-08T13:32:26.536Z",
-          "expiresAt": 1754661146536,
-          "otpSentLast": "979665",
-          "pendingSent": true,
-          "successSent": true
-        }
-      ]
+      "nokos": []
     },
     "7722144078": {
       "saldo": 0,
