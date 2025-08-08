@@ -48,9 +48,15 @@
         "nama": "DISKON SC NOKOS VIRTU",
         "harga": 30000,
         "desk": "NO ENC & NO UPDATE & INI SUDAH HARGA DISKON!",
-        "stok": 0,
+        "stok": 10,
         "terjual": 0,
-        "stockHistory": []
+        "stockHistory": [
+          {
+            "timestamp": "2025-08-08T11:04:35.422Z",
+            "amount": 10,
+            "info": "*PERLU DIINGAT!!!*\n- JANGAN DIPERJUALBELIKAN\n- ERROR? FIX SENDIRI\n- KALAU KETAHUAN JUAL ATAU SEBAR APIKEY RESET!\n\nLINK DOWNLOAD:\nhttps://www.mediafire.com/file/byziyyu9is5j2b5/SC+NOKOS+VIRTU+X+ATLANTIC+BY+RISSXD+V2.zip/file"
+          }
+        ]
       }
     }
   }
