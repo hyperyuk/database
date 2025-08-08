@@ -27,9 +27,9 @@
   "database": {
     "products": {
       "SCNOKOS": {
-        "nama": "SC NOKOS VIRTU PG ATLANTIC V2",
+        "nama": "SC NOKOS PG ATLANTIC",
         "harga": 30000,
-        "desk": "NO ENC & NO UPDATE",
+        "desk": "NO ENC & NO UPDATE API VIRTUSIM",
         "stok": 0,
         "terjual": 0,
         "stockHistory": []
