@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 970000,
+      "saldo": 965424,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -17,7 +17,7 @@
         }
       ],
       "topup": {
-        "status": false,
+        "status": true,
         "code": "DANA4",
         "product": {
           "code": "DANA4",
@@ -34,7 +34,9 @@
         "kategori": null,
         "price": 4576,
         "waktu": 1754649563733,
-        "target": "085643241592"
+        "target": "085643241592",
+        "reff_id": "TOPUP-1754649575776",
+        "transaction_id": "5AlobT07DjWQQDPZY9c1"
       }
     },
     "7723752876": {
