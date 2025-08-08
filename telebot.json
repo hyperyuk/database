@@ -1,1 +1,18 @@
-null
+{
+  "users": {
+    "7458699573": {
+      "saldo": 0,
+      "registered": true,
+      "username": "rissofc",
+      "name": "Ris",
+      "date_registered": "2025-08-08T04:36:38.149Z"
+    }
+  },
+  "chats": {
+    "7458699573": {}
+  },
+  "settings": {
+    "7725099858": {}
+  },
+  "database": {}
+}
