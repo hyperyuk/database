@@ -43,6 +43,15 @@
     "7725099858": {}
   },
   "database": {
-    "products": {}
+    "products": {
+      "SCNOKOS": {
+        "nama": "DISKON SC NOKOS VIRTU",
+        "harga": 30000,
+        "desk": "NO ENC & NO UPDATE & INI SUDAH HARGA DISKON!",
+        "stok": 0,
+        "terjual": 0,
+        "stockHistory": []
+      }
+    }
   }
 }
