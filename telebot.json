@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 1000000,
+      "saldo": 970000,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -30,8 +30,8 @@
         "nama": "SC NOKOS PG ATLANTIC",
         "harga": 30000,
         "desk": "NO ENC & NO UPDATE API VIRTUSIM",
-        "stok": 100,
-        "terjual": 0,
+        "stok": 99,
+        "terjual": 1,
         "stockHistory": [
           {
             "timestamp": "2025-08-08T08:44:21.797Z",
