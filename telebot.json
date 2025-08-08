@@ -77,12 +77,20 @@
       "username": "ikyymodz",
       "name": "999 IKYY KANG SOLO🕊️",
       "date_registered": "2025-08-08T12:53:35.943Z"
+    },
+    "7996529170": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Gasxbn",
+      "name": "Akhmad",
+      "date_registered": "2025-08-08T14:45:58.184Z"
     }
   },
   "chats": {
     "7458699573": {},
     "7723752876": {},
-    "7722144078": {}
+    "7722144078": {},
+    "7996529170": {}
   },
   "settings": {
     "7725099858": {}
