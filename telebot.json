@@ -24,5 +24,7 @@
   "settings": {
     "7725099858": {}
   },
-  "database": {}
+  "database": {
+    "products": {}
+  }
 }
