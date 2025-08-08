@@ -30,9 +30,15 @@
         "nama": "SC NOKOS PG ATLANTIC",
         "harga": 30000,
         "desk": "NO ENC & NO UPDATE API VIRTUSIM",
-        "stok": 0,
+        "stok": 100,
         "terjual": 0,
-        "stockHistory": []
+        "stockHistory": [
+          {
+            "timestamp": "2025-08-08T08:44:21.797Z",
+            "amount": 100,
+            "info": "*PERLU DIINGAT!!!*\n- JANGAN DIPERJUALBELIKAN\n- ERROR? FIX SENDIRI\n- KALAU KETAHUAN JUAL ATAU SEBAR APIKEY RESET!\n\nLINK DOWNLOAD:\nhttps://www.mediafire.com/file/byziyyu9is5j2b5/SC+NOKOS+VIRTU+X+ATLANTIC+BY+RISSXD+V2.zip/file"
+          }
+        ]
       }
     }
   }
