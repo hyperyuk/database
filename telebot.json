@@ -533,7 +533,7 @@
         "nama": "SCTES",
         "harga": 40000,
         "desk": "NO UPDATE",
-        "stok": 0,
+        "stok": 1,
         "terjual": 2,
         "stockHistory": [
           {
@@ -543,6 +543,11 @@
           },
           {
             "timestamp": "2025-08-08T00:59:43.408Z",
+            "amount": 1,
+            "info": "BABI KE\nTU KONTOL\nKE HEHD"
+          },
+          {
+            "timestamp": "2025-08-08T00:59:53.085Z",
             "amount": 1,
             "info": "BABI KE\nTU KONTOL\nKE HEHD"
           }
