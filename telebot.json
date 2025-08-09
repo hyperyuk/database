@@ -180,11 +180,7 @@
         }
       ],
       "total_deposit": 4000,
-      "depositManual": {
-        "id": "DEP1754743172528",
-        "metode": "gopay",
-        "step": "waiting_photo"
-      }
+      "depositManual": null
     }
   },
   "chats": {
