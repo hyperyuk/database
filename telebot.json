@@ -208,26 +208,7 @@
         "waktu": 1754744242549,
         "target": "0895343060408"
       },
-      "nokos": [
-        {
-          "id": 32093146,
-          "number": "6288902100512",
-          "country": "Indonesia",
-          "operator": "smartfren",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [
-            {
-              "msg": "847302"
-            }
-          ],
-          "time": "2025-08-09T13:22:22.230Z",
-          "expiresAt": 1754746942230,
-          "otpSentLast": "847302",
-          "pendingSent": true,
-          "successSent": true
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
