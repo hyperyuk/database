@@ -190,23 +190,22 @@
       "depositManual": null,
       "topup": {
         "status": false,
-        "code": "DANA3",
+        "code": "THPY2A",
         "product": {
-          "code": "DANA3",
-          "name": "DANA 3.000",
-          "category": "E-Money",
-          "type": "Umum",
-          "provider": "DANA",
+          "code": "THPY2A",
+          "name": "Tri Data Happy 2 GB 1 Hari",
+          "category": "Data Internet",
+          "type": "Happy",
+          "provider": "TRI",
           "brand_status": "1",
-          "price": "3190",
-          "note": "-",
+          "price": "3965",
+          "note": "Tri Data Happy 2 GB / 1 Hari",
           "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
+          "img_url": "https://s3.atlantic-pedia.co.id/1699688310_bd4da75681eec415c0ea.png"
         },
         "kategori": null,
-        "price": 3509,
-        "waktu": 1754744176428,
-        "target": "081354585948"
+        "price": 4362,
+        "waktu": 1754744242549
       }
     }
   },
