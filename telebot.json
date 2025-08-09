@@ -155,7 +155,7 @@
       "username": null,
       "name": "Vanz",
       "date_registered": "2025-08-09T12:31:01.618Z",
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "deposit_history": [
         {
           "nominal": 1208,
