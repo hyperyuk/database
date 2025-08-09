@@ -99,7 +99,7 @@
       "date_registered": "2025-08-08T12:53:35.943Z"
     },
     "7996529170": {
-      "saldo": 11000,
+      "saldo": 0,
       "registered": true,
       "username": "Gasxbn",
       "name": "Akhmad",
@@ -128,7 +128,19 @@
           "tanggal": "2025-08-09T01:45:54.378Z"
         }
       ],
-      "total_deposit": 41000
+      "total_deposit": 41000,
+      "panels": [
+        {
+          "id": 11,
+          "username": "jasebku",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-5E37B05302F7",
+          "expireGaransi": 1756442947662,
+          "createdAt": 1754714947663
+        }
+      ]
     },
     "7763380658": {
       "saldo": 0,
