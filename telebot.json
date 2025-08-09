@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 965424,
+      "saldo": 945424,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -15,7 +15,8 @@
           "reff_id": "DEP1754631709196",
           "tanggal": "2025-08-08T05:41:51.284Z"
         }
-      ]
+      ],
+      "resellerExpired": 1757304136276
     },
     "7723752876": {
       "saldo": 232,
