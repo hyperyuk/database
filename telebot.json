@@ -190,23 +190,22 @@
       "depositManual": null,
       "topup": {
         "status": false,
-        "code": "SHP2",
+        "code": "DANA3",
         "product": {
-          "code": "SHP2",
-          "name": "SHOPEE PAY 2.000",
+          "code": "DANA3",
+          "name": "DANA 3.000",
           "category": "E-Money",
           "type": "Umum",
-          "provider": "SHOPEE PAY",
+          "provider": "DANA",
           "brand_status": "1",
-          "price": "3100",
-          "note": "SHOPEE PAY 2.000",
+          "price": "3190",
+          "note": "-",
           "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699694894_3591d9795629e379797d.png"
+          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
         },
         "kategori": null,
-        "price": 3410,
-        "waktu": 1754744040318,
-        "target": "081354585948"
+        "price": 3509,
+        "waktu": 1754744176428
       }
     }
   },
