@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 945424,
+      "saldo": 934424,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -16,7 +16,19 @@
           "tanggal": "2025-08-08T05:41:51.284Z"
         }
       ],
-      "resellerExpired": 1757304136276
+      "resellerExpired": 1757304136276,
+      "panels": [
+        {
+          "id": 10,
+          "username": "noir",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-AC17324197F4",
+          "expireGaransi": 1756440549290,
+          "createdAt": 1754712549290
+        }
+      ]
     },
     "7723752876": {
       "saldo": 232,
