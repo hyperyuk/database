@@ -84,7 +84,7 @@
       "username": "Gasxbn",
       "name": "Akhmad",
       "date_registered": "2025-08-08T14:45:58.184Z",
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "deposit_history": [
         {
           "nominal": 10272,
