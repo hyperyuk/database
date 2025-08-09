@@ -6,7 +6,7 @@
       "username": "rissofc",
       "name": "Ris",
       "date_registered": "2025-08-08T04:36:38.149Z",
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
         {
           "nominal": 100906,
