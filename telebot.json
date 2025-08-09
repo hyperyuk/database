@@ -79,7 +79,7 @@
       "date_registered": "2025-08-08T12:53:35.943Z"
     },
     "7996529170": {
-      "saldo": 30000,
+      "saldo": 0,
       "registered": true,
       "username": "Gasxbn",
       "name": "Akhmad",
@@ -120,8 +120,8 @@
         "nama": "DISKON! SC NOKOS VIRTU",
         "harga": 30000,
         "desk": "NO ENC 100%\nNO UPDATE\nREVIEW: https://youtu.be/xlWQ55AmQsg?si=8JinVVx2rgdfBAhY",
-        "stok": 10,
-        "terjual": 0,
+        "stok": 9,
+        "terjual": 1,
         "stockHistory": [
           {
             "timestamp": "2025-08-08T11:04:35.422Z",
