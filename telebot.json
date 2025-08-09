@@ -150,7 +150,7 @@
       "date_registered": "2025-08-08T16:00:29.643Z"
     },
     "8074968487": {
-      "saldo": 4500,
+      "saldo": 649,
       "registered": true,
       "username": null,
       "name": "Vanz",
@@ -207,7 +207,20 @@
         "price": 4362,
         "waktu": 1754744242549,
         "target": "0895343060408"
-      }
+      },
+      "nokos": [
+        {
+          "id": 32093146,
+          "number": "6288902100512",
+          "country": "Indonesia",
+          "operator": "smartfren",
+          "service": "Whatsapp",
+          "price": 3851,
+          "otpSent": [],
+          "time": "2025-08-09T13:22:22.230Z",
+          "expiresAt": 1754746942230
+        }
+      ]
     }
   },
   "chats": {
