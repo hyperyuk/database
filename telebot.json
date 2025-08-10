@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 934424,
+      "saldo": 934524,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -10,7 +10,7 @@
       "deposit_history": [
         {
           "nominal": 100,
-          "status": "pending",
+          "status": "success",
           "id": "0928E9B8A7",
           "tanggal": "2025-08-10T13:27:07.335Z"
         },
@@ -48,14 +48,7 @@
           "createdAt": 1754712549290
         }
       ],
-      "status_deposit": {
-        "id": "0928E9B8A7",
-        "nominal": 100,
-        "totalnominal": 182,
-        "status": true,
-        "expired": "2025-08-10T13:57:07.221Z",
-        "message_id": 2251
-      }
+      "total_deposit": 100
     },
     "7723752876": {
       "saldo": 232,
