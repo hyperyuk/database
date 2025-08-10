@@ -6,8 +6,14 @@
       "username": "rissofc",
       "name": "Ris",
       "date_registered": "2025-08-08T04:36:38.149Z",
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
+        {
+          "nominal": 1000,
+          "status": "pending",
+          "id": "37226D0504",
+          "tanggal": "2025-08-10T18:38:44.604Z"
+        },
         {
           "nominal": 100,
           "status": "success",
@@ -48,7 +54,15 @@
           "createdAt": 1754712549290
         }
       ],
-      "total_deposit": 100
+      "total_deposit": 100,
+      "status_deposit": {
+        "id": "37226D0504",
+        "nominal": 1000,
+        "totalnominal": 1001,
+        "status": true,
+        "expired": "2025-08-10T19:08:44.485Z",
+        "message_id": 2500
+      }
     },
     "7723752876": {
       "saldo": 232,
