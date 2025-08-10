@@ -10,7 +10,7 @@
       "deposit_history": [
         {
           "nominal": 1000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "37226D0504",
           "tanggal": "2025-08-10T18:38:44.604Z"
         },
@@ -54,15 +54,7 @@
           "createdAt": 1754712549290
         }
       ],
-      "total_deposit": 100,
-      "status_deposit": {
-        "id": "37226D0504",
-        "nominal": 1000,
-        "totalnominal": 1001,
-        "status": true,
-        "expired": "2025-08-10T19:08:44.485Z",
-        "message_id": 2500
-      }
+      "total_deposit": 100
     },
     "7723752876": {
       "saldo": 232,
