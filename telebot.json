@@ -615,7 +615,8 @@
       "registered": true,
       "username": "zeroneofficial",
       "name": "Zerone",
-      "date_registered": "2025-08-11T17:03:05.563Z"
+      "date_registered": "2025-08-11T17:03:05.563Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
