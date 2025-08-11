@@ -560,6 +560,13 @@
       "username": "Kucingmaniz9",
       "name": "Kucing maniz",
       "date_registered": "2025-08-11T12:59:57.209Z"
+    },
+    "7978217370": {
+      "saldo": 0,
+      "registered": true,
+      "username": null,
+      "name": "Reyz",
+      "date_registered": "2025-08-11T13:23:24.721Z"
     }
   },
   "chats": {
@@ -612,7 +619,8 @@
     "8055801247": {},
     "7517222112": {},
     "8175209811": {},
-    "6295203265": {}
+    "6295203265": {},
+    "7978217370": {}
   },
   "settings": {
     "7725099858": {}
