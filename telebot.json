@@ -306,6 +306,13 @@
       "username": "scfreynard",
       "name": "dimzxx",
       "date_registered": "2025-08-11T06:56:48.183Z"
+    },
+    "8107569523": {
+      "saldo": 0,
+      "registered": true,
+      "username": "AzusaAtc",
+      "name": "Shirasu",
+      "date_registered": "2025-08-11T07:25:33.823Z"
     }
   },
   "chats": {
@@ -325,7 +332,8 @@
     "7670359594": {},
     "7262194470": {},
     "7369387445": {},
-    "7828146338": {}
+    "7828146338": {},
+    "8107569523": {}
   },
   "settings": {
     "7725099858": {}
