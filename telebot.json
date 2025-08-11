@@ -1,7 +1,7 @@
 {
   "users": {
     "7458699573": {
-      "saldo": 932024,
+      "saldo": 862024,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -334,8 +334,8 @@
         "nama": "RUKA MD PREMIUM",
         "harga": 70000,
         "desk": "FREE UPDATE FULL & NO ENC FITUR",
-        "stok": 100,
-        "terjual": 0,
+        "stok": 99,
+        "terjual": 1,
         "stockHistory": [
           {
             "timestamp": "2025-08-11T06:35:38.953Z",
