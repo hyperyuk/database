@@ -588,6 +588,13 @@
       "username": "nisakangpp",
       "name": "NISA KANG PP",
       "date_registered": "2025-08-11T14:22:40.957Z"
+    },
+    "7804951651": {
+      "saldo": 0,
+      "registered": true,
+      "username": "SkayPedia",
+      "name": "Caca",
+      "date_registered": "2025-08-11T16:01:13.239Z"
     }
   },
   "chats": {
@@ -644,7 +651,8 @@
     "7978217370": {},
     "8133131006": {},
     "6926184786": {},
-    "8129974973": {}
+    "8129974973": {},
+    "7804951651": {}
   },
   "settings": {
     "7725099858": {}
