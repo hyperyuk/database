@@ -250,6 +250,13 @@
       "name": "farhan",
       "date_registered": "2025-08-11T05:05:40.389Z",
       "depositManual": null
+    },
+    "7175750329": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Privatyej",
+      "name": "CeALSe",
+      "date_registered": "2025-08-11T05:13:55.308Z"
     }
   },
   "chats": {
@@ -261,7 +268,8 @@
     "8074968487": {},
     "7454983978": {},
     "7028735774": {},
-    "8190422942": {}
+    "8190422942": {},
+    "7175750329": {}
   },
   "settings": {
     "7725099858": {}
