@@ -427,6 +427,13 @@
       "username": "MaryaaSigenn",
       "name": "Soraaaa.",
       "date_registered": "2025-08-11T09:59:15.721Z"
+    },
+    "7750822935": {
+      "saldo": 0,
+      "registered": true,
+      "username": "romistore02",
+      "name": "ROMI",
+      "date_registered": "2025-08-11T09:59:58.538Z"
     }
   },
   "chats": {
@@ -460,7 +467,8 @@
     "6003868195": {},
     "8088682497": {},
     "7884090004": {},
-    "5769688712": {}
+    "5769688712": {},
+    "7750822935": {}
   },
   "settings": {
     "7725099858": {}
