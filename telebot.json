@@ -386,7 +386,7 @@
       "date_registered": "2025-08-11T09:11:49.541Z"
     },
     "8088682497": {
-      "saldo": 7000,
+      "saldo": 0,
       "registered": true,
       "username": "alfianazhraa",
       "name": "a",
@@ -400,7 +400,19 @@
           "tanggal": "2025-08-11T09:43:20.625Z"
         }
       ],
-      "total_deposit": 7000
+      "total_deposit": 7000,
+      "panels": [
+        {
+          "id": 12,
+          "username": "shezzkz",
+          "ram": 6000,
+          "disk": 6500,
+          "cpu": 140,
+          "tokenGaransi": "RISSG-70B2A8F18EE0",
+          "expireGaransi": 1756633479619,
+          "createdAt": 1754905479619
+        }
+      ]
     }
   },
   "chats": {
