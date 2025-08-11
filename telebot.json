@@ -617,18 +617,10 @@
       "name": "Zerone",
       "date_registered": "2025-08-11T17:03:05.563Z",
       "waiting_custom_deposit": false,
-      "status_deposit": {
-        "id": "710826D918",
-        "nominal": 1000,
-        "totalnominal": 1102,
-        "status": true,
-        "expired": "2025-08-11T17:46:26.246Z",
-        "message_id": 2789
-      },
       "deposit_history": [
         {
           "nominal": 1000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "710826D918",
           "tanggal": "2025-08-11T17:16:26.361Z"
         }
