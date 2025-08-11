@@ -518,6 +518,13 @@
       "username": "shinoctav",
       "name": "⏤͟͟͞͞Kyoo Liebert.",
       "date_registered": "2025-08-11T11:16:05.725Z"
+    },
+    "7498242749": {
+      "saldo": 0,
+      "registered": true,
+      "username": null,
+      "name": "gatau ah",
+      "date_registered": "2025-08-11T11:30:58.074Z"
     }
   },
   "chats": {
@@ -564,7 +571,8 @@
     "5911437084": {},
     "7552429604": {},
     "7376987432": {},
-    "7024202849": {}
+    "7024202849": {},
+    "7498242749": {}
   },
   "settings": {
     "7725099858": {}
