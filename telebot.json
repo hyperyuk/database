@@ -532,6 +532,13 @@
       "username": "Rinnkzl",
       "name": "RinnEnigma",
       "date_registered": "2025-08-11T11:46:33.435Z"
+    },
+    "7517222112": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Ditzajeya",
+      "name": "ADITYA",
+      "date_registered": "2025-08-11T12:52:03.812Z"
     }
   },
   "chats": {
@@ -580,7 +587,8 @@
     "7376987432": {},
     "7024202849": {},
     "7498242749": {},
-    "8055801247": {}
+    "8055801247": {},
+    "7517222112": {}
   },
   "settings": {
     "7725099858": {}
