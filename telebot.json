@@ -511,6 +511,13 @@
       "username": "puqylebar",
       "name": "alif",
       "date_registered": "2025-08-11T11:13:20.898Z"
+    },
+    "7024202849": {
+      "saldo": 0,
+      "registered": true,
+      "username": "shinoctav",
+      "name": "⏤͟͟͞͞Kyoo Liebert.",
+      "date_registered": "2025-08-11T11:16:05.725Z"
     }
   },
   "chats": {
@@ -556,7 +563,8 @@
     "8196652052": {},
     "5911437084": {},
     "7552429604": {},
-    "7376987432": {}
+    "7376987432": {},
+    "7024202849": {}
   },
   "settings": {
     "7725099858": {}
