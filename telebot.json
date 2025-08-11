@@ -334,9 +334,15 @@
         "nama": "RUKA MD PREMIUM",
         "harga": 70000,
         "desk": "FREE UPDATE FULL & NO ENC FITUR",
-        "stok": 0,
+        "stok": 100,
         "terjual": 0,
-        "stockHistory": []
+        "stockHistory": [
+          {
+            "timestamp": "2025-08-11T06:35:38.953Z",
+            "amount": 100,
+            "info": "SILAHKAN CHAT t.me/rissofc DAN BAWA BUKTI TRANSAKSI"
+          }
+        ]
       }
     }
   }
