@@ -390,7 +390,8 @@
       "registered": true,
       "username": "alfianazhraa",
       "name": "a",
-      "date_registered": "2025-08-11T09:42:15.201Z"
+      "date_registered": "2025-08-11T09:42:15.201Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
