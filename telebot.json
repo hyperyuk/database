@@ -525,6 +525,13 @@
       "username": null,
       "name": "gatau ah",
       "date_registered": "2025-08-11T11:30:58.074Z"
+    },
+    "8055801247": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Rinnkzl",
+      "name": "RinnEnigma",
+      "date_registered": "2025-08-11T11:46:33.435Z"
     }
   },
   "chats": {
@@ -572,7 +579,8 @@
     "7552429604": {},
     "7376987432": {},
     "7024202849": {},
-    "7498242749": {}
+    "7498242749": {},
+    "8055801247": {}
   },
   "settings": {
     "7725099858": {}
