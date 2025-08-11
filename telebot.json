@@ -609,6 +609,13 @@
       "username": null,
       "name": "Shinoo",
       "date_registered": "2025-08-11T16:45:28.832Z"
+    },
+    "7716690774": {
+      "saldo": 0,
+      "registered": true,
+      "username": "zeroneofficial",
+      "name": "Zerone",
+      "date_registered": "2025-08-11T17:03:05.563Z"
     }
   },
   "chats": {
@@ -668,7 +675,8 @@
     "8129974973": {},
     "7804951651": {},
     "8310844929": {},
-    "6917093768": {}
+    "6917093768": {},
+    "7716690774": {}
   },
   "settings": {
     "7725099858": {}
