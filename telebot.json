@@ -391,7 +391,23 @@
       "username": "alfianazhraa",
       "name": "a",
       "date_registered": "2025-08-11T09:42:15.201Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "FB6FBB66B2",
+        "nominal": 7000,
+        "totalnominal": 7133,
+        "status": true,
+        "expired": "2025-08-11T10:13:20.517Z",
+        "message_id": 2668
+      },
+      "deposit_history": [
+        {
+          "nominal": 7000,
+          "status": "pending",
+          "id": "FB6FBB66B2",
+          "tanggal": "2025-08-11T09:43:20.625Z"
+        }
+      ]
     }
   },
   "chats": {
