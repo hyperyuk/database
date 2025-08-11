@@ -581,6 +581,13 @@
       "username": "Hannzz_store",
       "name": "Hazz",
       "date_registered": "2025-08-11T13:58:51.766Z"
+    },
+    "8129974973": {
+      "saldo": 0,
+      "registered": true,
+      "username": "nisakangpp",
+      "name": "NISA KANG PP",
+      "date_registered": "2025-08-11T14:22:40.957Z"
     }
   },
   "chats": {
@@ -636,7 +643,8 @@
     "6295203265": {},
     "7978217370": {},
     "8133131006": {},
-    "6926184786": {}
+    "6926184786": {},
+    "8129974973": {}
   },
   "settings": {
     "7725099858": {}
