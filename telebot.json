@@ -799,18 +799,10 @@
       "name": "Yanzz",
       "date_registered": "2025-08-12T12:16:04.165Z",
       "waiting_custom_deposit": false,
-      "status_deposit": {
-        "id": "8A4EBF7372",
-        "nominal": 25000,
-        "totalnominal": 25060,
-        "status": true,
-        "expired": "2025-08-12T13:00:50.597Z",
-        "message_id": 2898
-      },
       "deposit_history": [
         {
           "nominal": 25000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "8A4EBF7372",
           "tanggal": "2025-08-12T12:30:50.712Z"
         }
