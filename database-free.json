@@ -1,18 +1,6 @@
 {
   "akses": [
     {
-      "nomor": "6285692427651",
-      "key": "JIDANDONGO",
-      "createdAt": "2025-08-11T16:12:53.869Z",
-      "expiredAt": "2025-08-12T16:12:53.869Z"
-    },
-    {
-      "nomor": "6283121881622",
-      "key": "MetroPedia",
-      "createdAt": "2025-08-11T16:28:42.661Z",
-      "expiredAt": "2025-08-12T16:28:42.661Z"
-    },
-    {
       "nomor": "6283893616868",
       "key": "Hanzoffc",
       "createdAt": "2025-08-11T17:46:12.686Z",
