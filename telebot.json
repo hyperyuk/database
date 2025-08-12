@@ -863,6 +863,13 @@
       "username": "dikz_store2",
       "name": "Dikz store",
       "date_registered": "2025-08-12T13:37:46.446Z"
+    },
+    "8466831007": {
+      "saldo": 0,
+      "registered": true,
+      "username": "toweird2hate",
+      "name": "Faze",
+      "date_registered": "2025-08-12T14:34:53.543Z"
     }
   },
   "chats": {
@@ -954,7 +961,8 @@
     "7611660737": {},
     "5725035239": {},
     "6680633494": {},
-    "7249383379": {}
+    "7249383379": {},
+    "8466831007": {}
   },
   "settings": {
     "7725099858": {}
