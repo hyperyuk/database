@@ -756,6 +756,13 @@
       "username": "pajarzzyy",
       "name": "pajarzzyy",
       "date_registered": "2025-08-12T04:58:04.333Z"
+    },
+    "7912624766": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Aflahas",
+      "name": "Aflah",
+      "date_registered": "2025-08-12T08:06:54.283Z"
     }
   },
   "chats": {
@@ -833,7 +840,8 @@
     "7827835684": {},
     "8097372844": {},
     "7558429033": {},
-    "6437908896": {}
+    "6437908896": {},
+    "7912624766": {}
   },
   "settings": {
     "7725099858": {}
