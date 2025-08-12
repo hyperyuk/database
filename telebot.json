@@ -667,6 +667,13 @@
       "username": null,
       "name": "M",
       "date_registered": "2025-08-12T00:15:28.445Z"
+    },
+    "8254528295": {
+      "saldo": 0,
+      "registered": true,
+      "username": "real_freelance3",
+      "name": "Anggel busines freelance 💋",
+      "date_registered": "2025-08-12T01:12:55.309Z"
     }
   },
   "chats": {
@@ -733,7 +740,8 @@
     "8195102256": {},
     "5227322660": {},
     "7165936672": {},
-    "8229995222": {}
+    "8229995222": {},
+    "8254528295": {}
   },
   "settings": {
     "7725099858": {}
