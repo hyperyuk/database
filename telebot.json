@@ -75,7 +75,26 @@
           "createdAt": 1754712549290
         }
       ],
-      "total_deposit": 100
+      "total_deposit": 100,
+      "topup": {
+        "status": false,
+        "code": "DANA50",
+        "product": {
+          "code": "DANA50",
+          "name": "DANA 50.000",
+          "category": "E-Money",
+          "type": "Umum",
+          "provider": "DANA",
+          "brand_status": "1",
+          "price": "50190",
+          "note": "Admin 500",
+          "status": "available",
+          "img_url": "https://s3.atlantic-pedia.co.id/1699689351_ded0d1c4f340b997359e.png"
+        },
+        "kategori": null,
+        "price": 57719,
+        "waktu": 1754989729381
+      }
     },
     "7723752876": {
       "saldo": 232,
