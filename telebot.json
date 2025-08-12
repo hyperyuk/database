@@ -946,7 +946,8 @@
       "registered": true,
       "username": null,
       "name": "Dapa",
-      "date_registered": "2025-08-12T22:56:41.832Z"
+      "date_registered": "2025-08-12T22:56:41.832Z",
+      "waiting_custom_deposit": false
     }
   },
   "chats": {
