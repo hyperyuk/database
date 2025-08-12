@@ -22,7 +22,7 @@
       "date_registered": "2025-08-11T10:37:08.854Z"
     },
     "7458699573": {
-      "saldo": 862024,
+      "saldo": 804305,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -77,7 +77,7 @@
       ],
       "total_deposit": 100,
       "topup": {
-        "status": false,
+        "status": true,
         "code": "DANA50",
         "product": {
           "code": "DANA50",
@@ -94,7 +94,9 @@
         "kategori": null,
         "price": 57719,
         "waktu": 1754989729381,
-        "target": "085643241592"
+        "target": "085643241592",
+        "reff_id": "TOPUP-1754989743997",
+        "transaction_id": "K6mgcF9hBQNXrvySxOV8"
       }
     },
     "7723752876": {
