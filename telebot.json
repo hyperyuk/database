@@ -583,11 +583,23 @@
       "date_registered": "2025-08-11T13:58:51.766Z"
     },
     "8129974973": {
-      "saldo": 11000,
+      "saldo": 0,
       "registered": true,
       "username": "nisakangpp",
       "name": "NISA KANG PP",
-      "date_registered": "2025-08-11T14:22:40.957Z"
+      "date_registered": "2025-08-11T14:22:40.957Z",
+      "panels": [
+        {
+          "id": 13,
+          "username": "nisa",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-A09FF9501AAB",
+          "expireGaransi": 1756696929623,
+          "createdAt": 1754968929623
+        }
+      ]
     },
     "7804951651": {
       "saldo": 0,
