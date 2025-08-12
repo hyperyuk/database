@@ -797,7 +797,8 @@
       "registered": true,
       "username": "yanzzmarket",
       "name": "Yanzz",
-      "date_registered": "2025-08-12T12:16:04.165Z"
+      "date_registered": "2025-08-12T12:16:04.165Z",
+      "waiting_custom_deposit": true
     },
     "7412146346": {
       "saldo": 0,
