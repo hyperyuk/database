@@ -749,6 +749,13 @@
       "username": "dika_only",
       "name": "Fra",
       "date_registered": "2025-08-12T04:47:20.485Z"
+    },
+    "6437908896": {
+      "saldo": 0,
+      "registered": true,
+      "username": "pajarzzyy",
+      "name": "pajarzzyy",
+      "date_registered": "2025-08-12T04:58:04.333Z"
     }
   },
   "chats": {
@@ -825,7 +832,8 @@
     "6519508584": {},
     "7827835684": {},
     "8097372844": {},
-    "7558429033": {}
+    "7558429033": {},
+    "6437908896": {}
   },
   "settings": {
     "7725099858": {}
