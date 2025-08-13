@@ -991,8 +991,14 @@
       "name": "Yanz",
       "date_registered": "2025-08-13T11:32:10.385Z",
       "depositManual": null,
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
+        {
+          "nominal": 4000,
+          "status": "pending",
+          "id": "F2865D1F81",
+          "tanggal": "2025-08-13T12:34:37.924Z"
+        },
         {
           "nominal": 3851,
           "status": "success",
@@ -1001,7 +1007,15 @@
         }
       ],
       "total_deposit": 3851,
-      "nokos": []
+      "nokos": [],
+      "status_deposit": {
+        "id": "F2865D1F81",
+        "nominal": 4000,
+        "totalnominal": 4095,
+        "status": true,
+        "expired": "2025-08-13T13:04:37.817Z",
+        "message_id": 3001
+      }
     }
   },
   "chats": {
