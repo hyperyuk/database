@@ -986,7 +986,7 @@
       "date_registered": "2025-08-13T11:04:39.753Z"
     },
     "6857483002": {
-      "saldo": 4111,
+      "saldo": 260,
       "registered": true,
       "username": "yanzzxbo",
       "name": "Yanz",
@@ -1014,7 +1014,21 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": [],
+      "nokos": [
+        {
+          "id": 32470709,
+          "number": "6285831438394",
+          "country": "Indonesia",
+          "operator": "byu",
+          "service": "Whatsapp",
+          "price": 3851,
+          "otpSent": [],
+          "time": "2025-08-13T14:19:17.354Z",
+          "expiresAt": 1755095957355,
+          "otpSentLast": "",
+          "pendingSent": true
+        }
+      ],
       "topup": {
         "status": false,
         "code": "FF50",
