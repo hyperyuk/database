@@ -97,21 +97,7 @@
         }
       ],
       "total_deposit": 100,
-      "nokos": [
-        {
-          "id": 32465715,
-          "number": "6282298378997",
-          "country": "Indonesia",
-          "operator": "any",
-          "service": "Discord",
-          "price": 1676,
-          "otpSent": [],
-          "time": "2025-08-13T13:11:00.898Z",
-          "expiresAt": 1755091860898,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     },
     "7723752876": {
       "saldo": 232,
