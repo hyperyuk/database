@@ -1014,21 +1014,7 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": [
-        {
-          "id": 32468487,
-          "number": "639519260793",
-          "country": "Philippines",
-          "operator": "smart",
-          "service": "Whatsapp",
-          "price": 4740,
-          "otpSent": [],
-          "time": "2025-08-13T13:45:30.209Z",
-          "expiresAt": 1755093930209,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ],
+      "nokos": [],
       "topup": {
         "status": false,
         "code": "FF50",
