@@ -955,6 +955,13 @@
       "name": "Dapa",
       "date_registered": "2025-08-12T22:56:41.832Z",
       "waiting_custom_deposit": false
+    },
+    "7590443394": {
+      "saldo": 0,
+      "registered": true,
+      "username": "muhfiqrihusain",
+      "name": "Muh",
+      "date_registered": "2025-08-13T02:32:07.325Z"
     }
   },
   "chats": {
@@ -1059,7 +1066,8 @@
     "7740091628": {},
     "6944781184": {},
     "6974218238": {},
-    "8339166156": {}
+    "8339166156": {},
+    "7590443394": {}
   },
   "settings": {
     "7725099858": {}
