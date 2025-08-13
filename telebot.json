@@ -983,7 +983,8 @@
       "username": "yanzzxbo",
       "name": "Yanz",
       "date_registered": "2025-08-13T11:32:10.385Z",
-      "depositManual": null
+      "depositManual": null,
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
