@@ -986,7 +986,7 @@
       "date_registered": "2025-08-13T11:04:39.753Z"
     },
     "6857483002": {
-      "saldo": 8851,
+      "saldo": 4111,
       "registered": true,
       "username": "yanzzxbo",
       "name": "Yanz",
@@ -1014,7 +1014,19 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": [],
+      "nokos": [
+        {
+          "id": 32468487,
+          "number": "639519260793",
+          "country": "Philippines",
+          "operator": "smart",
+          "service": "Whatsapp",
+          "price": 4740,
+          "otpSent": [],
+          "time": "2025-08-13T13:45:30.209Z",
+          "expiresAt": 1755093930209
+        }
+      ],
       "topup": {
         "status": false,
         "code": "FF50",
