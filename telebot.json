@@ -978,29 +978,22 @@
       "date_registered": "2025-08-13T11:04:39.753Z"
     },
     "6857483002": {
-      "saldo": 0,
+      "saldo": 3851,
       "registered": true,
       "username": "yanzzxbo",
       "name": "Yanz",
       "date_registered": "2025-08-13T11:32:10.385Z",
       "depositManual": null,
       "waiting_custom_deposit": false,
-      "status_deposit": {
-        "id": "5841414BD6",
-        "nominal": 3851,
-        "totalnominal": 3873,
-        "status": true,
-        "expired": "2025-08-13T12:22:04.181Z",
-        "message_id": 2979
-      },
       "deposit_history": [
         {
           "nominal": 3851,
-          "status": "pending",
+          "status": "success",
           "id": "5841414BD6",
           "tanggal": "2025-08-13T11:52:04.293Z"
         }
-      ]
+      ],
+      "total_deposit": 3851
     }
   },
   "chats": {
