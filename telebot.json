@@ -1014,7 +1014,26 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": []
+      "nokos": [],
+      "topup": {
+        "status": false,
+        "code": "FF50",
+        "product": {
+          "code": "FF50",
+          "name": "Free Fire 50 Diamond",
+          "category": "Games",
+          "type": "Umum",
+          "provider": "FREE FIRE",
+          "brand_status": "1",
+          "price": "7289",
+          "note": "Free Fire 50 Diamond",
+          "status": "available",
+          "img_url": "https://s3.atlantic-pedia.co.id/1712125176_da20717be3730fdc32cb.png"
+        },
+        "kategori": null,
+        "price": 8382,
+        "waktu": 1755092067460
+      }
     }
   },
   "chats": {
