@@ -991,8 +991,14 @@
       "name": "Yanz",
       "date_registered": "2025-08-13T11:32:10.385Z",
       "depositManual": null,
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
+        {
+          "nominal": 1000,
+          "status": "pending",
+          "id": "0B575B136F",
+          "tanggal": "2025-08-13T12:44:22.384Z"
+        },
         {
           "nominal": 4000,
           "status": "success",
@@ -1020,7 +1026,15 @@
           "expiresAt": 1755089821688,
           "otpSentLast": ""
         }
-      ]
+      ],
+      "status_deposit": {
+        "id": "0B575B136F",
+        "nominal": 1000,
+        "totalnominal": 1126,
+        "status": true,
+        "expired": "2025-08-13T13:14:22.287Z",
+        "message_id": 3023
+      }
     }
   },
   "chats": {
