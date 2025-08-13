@@ -969,6 +969,13 @@
       "username": "Zenithor99",
       "name": "Zenithor 🆙",
       "date_registered": "2025-08-13T03:46:51.269Z"
+    },
+    "6436713951": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Fahrilkagenou",
+      "name": "Fahrilsikma",
+      "date_registered": "2025-08-13T11:04:39.753Z"
     }
   },
   "chats": {
@@ -1075,7 +1082,8 @@
     "6974218238": {},
     "8339166156": {},
     "7590443394": {},
-    "8392082209": {}
+    "8392082209": {},
+    "6436713951": {}
   },
   "settings": {
     "7725099858": {}
