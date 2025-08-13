@@ -962,6 +962,13 @@
       "username": "muhfiqrihusain",
       "name": "Muh",
       "date_registered": "2025-08-13T02:32:07.325Z"
+    },
+    "8392082209": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Zenithor99",
+      "name": "Zenithor 🆙",
+      "date_registered": "2025-08-13T03:46:51.269Z"
     }
   },
   "chats": {
@@ -1067,7 +1074,8 @@
     "6944781184": {},
     "6974218238": {},
     "8339166156": {},
-    "7590443394": {}
+    "7590443394": {},
+    "8392082209": {}
   },
   "settings": {
     "7725099858": {}
