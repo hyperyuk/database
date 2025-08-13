@@ -976,6 +976,13 @@
       "username": "Fahrilkagenou",
       "name": "Fahrilsikma",
       "date_registered": "2025-08-13T11:04:39.753Z"
+    },
+    "6857483002": {
+      "saldo": 0,
+      "registered": true,
+      "username": "yanzzxbo",
+      "name": "Yanz",
+      "date_registered": "2025-08-13T11:32:10.385Z"
     }
   },
   "chats": {
@@ -1083,7 +1090,8 @@
     "8339166156": {},
     "7590443394": {},
     "8392082209": {},
-    "6436713951": {}
+    "6436713951": {},
+    "6857483002": {}
   },
   "settings": {
     "7725099858": {}
