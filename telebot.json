@@ -986,7 +986,7 @@
       "date_registered": "2025-08-13T11:04:39.753Z"
     },
     "6857483002": {
-      "saldo": 5000,
+      "saldo": 8851,
       "registered": true,
       "username": "yanzzxbo",
       "name": "Yanz",
@@ -1014,21 +1014,7 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": [
-        {
-          "id": 32466471,
-          "number": "6282160298390",
-          "country": "Indonesia",
-          "operator": "telkomsel",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [],
-          "time": "2025-08-13T13:18:22.340Z",
-          "expiresAt": 1755092302340,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
