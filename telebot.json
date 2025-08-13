@@ -985,7 +985,7 @@
       "date_registered": "2025-08-13T11:04:39.753Z"
     },
     "6857483002": {
-      "saldo": 7851,
+      "saldo": 3854,
       "registered": true,
       "username": "yanzzxbo",
       "name": "Yanz",
@@ -1007,7 +1007,19 @@
         }
       ],
       "total_deposit": 7851,
-      "nokos": []
+      "nokos": [
+        {
+          "id": 32463975,
+          "number": "6285800726037",
+          "country": "Indonesia",
+          "operator": "indosat",
+          "service": "Whatsapp",
+          "price": 3997,
+          "otpSent": [],
+          "time": "2025-08-13T12:37:01.688Z",
+          "expiresAt": 1755089821688
+        }
+      ]
     }
   },
   "chats": {
