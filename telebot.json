@@ -1014,26 +1014,7 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": [
-        {
-          "id": 32470709,
-          "number": "6285831438394",
-          "country": "Indonesia",
-          "operator": "byu",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [
-            {
-              "msg": "391782"
-            }
-          ],
-          "time": "2025-08-13T14:19:17.354Z",
-          "expiresAt": 1755095957355,
-          "otpSentLast": "391782",
-          "pendingSent": true,
-          "successSent": true
-        }
-      ],
+      "nokos": [],
       "topup": {
         "status": false,
         "code": "FF50",
