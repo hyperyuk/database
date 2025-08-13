@@ -983,11 +983,7 @@
       "username": "yanzzxbo",
       "name": "Yanz",
       "date_registered": "2025-08-13T11:32:10.385Z",
-      "depositManual": {
-        "id": "DEP1755085822896",
-        "metode": "dana",
-        "step": "waiting_photo"
-      }
+      "depositManual": null
     }
   },
   "chats": {
