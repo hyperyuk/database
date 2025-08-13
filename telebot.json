@@ -985,7 +985,7 @@
       "date_registered": "2025-08-13T11:04:39.753Z"
     },
     "6857483002": {
-      "saldo": 3851,
+      "saldo": 7851,
       "registered": true,
       "username": "yanzzxbo",
       "name": "Yanz",
@@ -995,7 +995,7 @@
       "deposit_history": [
         {
           "nominal": 4000,
-          "status": "pending",
+          "status": "success",
           "id": "F2865D1F81",
           "tanggal": "2025-08-13T12:34:37.924Z"
         },
@@ -1006,16 +1006,8 @@
           "tanggal": "2025-08-13T11:52:04.293Z"
         }
       ],
-      "total_deposit": 3851,
-      "nokos": [],
-      "status_deposit": {
-        "id": "F2865D1F81",
-        "nominal": 4000,
-        "totalnominal": 4095,
-        "status": true,
-        "expired": "2025-08-13T13:04:37.817Z",
-        "message_id": 3001
-      }
+      "total_deposit": 7851,
+      "nokos": []
     }
   },
   "chats": {
