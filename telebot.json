@@ -1013,21 +1013,7 @@
         }
       ],
       "total_deposit": 8851,
-      "nokos": [
-        {
-          "id": 32464753,
-          "number": "6285864742590",
-          "country": "Indonesia",
-          "operator": "indosat",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [],
-          "time": "2025-08-13T12:52:40.427Z",
-          "expiresAt": 1755090760427,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     }
   },
   "chats": {
