@@ -483,7 +483,8 @@
       "registered": true,
       "username": "zeoxwy",
       "name": "Ze",
-      "date_registered": "2025-08-11T10:19:52.106Z"
+      "date_registered": "2025-08-11T10:19:52.106Z",
+      "waiting_custom_deposit": true
     },
     "6891404153": {
       "saldo": 0,
