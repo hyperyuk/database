@@ -43,7 +43,7 @@
       "date_registered": "2025-08-13T11:56:29.446Z"
     },
     "7458699573": {
-      "saldo": 802629,
+      "saldo": 772629,
       "registered": true,
       "username": "rissofc",
       "name": "Ris",
@@ -1204,8 +1204,8 @@
         "nama": "DISKON! SC NOKOS VIRTU",
         "harga": 30000,
         "desk": "NO ENC 100%\nNO UPDATE\nREVIEW: https://youtu.be/xlWQ55AmQsg?si=8JinVVx2rgdfBAhY",
-        "stok": 9,
-        "terjual": 1,
+        "stok": 8,
+        "terjual": 2,
         "stockHistory": [
           {
             "timestamp": "2025-08-08T11:04:35.422Z",
