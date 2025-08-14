@@ -1079,6 +1079,13 @@
       "username": "davinacantik",
       "name": "davinaaaaaaaaa di panggil nengokkk",
       "date_registered": "2025-08-14T07:29:20.879Z"
+    },
+    "8033102152": {
+      "saldo": 0,
+      "registered": true,
+      "username": null,
+      "name": "kiboooo",
+      "date_registered": "2025-08-14T16:07:33.288Z"
     }
   },
   "chats": {
@@ -1193,7 +1200,8 @@
     "7447922220": {},
     "6026490109": {},
     "7884792174": {},
-    "7295560711": {}
+    "7295560711": {},
+    "8033102152": {}
   },
   "settings": {
     "7725099858": {}
