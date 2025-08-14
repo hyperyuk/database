@@ -484,7 +484,23 @@
       "username": "zeoxwy",
       "name": "Ze",
       "date_registered": "2025-08-11T10:19:52.106Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "4FD899C197",
+        "nominal": 5000,
+        "totalnominal": 5010,
+        "status": true,
+        "expired": "2025-08-14T04:12:56.850Z",
+        "message_id": 3227
+      },
+      "deposit_history": [
+        {
+          "nominal": 5000,
+          "status": "pending",
+          "id": "4FD899C197",
+          "tanggal": "2025-08-14T03:42:56.960Z"
+        }
+      ]
     },
     "6891404153": {
       "saldo": 0,
