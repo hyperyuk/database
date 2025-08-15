@@ -506,26 +506,7 @@
         }
       ],
       "total_deposit": 4636,
-      "nokos": [
-        {
-          "id": 32606657,
-          "number": "62895320617281",
-          "country": "Indonesia",
-          "operator": "three",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [
-            {
-              "msg": "461961"
-            }
-          ],
-          "time": "2025-08-15T04:32:27.342Z",
-          "expiresAt": 1755233547342,
-          "otpSentLast": "461961",
-          "pendingSent": true,
-          "successSent": true
-        }
-      ]
+      "nokos": []
     },
     "6891404153": {
       "saldo": 0,
