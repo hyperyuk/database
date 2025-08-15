@@ -479,7 +479,7 @@
       "date_registered": "2025-08-11T10:16:52.178Z"
     },
     "5767432972": {
-      "saldo": 785,
+      "saldo": 4636,
       "registered": true,
       "username": "zeoxwy",
       "name": "Ze",
@@ -506,21 +506,7 @@
         }
       ],
       "total_deposit": 4636,
-      "nokos": [
-        {
-          "id": 32606314,
-          "number": "6285800799517",
-          "country": "Indonesia",
-          "operator": "indosat",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [],
-          "time": "2025-08-15T04:29:19.954Z",
-          "expiresAt": 1755233359954,
-          "otpSentLast": "",
-          "pendingSent": true
-        }
-      ]
+      "nokos": []
     },
     "6891404153": {
       "saldo": 0,
