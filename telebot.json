@@ -1128,6 +1128,13 @@
       "name": "Boutouraby",
       "date_registered": "2025-08-15T01:57:49.987Z",
       "waiting_custom_deposit": false
+    },
+    "6918729990": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Tapirsubuhkopi",
+      "name": "入",
+      "date_registered": "2025-08-15T04:34:17.847Z"
     }
   },
   "chats": {
@@ -1244,7 +1251,8 @@
     "7884792174": {},
     "7295560711": {},
     "8033102152": {},
-    "7935970762": {}
+    "7935970762": {},
+    "6918729990": {}
   },
   "settings": {
     "7725099858": {}
