@@ -479,7 +479,7 @@
       "date_registered": "2025-08-11T10:16:52.178Z"
     },
     "5767432972": {
-      "saldo": 4636,
+      "saldo": 785,
       "registered": true,
       "username": "zeoxwy",
       "name": "Ze",
@@ -506,7 +506,21 @@
         }
       ],
       "total_deposit": 4636,
-      "nokos": []
+      "nokos": [
+        {
+          "id": 32606657,
+          "number": "62895320617281",
+          "country": "Indonesia",
+          "operator": "three",
+          "service": "Whatsapp",
+          "price": 3851,
+          "otpSent": [],
+          "time": "2025-08-15T04:32:27.342Z",
+          "expiresAt": 1755233547342,
+          "otpSentLast": "",
+          "pendingSent": true
+        }
+      ]
     },
     "6891404153": {
       "saldo": 0,
