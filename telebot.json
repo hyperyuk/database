@@ -488,7 +488,7 @@
       "deposit_history": [
         {
           "nominal": 4646,
-          "status": "pending",
+          "status": "cancelled",
           "id": "9A390BFB12",
           "tanggal": "2025-08-15T04:25:07.857Z"
         },
@@ -498,15 +498,7 @@
           "id": "4FD899C197",
           "tanggal": "2025-08-14T03:42:56.960Z"
         }
-      ],
-      "status_deposit": {
-        "id": "9A390BFB12",
-        "nominal": 4646,
-        "totalnominal": 4693,
-        "status": true,
-        "expired": "2025-08-15T04:55:07.744Z",
-        "message_id": 3273
-      }
+      ]
     },
     "6891404153": {
       "saldo": 0,
