@@ -1093,7 +1093,7 @@
       "username": null,
       "name": "Boutouraby",
       "date_registered": "2025-08-15T01:57:49.987Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false
     }
   },
   "chats": {
