@@ -479,7 +479,7 @@
       "date_registered": "2025-08-11T10:16:52.178Z"
     },
     "5767432972": {
-      "saldo": 0,
+      "saldo": 4636,
       "registered": true,
       "username": "zeoxwy",
       "name": "Ze",
@@ -488,7 +488,7 @@
       "deposit_history": [
         {
           "nominal": 4636,
-          "status": "pending",
+          "status": "success",
           "id": "7C0047697E",
           "tanggal": "2025-08-15T04:25:34.445Z"
         },
@@ -505,14 +505,7 @@
           "tanggal": "2025-08-14T03:42:56.960Z"
         }
       ],
-      "status_deposit": {
-        "id": "7C0047697E",
-        "nominal": 4636,
-        "totalnominal": 4705,
-        "status": true,
-        "expired": "2025-08-15T04:55:34.341Z",
-        "message_id": 3278
-      }
+      "total_deposit": 4636
     },
     "6891404153": {
       "saldo": 0,
