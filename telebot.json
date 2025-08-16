@@ -1173,18 +1173,10 @@
       "name": "𝐂𝐘𝐓 ☬胸愛好家",
       "date_registered": "2025-08-16T04:04:28.578Z",
       "waiting_custom_deposit": false,
-      "status_deposit": {
-        "id": "32EC63ACB4",
-        "nominal": 5000,
-        "totalnominal": 5005,
-        "status": true,
-        "expired": "2025-08-16T04:35:56.377Z",
-        "message_id": 3340
-      },
       "deposit_history": [
         {
           "nominal": 5000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "32EC63ACB4",
           "tanggal": "2025-08-16T04:05:56.490Z"
         }
