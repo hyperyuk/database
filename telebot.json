@@ -1190,7 +1190,7 @@
       "date_registered": "2025-08-16T07:06:02.878Z"
     },
     "7609803857": {
-      "saldo": 30000,
+      "saldo": 0,
       "registered": true,
       "username": "Lollaaass",
       "name": "Nebula",
@@ -1343,8 +1343,8 @@
         "nama": "DISKON! SC NOKOS VIRTU",
         "harga": 30000,
         "desk": "NO ENC 100%\nNO UPDATE\nREVIEW: https://youtu.be/xlWQ55AmQsg?si=8JinVVx2rgdfBAhY",
-        "stok": 8,
-        "terjual": 2,
+        "stok": 7,
+        "terjual": 3,
         "stockHistory": [
           {
             "timestamp": "2025-08-08T11:04:35.422Z",
