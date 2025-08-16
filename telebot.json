@@ -1195,7 +1195,22 @@
       "username": "Lollaaass",
       "name": "Nebula",
       "date_registered": "2025-08-16T07:29:11.690Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "8A3AD2297C",
+        "nominal": 30000,
+        "totalnominal": 30019,
+        "status": true,
+        "expired": "2025-08-16T08:05:04.244Z"
+      },
+      "deposit_history": [
+        {
+          "nominal": 30000,
+          "status": "pending",
+          "id": "8A3AD2297C",
+          "tanggal": "2025-08-16T07:35:04.357Z"
+        }
+      ]
     }
   },
   "chats": {
