@@ -1199,7 +1199,7 @@
       "deposit_history": [
         {
           "nominal": 3000,
-          "status": "pending",
+          "status": "cancelled",
           "id": "1D4DA6D143",
           "tanggal": "2025-08-16T07:56:07.399Z"
         },
@@ -1210,15 +1210,7 @@
           "tanggal": "2025-08-16T07:35:04.357Z"
         }
       ],
-      "total_deposit": 30000,
-      "status_deposit": {
-        "id": "1D4DA6D143",
-        "nominal": 3000,
-        "totalnominal": 3013,
-        "status": true,
-        "expired": "2025-08-16T08:26:07.276Z",
-        "message_id": 3368
-      }
+      "total_deposit": 30000
     }
   },
   "chats": {
