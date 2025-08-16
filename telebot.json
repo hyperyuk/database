@@ -1190,7 +1190,7 @@
       "date_registered": "2025-08-16T07:06:02.878Z"
     },
     "7609803857": {
-      "saldo": 5000,
+      "saldo": 0,
       "registered": true,
       "username": "Lollaaass",
       "name": "Nebula",
@@ -1216,7 +1216,19 @@
           "tanggal": "2025-08-16T07:35:04.357Z"
         }
       ],
-      "total_deposit": 35000
+      "total_deposit": 35000,
+      "panels": [
+        {
+          "id": 14,
+          "username": "yukiii",
+          "ram": 4000,
+          "disk": 4500,
+          "cpu": 100,
+          "tokenGaransi": "RISSG-0E607ADEAF76",
+          "expireGaransi": 1757059206547,
+          "createdAt": 1755331206547
+        }
+      ]
     }
   },
   "chats": {
