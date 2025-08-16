@@ -1195,7 +1195,7 @@
       "username": "Lollaaass",
       "name": "Nebula",
       "date_registered": "2025-08-16T07:29:11.690Z",
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "deposit_history": [
         {
           "nominal": 30000,
