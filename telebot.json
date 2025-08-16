@@ -1190,28 +1190,21 @@
       "date_registered": "2025-08-16T07:06:02.878Z"
     },
     "7609803857": {
-      "saldo": 0,
+      "saldo": 30000,
       "registered": true,
       "username": "Lollaaass",
       "name": "Nebula",
       "date_registered": "2025-08-16T07:29:11.690Z",
       "waiting_custom_deposit": false,
-      "status_deposit": {
-        "id": "8A3AD2297C",
-        "nominal": 30000,
-        "totalnominal": 30019,
-        "status": true,
-        "expired": "2025-08-16T08:05:04.244Z",
-        "message_id": 3354
-      },
       "deposit_history": [
         {
           "nominal": 30000,
-          "status": "pending",
+          "status": "success",
           "id": "8A3AD2297C",
           "tanggal": "2025-08-16T07:35:04.357Z"
         }
-      ]
+      ],
+      "total_deposit": 30000
     }
   },
   "chats": {
