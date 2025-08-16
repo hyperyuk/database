@@ -1198,6 +1198,12 @@
       "waiting_custom_deposit": false,
       "deposit_history": [
         {
+          "nominal": 5000,
+          "status": "pending",
+          "id": "778B8900C6",
+          "tanggal": "2025-08-16T07:57:47.485Z"
+        },
+        {
           "nominal": 3000,
           "status": "cancelled",
           "id": "1D4DA6D143",
@@ -1210,7 +1216,15 @@
           "tanggal": "2025-08-16T07:35:04.357Z"
         }
       ],
-      "total_deposit": 30000
+      "total_deposit": 30000,
+      "status_deposit": {
+        "id": "778B8900C6",
+        "nominal": 5000,
+        "totalnominal": 5059,
+        "status": true,
+        "expired": "2025-08-16T08:27:47.338Z",
+        "message_id": 3373
+      }
     }
   },
   "chats": {
