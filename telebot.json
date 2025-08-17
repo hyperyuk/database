@@ -1158,7 +1158,23 @@
       "username": "reexXavierr",
       "name": "rexx",
       "date_registered": "2025-08-15T12:55:13.461Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "6FA88EFC6B",
+        "nominal": 900,
+        "totalnominal": 955,
+        "status": true,
+        "expired": "2025-08-17T16:02:56.310Z",
+        "message_id": 3581
+      },
+      "deposit_history": [
+        {
+          "nominal": 900,
+          "status": "pending",
+          "id": "6FA88EFC6B",
+          "tanggal": "2025-08-17T15:32:56.422Z"
+        }
+      ]
     },
     "6174276181": {
       "saldo": 0,
