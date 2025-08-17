@@ -1327,6 +1327,13 @@
       "username": "biruyyzz",
       "name": "xyrell",
       "date_registered": "2025-08-17T14:33:38.685Z"
+    },
+    "7365056835": {
+      "saldo": 0,
+      "registered": true,
+      "username": "airudeskhaii",
+      "name": "airuu 4uu.",
+      "date_registered": "2025-08-17T14:43:50.419Z"
     }
   },
   "chats": {
@@ -1468,7 +1475,8 @@
     "7464679531": {},
     "8047810441": {},
     "6599102897": {},
-    "6134284535": {}
+    "6134284535": {},
+    "7365056835": {}
   },
   "settings": {
     "7725099858": {}
