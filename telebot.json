@@ -1427,6 +1427,13 @@
       "username": "RizkyoktavianCihuy",
       "name": "Rizky",
       "date_registered": "2025-08-18T13:04:33.449Z"
+    },
+    "7732381824": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Denistolkon",
+      "name": "Rapss",
+      "date_registered": "2025-08-18T14:08:13.872Z"
     }
   },
   "chats": {
@@ -1579,7 +1586,8 @@
     "6085580585": {},
     "6023932548": {},
     "7534701623": {},
-    "5824532358": {}
+    "5824532358": {},
+    "7732381824": {}
   },
   "settings": {
     "7725099858": {}
