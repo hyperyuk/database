@@ -224,8 +224,14 @@
       "username": null,
       "name": "Vanz",
       "date_registered": "2025-08-09T12:31:01.618Z",
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
+        {
+          "nominal": 3600,
+          "status": "pending",
+          "id": "A9520E7B42",
+          "tanggal": "2025-08-18T02:56:03.812Z"
+        },
         {
           "nominal": 3600,
           "status": "cancelled",
@@ -283,7 +289,15 @@
         "waktu": 1754744242549,
         "target": "0895343060408"
       },
-      "nokos": []
+      "nokos": [],
+      "status_deposit": {
+        "id": "A9520E7B42",
+        "nominal": 3600,
+        "totalnominal": 3750,
+        "status": true,
+        "expired": "2025-08-18T03:26:03.707Z",
+        "message_id": 3603
+      }
     },
     "7454983978": {
       "saldo": 0,
