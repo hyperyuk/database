@@ -884,7 +884,8 @@
       "registered": true,
       "username": null,
       "name": "fauzz",
-      "date_registered": "2025-08-12T12:18:00.143Z"
+      "date_registered": "2025-08-12T12:18:00.143Z",
+      "resellerExpired": 0
     },
     "7530314274": {
       "saldo": 0,
