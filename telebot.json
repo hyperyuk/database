@@ -1406,6 +1406,13 @@
       "username": "vvisualsc",
       "name": "S1kons78",
       "date_registered": "2025-08-18T12:57:24.912Z"
+    },
+    "6023932548": {
+      "saldo": 0,
+      "registered": true,
+      "username": "gisanosatlantic",
+      "name": "Y E O N",
+      "date_registered": "2025-08-18T12:59:53.719Z"
     }
   },
   "chats": {
@@ -1555,7 +1562,8 @@
     "7911707019": {},
     "7686430453": {},
     "6799950358": {},
-    "6085580585": {}
+    "6085580585": {},
+    "6023932548": {}
   },
   "settings": {
     "7725099858": {}
