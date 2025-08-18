@@ -1441,7 +1441,8 @@
       "registered": true,
       "username": "Tahapokhanam",
       "name": "Me",
-      "date_registered": "2025-08-18T17:34:52.469Z"
+      "date_registered": "2025-08-18T17:34:52.469Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
