@@ -886,11 +886,7 @@
       "name": "fauzz",
       "date_registered": "2025-08-12T12:18:00.143Z",
       "resellerExpired": 0,
-      "depositManual": {
-        "id": "DEP1755488758649",
-        "metode": "dana",
-        "step": "waiting_photo"
-      }
+      "depositManual": null
     },
     "7530314274": {
       "saldo": 0,
