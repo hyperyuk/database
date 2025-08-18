@@ -228,7 +228,7 @@
       "deposit_history": [
         {
           "nominal": 3600,
-          "status": "pending",
+          "status": "cancelled",
           "id": "A72D4E8042",
           "tanggal": "2025-08-18T02:55:38.500Z"
         },
@@ -283,15 +283,7 @@
         "waktu": 1754744242549,
         "target": "0895343060408"
       },
-      "nokos": [],
-      "status_deposit": {
-        "id": "A72D4E8042",
-        "nominal": 3600,
-        "totalnominal": 3718,
-        "status": true,
-        "expired": "2025-08-18T03:25:38.398Z",
-        "message_id": 3599
-      }
+      "nokos": []
     },
     "7454983978": {
       "saldo": 0,
