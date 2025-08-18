@@ -1413,6 +1413,13 @@
       "username": "gisanosatlantic",
       "name": "Y E O N",
       "date_registered": "2025-08-18T12:59:53.719Z"
+    },
+    "7534701623": {
+      "saldo": 0,
+      "registered": true,
+      "username": "yOfficialChx",
+      "name": "y",
+      "date_registered": "2025-08-18T13:02:45.082Z"
     }
   },
   "chats": {
@@ -1563,7 +1570,8 @@
     "7686430453": {},
     "6799950358": {},
     "6085580585": {},
-    "6023932548": {}
+    "6023932548": {},
+    "7534701623": {}
   },
   "settings": {
     "7725099858": {}
