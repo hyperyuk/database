@@ -1420,6 +1420,13 @@
       "username": "yOfficialChx",
       "name": "y",
       "date_registered": "2025-08-18T13:02:45.082Z"
+    },
+    "5824532358": {
+      "saldo": 0,
+      "registered": true,
+      "username": "RizkyoktavianCihuy",
+      "name": "Rizky",
+      "date_registered": "2025-08-18T13:04:33.449Z"
     }
   },
   "chats": {
@@ -1571,7 +1578,8 @@
     "6799950358": {},
     "6085580585": {},
     "6023932548": {},
-    "7534701623": {}
+    "7534701623": {},
+    "5824532358": {}
   },
   "settings": {
     "7725099858": {}
