@@ -1442,7 +1442,23 @@
       "username": "Tahapokhanam",
       "name": "Me",
       "date_registered": "2025-08-18T17:34:52.469Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "10AC6EA38B",
+        "nominal": 100,
+        "totalnominal": 221,
+        "status": true,
+        "expired": "2025-08-18T18:07:21.039Z",
+        "message_id": 3672
+      },
+      "deposit_history": [
+        {
+          "nominal": 100,
+          "status": "pending",
+          "id": "10AC6EA38B",
+          "tanggal": "2025-08-18T17:37:21.139Z"
+        }
+      ]
     }
   },
   "chats": {
