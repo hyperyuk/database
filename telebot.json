@@ -312,7 +312,7 @@
       "name": "farhan",
       "date_registered": "2025-08-11T05:05:40.389Z",
       "depositManual": null,
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false
     },
     "7175750329": {
       "saldo": 0,
