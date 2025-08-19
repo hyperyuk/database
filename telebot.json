@@ -1507,18 +1507,10 @@
       "name": "pp",
       "date_registered": "2025-08-19T18:57:52.532Z",
       "waiting_custom_deposit": false,
-      "status_deposit": {
-        "id": "A9C3F2CDA6",
-        "nominal": 100,
-        "totalnominal": 215,
-        "status": true,
-        "expired": "2025-08-19T19:34:10.681Z",
-        "message_id": 3735
-      },
       "deposit_history": [
         {
           "nominal": 100,
-          "status": "pending",
+          "status": "cancelled",
           "id": "A9C3F2CDA6",
           "tanggal": "2025-08-19T19:04:10.790Z"
         }
