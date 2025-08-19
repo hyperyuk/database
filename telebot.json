@@ -1300,7 +1300,12 @@
       "registered": true,
       "username": "Riffprojectt",
       "name": "Arif",
-      "date_registered": "2025-08-16T23:50:13.118Z"
+      "date_registered": "2025-08-16T23:50:13.118Z",
+      "depositManual": {
+        "id": "DEP1755589837841",
+        "metode": "gopay",
+        "step": "waiting_photo"
+      }
     },
     "7260431476": {
       "saldo": 0,
