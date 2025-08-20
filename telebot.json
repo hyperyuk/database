@@ -1464,7 +1464,7 @@
       "username": "Alyamdp",
       "name": "✺℘|𝗔𝗟𝘆𝗮𝘅𝗱𝗽🍷",
       "date_registered": "2025-08-18T21:16:35.389Z",
-      "waiting_custom_deposit": false,
+      "waiting_custom_deposit": true,
       "deposit_history": [
         {
           "nominal": 4865,
