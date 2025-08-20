@@ -1571,6 +1571,13 @@
       "username": "Nielaaaaaaaaaaaaaaa",
       "name": "CAPLANG",
       "date_registered": "2025-08-20T10:16:19.973Z"
+    },
+    "7729080822": {
+      "saldo": 0,
+      "registered": true,
+      "username": "MavyxSukaMieAyam",
+      "name": "Mavyx suka",
+      "date_registered": "2025-08-20T12:03:08.087Z"
     }
   },
   "chats": {
@@ -1736,7 +1743,8 @@
     "6602160032": {},
     "7565832736": {},
     "8058910933": {},
-    "8041063046": {}
+    "8041063046": {},
+    "7729080822": {}
   },
   "settings": {
     "7725099858": {}
