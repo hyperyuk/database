@@ -1459,7 +1459,7 @@
       ]
     },
     "7668919145": {
-      "saldo": 0,
+      "saldo": 4700,
       "registered": true,
       "username": "Alyamdp",
       "name": "✺℘|𝗔𝗟𝘆𝗮𝘅𝗱𝗽🍷",
@@ -1468,7 +1468,7 @@
       "deposit_history": [
         {
           "nominal": 4700,
-          "status": "pending",
+          "status": "success",
           "id": "27DE9ECCF6",
           "tanggal": "2025-08-20T00:49:30.275Z"
         },
@@ -1479,14 +1479,7 @@
           "tanggal": "2025-08-20T00:48:30.950Z"
         }
       ],
-      "status_deposit": {
-        "id": "27DE9ECCF6",
-        "nominal": 4700,
-        "totalnominal": 4782,
-        "status": true,
-        "expired": "2025-08-20T01:19:30.162Z",
-        "message_id": 3750
-      }
+      "total_deposit": 4700
     },
     "7904132140": {
       "saldo": 0,
