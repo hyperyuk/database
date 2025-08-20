@@ -1459,7 +1459,7 @@
       ]
     },
     "7668919145": {
-      "saldo": 4700,
+      "saldo": 700,
       "registered": true,
       "username": "Alyamdp",
       "name": "✺℘|𝗔𝗟𝘆𝗮𝘅𝗱𝗽🍷",
@@ -1479,7 +1479,19 @@
           "tanggal": "2025-08-20T00:48:30.950Z"
         }
       ],
-      "total_deposit": 4700
+      "total_deposit": 4700,
+      "panels": [
+        {
+          "id": 15,
+          "username": "waguri12",
+          "ram": 3000,
+          "disk": 3500,
+          "cpu": 80,
+          "tokenGaransi": "RISSG-78E096993309",
+          "expireGaransi": 1757379170203,
+          "createdAt": 1755651170203
+        }
+      ]
     },
     "7904132140": {
       "saldo": 0,
