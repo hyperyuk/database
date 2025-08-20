@@ -1464,7 +1464,23 @@
       "username": "Alyamdp",
       "name": "✺℘|𝗔𝗟𝘆𝗮𝘅𝗱𝗽🍷",
       "date_registered": "2025-08-18T21:16:35.389Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "DB1E458144",
+        "nominal": 4865,
+        "totalnominal": 4884,
+        "status": true,
+        "expired": "2025-08-20T01:18:30.846Z",
+        "message_id": 3747
+      },
+      "deposit_history": [
+        {
+          "nominal": 4865,
+          "status": "pending",
+          "id": "DB1E458144",
+          "tanggal": "2025-08-20T00:48:30.950Z"
+        }
+      ]
     },
     "7904132140": {
       "saldo": 0,
