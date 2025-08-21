@@ -1598,7 +1598,8 @@
       "registered": true,
       "username": "axcryjg",
       "name": "zk",
-      "date_registered": "2025-08-21T07:19:44.600Z"
+      "date_registered": "2025-08-21T07:19:44.600Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
