@@ -1644,7 +1644,23 @@
       "username": "Ry_ven",
       "name": "Ryven",
       "date_registered": "2025-08-23T09:50:50.648Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "0BB3CCC270",
+        "nominal": 5000,
+        "totalnominal": 5078,
+        "status": true,
+        "expired": "2025-08-23T10:21:25.233Z",
+        "message_id": 3863
+      },
+      "deposit_history": [
+        {
+          "nominal": 5000,
+          "status": "pending",
+          "id": "0BB3CCC270",
+          "tanggal": "2025-08-23T09:51:25.348Z"
+        }
+      ]
     }
   },
   "chats": {
