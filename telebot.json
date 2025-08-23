@@ -1643,7 +1643,8 @@
       "registered": true,
       "username": "Ry_ven",
       "name": "Ryven",
-      "date_registered": "2025-08-23T09:50:50.648Z"
+      "date_registered": "2025-08-23T09:50:50.648Z",
+      "waiting_custom_deposit": true
     }
   },
   "chats": {
