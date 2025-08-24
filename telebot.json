@@ -269,25 +269,6 @@
       ],
       "total_deposit": 8100,
       "depositManual": null,
-      "topup": {
-        "status": false,
-        "code": "SHP2",
-        "product": {
-          "code": "SHP2",
-          "name": "SHOPEE PAY 2.000",
-          "category": "E-Money",
-          "type": "Umum",
-          "provider": "SHOPEE PAY",
-          "brand_status": "1",
-          "price": "3100",
-          "note": "SHOPEE PAY 2.000",
-          "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699694894_3591d9795629e379797d.png"
-        },
-        "kategori": null,
-        "price": 3255,
-        "waktu": 1756007082274
-      },
       "nokos": []
     },
     "7454983978": {
