@@ -269,26 +269,7 @@
       ],
       "total_deposit": 8100,
       "depositManual": null,
-      "nokos": [
-        {
-          "id": 33419285,
-          "number": "6285786001284",
-          "country": "Indonesia",
-          "operator": "indosat",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [
-            {
-              "msg": "463149"
-            }
-          ],
-          "time": "2025-08-24T03:57:00.530Z",
-          "expiresAt": 1756009020530,
-          "otpSentLast": "463149",
-          "pendingSent": true,
-          "successSent": true
-        }
-      ],
+      "nokos": [],
       "topup": {
         "status": false,
         "code": "FF20",
