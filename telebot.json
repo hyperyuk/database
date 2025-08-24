@@ -271,23 +271,22 @@
       "depositManual": null,
       "topup": {
         "status": false,
-        "code": "THPY2A",
+        "code": "SHP2",
         "product": {
-          "code": "THPY2A",
-          "name": "Tri Data Happy 2 GB 1 Hari",
-          "category": "Data Internet",
-          "type": "Happy",
-          "provider": "TRI",
+          "code": "SHP2",
+          "name": "SHOPEE PAY 2.000",
+          "category": "E-Money",
+          "type": "Umum",
+          "provider": "SHOPEE PAY",
           "brand_status": "1",
-          "price": "3965",
-          "note": "Tri Data Happy 2 GB / 1 Hari",
+          "price": "3100",
+          "note": "SHOPEE PAY 2.000",
           "status": "available",
-          "img_url": "https://s3.atlantic-pedia.co.id/1699688310_bd4da75681eec415c0ea.png"
+          "img_url": "https://s3.atlantic-pedia.co.id/1699694894_3591d9795629e379797d.png"
         },
         "kategori": null,
-        "price": 4362,
-        "waktu": 1754744242549,
-        "target": "0895343060408"
+        "price": 3255,
+        "waktu": 1756007082274
       },
       "nokos": []
     },
