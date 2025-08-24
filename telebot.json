@@ -312,7 +312,23 @@
       "name": "farhan",
       "date_registered": "2025-08-11T05:05:40.389Z",
       "depositManual": null,
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "74DBD02ED1",
+        "nominal": 4000,
+        "totalnominal": 4008,
+        "status": true,
+        "expired": "2025-08-24T02:43:40.644Z",
+        "message_id": 3887
+      },
+      "deposit_history": [
+        {
+          "nominal": 4000,
+          "status": "pending",
+          "id": "74DBD02ED1",
+          "tanggal": "2025-08-24T02:13:40.743Z"
+        }
+      ]
     },
     "7175750329": {
       "saldo": 0,
