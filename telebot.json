@@ -219,7 +219,7 @@
       "date_registered": "2025-08-08T16:00:29.643Z"
     },
     "8074968487": {
-      "saldo": 4249,
+      "saldo": 398,
       "registered": true,
       "username": null,
       "name": "Vanz",
@@ -269,7 +269,19 @@
       ],
       "total_deposit": 8100,
       "depositManual": null,
-      "nokos": [],
+      "nokos": [
+        {
+          "id": 33419285,
+          "number": "6285786001284",
+          "country": "Indonesia",
+          "operator": "indosat",
+          "service": "Whatsapp",
+          "price": 3851,
+          "otpSent": [],
+          "time": "2025-08-24T03:57:00.530Z",
+          "expiresAt": 1756009020530
+        }
+      ],
       "topup": {
         "status": false,
         "code": "FF20",
