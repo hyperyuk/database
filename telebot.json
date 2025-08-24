@@ -269,7 +269,27 @@
       ],
       "total_deposit": 8100,
       "depositManual": null,
-      "nokos": []
+      "nokos": [],
+      "topup": {
+        "status": false,
+        "code": "FF20",
+        "product": {
+          "code": "FF20",
+          "name": "Free Fire 20 Diamond",
+          "category": "Games",
+          "type": "Umum",
+          "provider": "FREE FIRE",
+          "brand_status": "1",
+          "price": "3591",
+          "note": "Free Fire 20 Diamond",
+          "status": "available",
+          "img_url": "https://s3.atlantic-pedia.co.id/1712125176_da20717be3730fdc32cb.png"
+        },
+        "kategori": null,
+        "price": 3771,
+        "waktu": 1756007153205,
+        "target": "942358466"
+      }
     },
     "7454983978": {
       "saldo": 0,
