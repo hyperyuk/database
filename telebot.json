@@ -1620,8 +1620,14 @@
       "username": "axcryjg",
       "name": "zk",
       "date_registered": "2025-08-21T07:19:44.600Z",
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
+        {
+          "nominal": 11000,
+          "status": "pending",
+          "id": "F2FFBCC926",
+          "tanggal": "2025-08-25T13:17:23.030Z"
+        },
         {
           "nominal": 30000,
           "status": "success",
@@ -1629,7 +1635,15 @@
           "tanggal": "2025-08-21T07:23:06.913Z"
         }
       ],
-      "total_deposit": 30000
+      "total_deposit": 30000,
+      "status_deposit": {
+        "id": "F2FFBCC926",
+        "nominal": 11000,
+        "totalnominal": 11067,
+        "status": true,
+        "expired": "2025-08-25T13:47:22.919Z",
+        "message_id": 3939
+      }
     },
     "8397903039": {
       "saldo": 0,
