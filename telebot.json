@@ -1615,7 +1615,7 @@
       "date_registered": "2025-08-21T07:08:31.794Z"
     },
     "7829894362": {
-      "saldo": 11000,
+      "saldo": 0,
       "registered": true,
       "username": "axcryjg",
       "name": "zk",
@@ -1635,7 +1635,19 @@
           "tanggal": "2025-08-21T07:23:06.913Z"
         }
       ],
-      "total_deposit": 41000
+      "total_deposit": 41000,
+      "panels": [
+        {
+          "id": 17,
+          "username": "bagas11",
+          "ram": 0,
+          "disk": 0,
+          "cpu": 250,
+          "tokenGaransi": "RISSG-B8BC51CB591C",
+          "expireGaransi": 1757855968108,
+          "createdAt": 1756127968110
+        }
+      ]
     },
     "8397903039": {
       "saldo": 0,
