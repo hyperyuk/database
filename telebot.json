@@ -226,7 +226,7 @@
       "date_registered": "2025-08-08T16:00:29.643Z"
     },
     "8074968487": {
-      "saldo": 398,
+      "saldo": 3898,
       "registered": true,
       "username": null,
       "name": "Vanz",
@@ -235,7 +235,7 @@
       "deposit_history": [
         {
           "nominal": 3500,
-          "status": "pending",
+          "status": "success",
           "id": "AC92428B44",
           "tanggal": "2025-08-26T08:29:26.712Z"
         },
@@ -280,7 +280,7 @@
           "tanggal": "2025-08-09T12:31:37.416Z"
         }
       ],
-      "total_deposit": 8100,
+      "total_deposit": 11600,
       "depositManual": null,
       "nokos": [],
       "topup": {
@@ -302,14 +302,6 @@
         "price": 3771,
         "waktu": 1756007153205,
         "target": "942358466"
-      },
-      "status_deposit": {
-        "id": "AC92428B44",
-        "nominal": 3500,
-        "totalnominal": 3523,
-        "status": true,
-        "expired": "2025-08-26T08:59:26.614Z",
-        "message_id": 3950
       }
     },
     "7454983978": {
