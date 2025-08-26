@@ -231,8 +231,14 @@
       "username": null,
       "name": "Vanz",
       "date_registered": "2025-08-09T12:31:01.618Z",
-      "waiting_custom_deposit": true,
+      "waiting_custom_deposit": false,
       "deposit_history": [
+        {
+          "nominal": 3500,
+          "status": "pending",
+          "id": "AC92428B44",
+          "tanggal": "2025-08-26T08:29:26.712Z"
+        },
         {
           "nominal": 3600,
           "status": "success",
@@ -296,6 +302,14 @@
         "price": 3771,
         "waktu": 1756007153205,
         "target": "942358466"
+      },
+      "status_deposit": {
+        "id": "AC92428B44",
+        "nominal": 3500,
+        "totalnominal": 3523,
+        "status": true,
+        "expired": "2025-08-26T08:59:26.614Z",
+        "message_id": 3950
       }
     },
     "7454983978": {
