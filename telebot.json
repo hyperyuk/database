@@ -282,26 +282,7 @@
       ],
       "total_deposit": 11600,
       "depositManual": null,
-      "nokos": [
-        {
-          "id": 33597006,
-          "number": "6285129340424",
-          "country": "Indonesia",
-          "operator": "telkomsel",
-          "service": "Whatsapp",
-          "price": 3851,
-          "otpSent": [
-            {
-              "msg": "228889"
-            }
-          ],
-          "time": "2025-08-26T08:30:52.390Z",
-          "expiresAt": 1756198252390,
-          "otpSentLast": "228889",
-          "pendingSent": true,
-          "successSent": true
-        }
-      ],
+      "nokos": [],
       "topup": {
         "status": false,
         "code": "FF20",
