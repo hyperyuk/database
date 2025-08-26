@@ -226,7 +226,7 @@
       "date_registered": "2025-08-08T16:00:29.643Z"
     },
     "8074968487": {
-      "saldo": 3898,
+      "saldo": 47,
       "registered": true,
       "username": null,
       "name": "Vanz",
@@ -282,7 +282,19 @@
       ],
       "total_deposit": 11600,
       "depositManual": null,
-      "nokos": [],
+      "nokos": [
+        {
+          "id": 33597006,
+          "number": "6285129340424",
+          "country": "Indonesia",
+          "operator": "telkomsel",
+          "service": "Whatsapp",
+          "price": 3851,
+          "otpSent": [],
+          "time": "2025-08-26T08:30:52.390Z",
+          "expiresAt": 1756198252390
+        }
+      ],
       "topup": {
         "status": false,
         "code": "FF20",
