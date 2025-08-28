@@ -1013,7 +1013,22 @@
       "username": "Nathansykes333",
       "name": "Nathan Sykes",
       "date_registered": "2025-08-12T18:32:50.233Z",
-      "waiting_custom_deposit": true
+      "waiting_custom_deposit": false,
+      "status_deposit": {
+        "id": "490D9C21CF",
+        "nominal": 20000,
+        "totalnominal": 20040,
+        "status": true,
+        "expired": "2025-08-28T02:55:25.111Z"
+      },
+      "deposit_history": [
+        {
+          "nominal": 20000,
+          "status": "pending",
+          "id": "490D9C21CF",
+          "tanggal": "2025-08-28T02:25:25.223Z"
+        }
+      ]
     },
     "7740091628": {
       "saldo": 0,
