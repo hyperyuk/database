@@ -1012,7 +1012,8 @@
       "registered": true,
       "username": "Nathansykes333",
       "name": "Nathan Sykes",
-      "date_registered": "2025-08-12T18:32:50.233Z"
+      "date_registered": "2025-08-12T18:32:50.233Z",
+      "waiting_custom_deposit": true
     },
     "7740091628": {
       "saldo": 0,
