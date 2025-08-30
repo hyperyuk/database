@@ -7,6 +7,13 @@
       "name": "Zhar",
       "date_registered": "2025-08-17T06:21:52.725Z"
     },
+    "785397325": {
+      "saldo": 0,
+      "registered": true,
+      "username": "Rajacyber1045",
+      "name": "Raja",
+      "date_registered": "2025-08-30T08:33:01.882Z"
+    },
     "1262194161": {
       "saldo": 0,
       "registered": true,
@@ -1743,10 +1750,18 @@
       "username": "AshuraaID",
       "name": "Ashura",
       "date_registered": "2025-08-27T23:05:53.884Z"
+    },
+    "7096618417": {
+      "saldo": 0,
+      "registered": true,
+      "username": "knzfrst",
+      "name": "alvaric faresta,",
+      "date_registered": "2025-08-30T08:33:01.877Z"
     }
   },
   "chats": {
     "47461306": {},
+    "785397325": {},
     "1262194161": {},
     "1349837343": {},
     "1384752627": {},
@@ -1922,7 +1937,8 @@
     "5999122480": {},
     "7400578392": {},
     "7047231665": {},
-    "7461781553": {}
+    "7461781553": {},
+    "7096618417": {}
   },
   "settings": {
     "7725099858": {}
