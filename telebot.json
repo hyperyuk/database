@@ -484,8 +484,9 @@
           "disk": 6500,
           "cpu": 140,
           "tokenGaransi": "RISSG-70B2A8F18EE0",
-          "expireGaransi": 1756633479619,
-          "createdAt": 1754905479619
+          "expireGaransi": 0,
+          "createdAt": 1754905479619,
+          "claimed": true
         }
       ]
     },
