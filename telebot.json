@@ -105,18 +105,7 @@
         }
       ],
       "resellerExpired": 1757304136276,
-      "panels": [
-        {
-          "id": 10,
-          "username": "noir",
-          "ram": 0,
-          "disk": 0,
-          "cpu": 250,
-          "tokenGaransi": "RISSG-AC17324197F4",
-          "expireGaransi": 1756440549290,
-          "createdAt": 1754712549290
-        }
-      ],
+      "panels": [],
       "total_deposit": 100,
       "nokos": []
     },
@@ -212,18 +201,7 @@
         }
       ],
       "total_deposit": 41000,
-      "panels": [
-        {
-          "id": 11,
-          "username": "jasebku",
-          "ram": 0,
-          "disk": 0,
-          "cpu": 250,
-          "tokenGaransi": "RISSG-5E37B05302F7",
-          "expireGaransi": 1756442947662,
-          "createdAt": 1754714947663
-        }
-      ]
+      "panels": []
     },
     "7763380658": {
       "saldo": 0,
