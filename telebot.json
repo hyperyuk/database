@@ -1696,6 +1696,13 @@
       "waiting_custom_deposit": false,
       "deposit_history": [
         {
+          "nominal": 4000,
+          "status": "pending",
+          "id": "DEP1756818480779",
+          "metode": "gopay",
+          "tanggal": "2025-09-02T13:08:14.487Z"
+        },
+        {
           "nominal": 5000,
           "status": "cancelled",
           "id": "0BB3CCC270",
@@ -1706,8 +1713,13 @@
       "depositManual": {
         "id": "DEP1756818480779",
         "metode": "gopay",
-        "step": "waiting_nominal",
-        "bukti": "AgACAgUAAxkBAAISEWi27DfE7YYcB6UylaFQqqUbBIcSAAILyzEbT-64VU270QRoC-mdAQADAgADeQADNgQ"
+        "step": "waiting_approval",
+        "bukti": "AgACAgUAAxkBAAISEWi27DfE7YYcB6UylaFQqqUbBIcSAAILyzEbT-64VU270QRoC-mdAQADAgADeQADNgQ",
+        "nominal": 4000,
+        "ownerMessage": {
+          "chat_id": "7458699573",
+          "message_id": 4628
+        }
       }
     },
     "5999122480": {
