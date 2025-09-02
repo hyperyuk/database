@@ -1688,7 +1688,7 @@
       "date_registered": "2025-08-23T06:02:57.208Z"
     },
     "6222502203": {
-      "saldo": 4000,
+      "saldo": 0,
       "registered": true,
       "username": "Ry_ven",
       "name": "Ryven",
@@ -1711,7 +1711,19 @@
       ],
       "resellerExpired": 0,
       "depositManual": null,
-      "total_deposit": 4000
+      "total_deposit": 4000,
+      "panels": [
+        {
+          "id": 5,
+          "username": "ryzen",
+          "ram": 3000,
+          "disk": 3500,
+          "cpu": 80,
+          "tokenGaransi": "RISSG-657904CD3BEC",
+          "expireGaransi": 1758547370310,
+          "createdAt": 1756819370310
+        }
+      ]
     },
     "5999122480": {
       "saldo": 0,
