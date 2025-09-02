@@ -1706,7 +1706,8 @@
       "depositManual": {
         "id": "DEP1756818480779",
         "metode": "gopay",
-        "step": "waiting_photo"
+        "step": "confirm_photo",
+        "bukti": "AgACAgUAAxkBAAISEWi27DfE7YYcB6UylaFQqqUbBIcSAAILyzEbT-64VU270QRoC-mdAQADAgADeQADNgQ"
       }
     },
     "5999122480": {
