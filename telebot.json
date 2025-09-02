@@ -1703,11 +1703,7 @@
         }
       ],
       "resellerExpired": 0,
-      "depositManual": {
-        "id": "DEP1756818411025",
-        "metode": "gopay",
-        "step": "waiting_photo"
-      }
+      "depositManual": null
     },
     "5999122480": {
       "saldo": 0,
