@@ -1688,7 +1688,7 @@
       "date_registered": "2025-08-23T06:02:57.208Z"
     },
     "6222502203": {
-      "saldo": 0,
+      "saldo": 4000,
       "registered": true,
       "username": "Ry_ven",
       "name": "Ryven",
@@ -1697,7 +1697,7 @@
       "deposit_history": [
         {
           "nominal": 4000,
-          "status": "pending",
+          "status": "success",
           "id": "DEP1756818480779",
           "metode": "gopay",
           "tanggal": "2025-09-02T13:08:14.487Z"
@@ -1710,17 +1710,8 @@
         }
       ],
       "resellerExpired": 0,
-      "depositManual": {
-        "id": "DEP1756818480779",
-        "metode": "gopay",
-        "step": "waiting_approval",
-        "bukti": "AgACAgUAAxkBAAISEWi27DfE7YYcB6UylaFQqqUbBIcSAAILyzEbT-64VU270QRoC-mdAQADAgADeQADNgQ",
-        "nominal": 4000,
-        "ownerMessage": {
-          "chat_id": "7458699573",
-          "message_id": 4628
-        }
-      }
+      "depositManual": null,
+      "total_deposit": 4000
     },
     "5999122480": {
       "saldo": 0,
