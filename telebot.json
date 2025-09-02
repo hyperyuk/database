@@ -1702,7 +1702,12 @@
           "tanggal": "2025-08-23T09:51:25.348Z"
         }
       ],
-      "resellerExpired": 0
+      "resellerExpired": 0,
+      "depositManual": {
+        "id": "DEP1756818411025",
+        "metode": "gopay",
+        "step": "waiting_photo"
+      }
     },
     "5999122480": {
       "saldo": 0,
