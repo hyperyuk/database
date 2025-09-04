@@ -366,7 +366,8 @@
       "registered": true,
       "username": "samsulno",
       "name": "alfa",
-      "date_registered": "2025-08-11T05:55:46.056Z"
+      "date_registered": "2025-08-11T05:55:46.056Z",
+      "waiting_custom_deposit": true
     },
     "7262194470": {
       "saldo": 0,
