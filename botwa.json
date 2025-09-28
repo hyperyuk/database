@@ -1,32 +1,6 @@
 {
-  "users": {
-    "6289668164759@s.whatsapp.net": {
-      "saldo": 0
-    },
-    "6283142794041@s.whatsapp.net": {
-      "saldo": 0
-    },
-    "120363421106365694@g.us": {
-      "saldo": 0
-    },
-    "6285738801417@s.whatsapp.net": {
-      "saldo": 0
-    },
-    "628988055349@s.whatsapp.net": {
-      "saldo": 0
-    },
-    "6285643241592@s.whatsapp.net": {
-      "saldo": 0
-    }
-  },
-  "chats": {
-    "120363315495507467@g.us": {
-      "antilinkgc": false
-    },
-    "120363421106365694@g.us": {
-      "antilinkgc": false
-    }
-  },
+  "users": {},
+  "chats": {},
   "settings": {},
   "database": {}
 }
