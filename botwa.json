@@ -1,20 +1,6 @@
 {
-  "users": {
-    "628988055349@s.whatsapp.net": {
-      "saldo": 0
-    },
-    "6285643241592@s.whatsapp.net": {
-      "saldo": 0
-    }
-  },
-  "chats": {
-    "628988055349@s.whatsapp.net": {
-      "antilinkgc": false
-    },
-    "120363315495507467@g.us": {
-      "antilinkgc": false
-    }
-  },
+  "users": {},
+  "chats": {},
   "settings": {},
   "database": {}
 }
