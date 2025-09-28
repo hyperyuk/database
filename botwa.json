@@ -1,6 +1,23 @@
 {
-  "users": {},
-  "chats": {},
+  "users": {
+    "6285643241592@s.whatsapp.net": {
+      "saldo": 0
+    },
+    "6289668164759@s.whatsapp.net": {
+      "saldo": 0
+    },
+    "6282122724630@s.whatsapp.net": {
+      "saldo": 0
+    }
+  },
+  "chats": {
+    "120363315495507467@g.us": {
+      "antilinkgc": true
+    },
+    "120363421106365694@g.us": {
+      "antilinkgc": false
+    }
+  },
   "settings": {},
   "database": {}
 }
