@@ -1,6 +1,14 @@
 {
-  "users": {},
-  "chats": {},
+  "users": {
+    "244108778045453@lid": {
+      "saldo": 0
+    }
+  },
+  "chats": {
+    "120363421106365694@g.us": {
+      "antilinkgc": false
+    }
+  },
   "settings": {},
   "database": {}
 }
