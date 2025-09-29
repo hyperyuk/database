@@ -63,7 +63,12 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "antisticker": true,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
@@ -89,7 +94,12 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false
     }
   },
   "settings": {},
