@@ -42,6 +42,10 @@
     },
     "6282156640203@s.whatsapp.net": {
       "saldo": 0
+    },
+    "6285779519452@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0
     }
   },
   "chats": {
@@ -98,6 +102,26 @@
       "antibot": false,
       "warn": false,
       "autoai": true
+    },
+    "120363358239377192@g.us": {
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false
     }
   },
   "settings": {},
