@@ -142,7 +142,7 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": true
+      "autoai": false
     },
     "120363418772874035@g.us": {
       "antilinkgc": false,
