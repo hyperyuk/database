@@ -66,7 +66,11 @@
       "antilinkdc": true,
       "antilinkig": false,
       "antilinktiktok": false,
-      "antilinktwit": false
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false
     }
   },
   "settings": {},
