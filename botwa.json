@@ -53,7 +53,11 @@
       "antilinkdc": false,
       "antilinkig": false,
       "antilinktiktok": false,
-      "antilinktwit": false
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
