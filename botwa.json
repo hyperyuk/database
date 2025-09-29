@@ -4,8 +4,7 @@
       "saldo": 0
     },
     "120363421106365694@g.us": {
-      "saldo": 0,
-      "warn": 0
+      "saldo": 0
     },
     "26036225966124@lid": {
       "saldo": 0
@@ -36,56 +35,19 @@
       "saldo": 0
     },
     "6285600951410@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
+      "saldo": 0
     },
     "6282313175123@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
+      "saldo": 0
     },
     "6282156640203@s.whatsapp.net": {
       "saldo": 0
-    },
-    "6285285197199@s.whatsapp.net": {
-      "saldo": 0
-    },
-    "6281401682886@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
-    },
-    "6285866236159@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
-    },
-    "6285280753609@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
-    },
-    "6283895840321@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
     }
   },
   "chats": {
     "120363421106365694@g.us": {
       "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false
+      "antilinkch": false
     },
     "6285643241592@s.whatsapp.net": {
       "antilinkgc": false,
@@ -102,14 +64,7 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": true
+      "antilinkthreads": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
@@ -143,26 +98,6 @@
       "antibot": false,
       "warn": false,
       "autoai": true
-    },
-    "120363418772874035@g.us": {
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false
     }
   },
   "settings": {},
