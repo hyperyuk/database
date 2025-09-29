@@ -25,12 +25,10 @@
       "saldo": 0
     },
     "6289668164759@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
+      "saldo": 0
     },
     "6287882339936@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0
+      "saldo": 0
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
@@ -65,14 +63,7 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": true
+      "antilinkthreads": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
