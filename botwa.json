@@ -4,7 +4,8 @@
       "saldo": 0
     },
     "120363421106365694@g.us": {
-      "saldo": 0
+      "saldo": 0,
+      "warn": 0
     },
     "26036225966124@lid": {
       "saldo": 0
@@ -34,19 +35,38 @@
       "saldo": 0
     },
     "6285600951410@s.whatsapp.net": {
-      "saldo": 0
+      "saldo": 0,
+      "warn": 0
     },
     "6282313175123@s.whatsapp.net": {
       "saldo": 0
     },
     "6282156640203@s.whatsapp.net": {
       "saldo": 0
+    },
+    "6285285197199@s.whatsapp.net": {
+      "saldo": 0
     }
   },
   "chats": {
     "120363421106365694@g.us": {
       "antilinkgc": false,
-      "antilinkch": false
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false
     },
     "6285643241592@s.whatsapp.net": {
       "antilinkgc": false,
@@ -63,7 +83,13 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
@@ -89,7 +115,12 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false
     }
   },
   "settings": {},
