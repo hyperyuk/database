@@ -26,7 +26,8 @@
       "saldo": 0
     },
     "6289668164759@s.whatsapp.net": {
-      "saldo": 0
+      "saldo": 0,
+      "warn": 0
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0
@@ -93,7 +94,8 @@
       "antifoto": false,
       "antiaudio": false,
       "antibot": false,
-      "warn": false
+      "warn": false,
+      "autoai": true
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
