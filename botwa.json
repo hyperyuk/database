@@ -32,6 +32,9 @@
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
+    },
+    "6285600951410@s.whatsapp.net": {
+      "saldo": 0
     }
   },
   "chats": {
@@ -45,7 +48,12 @@
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
-      "antilinkch": false
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
