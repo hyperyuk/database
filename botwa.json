@@ -52,10 +52,10 @@
       "antilinkch": false
     },
     "120363315495507467@g.us": {
-      "antilinkgc": false,
-      "antilinkch": false,
+      "antilinkgc": true,
+      "antilinkch": true,
       "antilinkyt": false,
-      "antilinkdc": false,
+      "antilinkdc": true,
       "antilinkig": false,
       "antilinktiktok": false,
       "antilinktwit": false
