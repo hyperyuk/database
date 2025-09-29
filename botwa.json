@@ -97,7 +97,7 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": true
     }
   },
   "settings": {},
