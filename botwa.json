@@ -64,7 +64,7 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "antisticker": true,
+      "antisticker": false,
       "antivideo": false,
       "antifoto": false,
       "antiaudio": false,
