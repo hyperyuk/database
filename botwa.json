@@ -50,6 +50,10 @@
     "6282342241464@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0
+    },
+    "35498189938743@lid": {
+      "saldo": 0,
+      "warn": 0
     }
   },
   "chats": {
@@ -122,6 +126,26 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false
+    },
+    "120363419365908330@g.us": {
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false
     }
   },
   "settings": {},
