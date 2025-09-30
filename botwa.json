@@ -1050,7 +1050,9 @@
       "antibot": false,
       "warn": false,
       "autoai": false,
-      "antitagsw": false
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "6285867212350-1570450722@g.us": {
       "antilinkgc": false,
@@ -1071,7 +1073,9 @@
       "antibot": false,
       "warn": false,
       "autoai": false,
-      "antitagsw": false
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     }
   },
   "settings": {},
