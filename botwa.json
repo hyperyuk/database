@@ -24,7 +24,8 @@
     },
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
@@ -218,7 +219,12 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
@@ -394,6 +400,8 @@
       "autoai": false
     }
   },
-  "settings": {},
-  "database": {}
+  "database": {
+    "sewa": {}
+  },
+  "settings": {}
 }
