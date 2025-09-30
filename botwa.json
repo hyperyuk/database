@@ -1994,6 +1994,13 @@
     "forceGroup": true
   },
   "database": {
-    "sewa": {}
+    "sewa": {
+      "120363421935654848@g.us": {
+        "expired": 1761815741454,
+        "add": 1759223741454,
+        "days": 30,
+        "notify1hSent": false
+      }
+    }
   }
 }
