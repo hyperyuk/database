@@ -407,7 +407,6 @@
       "left": false
     }
   },
-  "settings": {},
   "database": {
     "sewa": {
       "120363421935654848@g.us": {
@@ -417,5 +416,6 @@
         "notify1hSent": false
       }
     }
-  }
+  },
+  "settings": {}
 }
