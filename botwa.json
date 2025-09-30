@@ -1268,7 +1268,9 @@
       "autoai": false,
       "antitagsw": false,
       "welcome": false,
-      "left": false
+      "left": false,
+      "welcomeMode": 2,
+      "leftMode": 2
     }
   },
   "settings": {},
