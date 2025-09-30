@@ -407,7 +407,7 @@
       "left": false
     }
   },
-  "game": {},
+  "settings": {},
   "database": {
     "sewa": {
       "120363421935654848@g.us": {
@@ -417,9 +417,5 @@
         "notify1hSent": false
       }
     }
-  },
-  "settings": {},
-  "setting": {},
-  "others": {},
-  "sticker": {}
+  }
 }
