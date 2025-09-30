@@ -167,7 +167,8 @@
     },
     "6281235868662@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6285811464931@s.whatsapp.net": {
       "saldo": 0,
@@ -416,7 +417,12 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "6285867212350-1570450722@g.us": {
       "welcomeMode": 2,
