@@ -177,6 +177,16 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6285142323566@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6282282297034@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -392,8 +402,35 @@
       "antibot": false,
       "warn": false,
       "autoai": false
+    },
+    "6281315401018-1575094011@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     }
   },
   "settings": {},
-  "database": {}
+  "database": {
+    "sewa": {}
+  }
 }
