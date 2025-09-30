@@ -177,6 +177,31 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "44681165578378@lid": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6283184323840@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "184435223859297@lid": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "127359101444131@lid": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "123730072195310@lid": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -392,8 +417,60 @@
       "antibot": false,
       "warn": false,
       "autoai": false
+    },
+    "6285867212350-1570450722@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
+    },
+    "6281315401018-1575094011@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     }
   },
   "settings": {},
-  "database": {}
+  "database": {
+    "sewa": {}
+  }
 }
