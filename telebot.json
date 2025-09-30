@@ -320,18 +320,7 @@
         }
       ],
       "total_deposit": 4000,
-      "panels": [
-        {
-          "id": 16,
-          "username": "ahann",
-          "ram": 3000,
-          "disk": 3500,
-          "cpu": 80,
-          "tokenGaransi": "RISSG-2FEA40ADBF86",
-          "expireGaransi": 1757730012865,
-          "createdAt": 1756002012865
-        }
-      ]
+      "panels": []
     },
     "7175750329": {
       "saldo": 0,
@@ -675,18 +664,7 @@
       "username": "nisakangpp",
       "name": "NISA KANG PP",
       "date_registered": "2025-08-11T14:22:40.957Z",
-      "panels": [
-        {
-          "id": 13,
-          "username": "nisa",
-          "ram": 0,
-          "disk": 0,
-          "cpu": 250,
-          "tokenGaransi": "RISSG-A09FF9501AAB",
-          "expireGaransi": 1756696929623,
-          "createdAt": 1754968929623
-        }
-      ]
+      "panels": []
     },
     "7804951651": {
       "saldo": 0,
@@ -1512,18 +1490,7 @@
         }
       ],
       "total_deposit": 4700,
-      "panels": [
-        {
-          "id": 15,
-          "username": "waguri12",
-          "ram": 3000,
-          "disk": 3500,
-          "cpu": 80,
-          "tokenGaransi": "RISSG-78E096993309",
-          "expireGaransi": 1757379170203,
-          "createdAt": 1755651170203
-        }
-      ]
+      "panels": []
     },
     "7904132140": {
       "saldo": 0,
@@ -1714,18 +1681,7 @@
       "resellerExpired": 0,
       "depositManual": null,
       "total_deposit": 4000,
-      "panels": [
-        {
-          "id": 5,
-          "username": "ryzen",
-          "ram": 3000,
-          "disk": 3500,
-          "cpu": 80,
-          "tokenGaransi": "RISSG-657904CD3BEC",
-          "expireGaransi": 1758547370310,
-          "createdAt": 1756819370310
-        }
-      ]
+      "panels": []
     },
     "5999122480": {
       "saldo": 0,
