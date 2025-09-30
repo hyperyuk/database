@@ -24,7 +24,8 @@
     },
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
@@ -33,7 +34,8 @@
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
@@ -119,7 +121,8 @@
     },
     "120363421935654848@g.us": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -218,7 +221,12 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
@@ -391,9 +399,16 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     }
   },
   "settings": {},
-  "database": {}
+  "database": {
+    "sewa": {}
+  }
 }
