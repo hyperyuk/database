@@ -119,8 +119,7 @@
     },
     "120363421935654848@g.us": {
       "saldo": 0,
-      "warn": 0,
-      "limit": 100
+      "warn": 0
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -175,11 +174,6 @@
       "warn": 0
     },
     "6283115623786@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6285817750072@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "limit": 100
