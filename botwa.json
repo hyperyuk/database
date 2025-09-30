@@ -24,8 +24,7 @@
     },
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0,
-      "limit": 100
+      "warn": 0
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
@@ -34,8 +33,7 @@
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0,
-      "limit": 100
+      "warn": 0
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
@@ -121,8 +119,7 @@
     },
     "120363421935654848@g.us": {
       "saldo": 0,
-      "warn": 0,
-      "limit": 100
+      "warn": 0
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -221,12 +218,7 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false,
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false
+      "autoai": false
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
@@ -399,23 +391,9 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false,
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false
+      "autoai": false
     }
   },
   "settings": {},
-  "database": {
-    "sewa": {
-      "120363421935654848@g.us": {
-        "expired": 1761749075175,
-        "add": 1759243475175,
-        "days": 29,
-        "notify1hSent": false
-      }
-    }
-  }
+  "database": {}
 }
