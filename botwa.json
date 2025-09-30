@@ -4007,7 +4007,10 @@
       "autoai": false,
       "antitagsw": false,
       "welcome": false,
-      "left": false
+      "left": false,
+      "isOpen": false,
+      "isClosed": false,
+      "_lastMinute": 12
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
