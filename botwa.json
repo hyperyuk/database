@@ -916,6 +916,11 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6285800619340@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -1080,7 +1085,12 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "120363403194053238@g.us": {
       "antilinkgc": false,
