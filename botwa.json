@@ -436,7 +436,9 @@
       "left": false
     }
   },
-  "settings": {},
+  "settings": {
+    "forceGroup": true
+  },
   "database": {
     "sewa": {}
   }
