@@ -402,7 +402,12 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
