@@ -414,7 +414,19 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
