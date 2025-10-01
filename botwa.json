@@ -753,8 +753,8 @@
     }
   },
   "settings": {
-    "autocorrectcmd": true,
-    "forceGroup": true
+    "autocorrectcmd": false,
+    "forceGroup": false
   },
   "database": {
     "sewa": {
