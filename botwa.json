@@ -555,7 +555,9 @@
       "welcome": true,
       "left": true,
       "antibadword": true,
-      "badwords": []
+      "badwords": [
+        "bb"
+      ]
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
