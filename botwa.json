@@ -650,7 +650,8 @@
       "antitagsw": false,
       "welcome": false,
       "left": false,
-      "antibadword": false
+      "antibadword": false,
+      "antivirtext": false
     },
     "6287882339936@s.whatsapp.net": {
       "welcomeMode": 2,
