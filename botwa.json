@@ -265,6 +265,11 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6285182060015@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -496,7 +501,9 @@
         "hour": 11,
         "minute": 30,
         "zone": "WIB"
-      }
+      },
+      "isOpen": true,
+      "isClosed": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
