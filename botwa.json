@@ -484,14 +484,7 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": true,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "opentime": {
-        "hour": 11,
-        "minute": 30,
-        "zone": "WIB"
-      }
+      "left": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
