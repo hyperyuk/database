@@ -494,7 +494,9 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": false,
-      "left": false
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
