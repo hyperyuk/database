@@ -539,7 +539,9 @@
       "left": false
     }
   },
-  "settings": {},
+  "settings": {
+    "autocleartmp": true
+  },
   "database": {
     "sewa": {
       "120363421935654848@g.us": {
