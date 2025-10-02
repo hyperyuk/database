@@ -589,7 +589,12 @@
         "zone": "WIB"
       },
       "isOpen": true,
-      "isClosed": false
+      "isClosed": false,
+      "closetime": {
+        "hour": 23,
+        "minute": 0,
+        "zone": "WIB"
+      }
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
