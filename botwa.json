@@ -676,7 +676,14 @@
         "hour": 23,
         "minute": 0,
         "zone": "WIB"
-      }
+      },
+      "badwords": [
+        "kontol",
+        "tolol",
+        "boti",
+        "memek",
+        "hama"
+      ]
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
