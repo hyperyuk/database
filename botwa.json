@@ -42,8 +42,7 @@
     },
     "6285600951410@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0,
-      "limit": 100
+      "warn": 0
     },
     "6282313175123@s.whatsapp.net": {
       "saldo": 0,
@@ -327,14 +326,7 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": true,
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "autoai": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
