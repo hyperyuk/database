@@ -554,7 +554,7 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "antisticker": false,
+      "antisticker": true,
       "antivideo": false,
       "antifoto": false,
       "antiaudio": false,
