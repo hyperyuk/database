@@ -42,7 +42,8 @@
     },
     "6285600951410@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6282313175123@s.whatsapp.net": {
       "saldo": 0,
