@@ -611,7 +611,9 @@
     }
   },
   "settings": {
-    "autocleartmp": true
+    "autocleartmp": true,
+    "forceGroup": true,
+    "autocorrectcmd": true
   },
   "database": {
     "sewa": {
