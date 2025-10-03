@@ -346,7 +346,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363315495507467@g.us": {
       "antilinkgc": true,
@@ -359,7 +366,21 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
