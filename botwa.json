@@ -25,7 +25,17 @@
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 100,
+      "deposit": {
+        "transactionId": "2E689EE4BF",
+        "baseAmount": 1000,
+        "fee": 84,
+        "total": "1084",
+        "expirationTime": "2025-10-03T09:25:59.380Z",
+        "qrImageUrl": "https://img1.pixhost.to/images/9148/647187535_qris.png",
+        "createdAt": "2025-10-03T08:55:59.502Z",
+        "status": "pending"
+      }
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
@@ -38,11 +48,14 @@
       "limit": 100
     },
     "6287722429841@s.whatsapp.net": {
-      "saldo": 0
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     },
     "6285600951410@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6282313175123@s.whatsapp.net": {
       "saldo": 0,
@@ -184,7 +197,7 @@
     "6287766174254@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 99
+      "limit": 98
     },
     "6283121193359@s.whatsapp.net": {
       "saldo": 0,
@@ -260,6 +273,31 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6285866236159@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6288980287554@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6283823921563@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "62895406033005@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285659210175@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -281,7 +319,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "6285643241592@s.whatsapp.net": {
       "antilinkgc": false,
@@ -306,7 +351,9 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": false,
-      "left": false
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
@@ -326,7 +373,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
@@ -346,7 +400,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363315495507467@g.us": {
       "antilinkgc": true,
@@ -439,7 +500,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363418772874035@g.us": {
       "antilinkgc": false,
@@ -537,6 +605,33 @@
       "antitagsw": false,
       "welcome": false,
       "left": false
+    },
+    "6287722429841@s.whatsapp.net": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     }
   },
   "settings": {},
