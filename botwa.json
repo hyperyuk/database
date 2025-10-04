@@ -25,17 +25,20 @@
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 100,
+      "premium": true
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 98
+      "limit": 98,
+      "premium": true
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 100,
+      "premium": false
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
@@ -194,7 +197,8 @@
     "6289699434506@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 100,
+      "premium": false
     },
     "6288976776354@s.whatsapp.net": {
       "saldo": 0,
@@ -260,6 +264,24 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6285167570553@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6285165217298@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "120363315495507467@g.us": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
@@ -359,7 +381,23 @@
       "antilinkfb": false,
       "antilinkpin": false,
       "antilinktele": false,
-      "antilinkthreads": false
+      "antilinkthreads": false,
+      "welcomeMode": 1,
+      "leftMode": 1,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": true,
+      "left": true,
+      "antibadword": false,
+      "antivirtext": false,
+      "welcomeText": "Selamat datang @user di @group 🎉",
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -484,7 +522,9 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": true,
-      "left": false
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
