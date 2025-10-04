@@ -159,8 +159,7 @@
     },
     "62895352286844@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0,
-      "limit": 100
+      "warn": 0
     },
     "6283195840616@s.whatsapp.net": {
       "saldo": 0,
@@ -328,51 +327,6 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
-    },
-    "62882001853657@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6288216669376@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6289699320171@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6287822511789@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6288279220993@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "628895194517@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6281216690937@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6285833412048@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6285717591091@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
     }
   },
   "chats": {
@@ -461,14 +415,7 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false,
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "autoai": false
     },
     "120363315495507467@g.us": {
       "antilinkgc": true,
@@ -608,14 +555,7 @@
       "welcome": true,
       "left": false,
       "antibadword": false,
-      "antivirtext": false,
-      "closetime": {
-        "hour": 23,
-        "minute": 16,
-        "zone": "WIB"
-      },
-      "isClosed": true,
-      "isOpen": false
+      "antivirtext": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -668,33 +608,6 @@
       "antitagsw": false,
       "welcome": false,
       "left": false
-    },
-    "6289699320171@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
     }
   },
   "settings": {
