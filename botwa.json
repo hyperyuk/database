@@ -334,12 +334,6 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
-    },
-    "6285167570553@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
     }
   },
   "chats": {
@@ -442,8 +436,8 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 1,
-      "leftMode": 1,
+      "welcomeMode": 2,
+      "leftMode": 2,
       "antisticker": false,
       "antivideo": false,
       "antifoto": false,
@@ -452,12 +446,10 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": true,
-      "left": true,
+      "welcome": false,
+      "left": false,
       "antibadword": false,
-      "antivirtext": false,
-      "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "antivirtext": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
