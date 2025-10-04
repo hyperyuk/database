@@ -159,7 +159,8 @@
     },
     "62895352286844@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6283195840616@s.whatsapp.net": {
       "saldo": 0,
@@ -327,6 +328,21 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "62882001853657@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6288216669376@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6289699320171@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -415,7 +431,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363315495507467@g.us": {
       "antilinkgc": true,
@@ -555,7 +578,14 @@
       "welcome": true,
       "left": false,
       "antibadword": false,
-      "antivirtext": false
+      "antivirtext": false,
+      "closetime": {
+        "hour": 23,
+        "minute": 16,
+        "zone": "WIB"
+      },
+      "isClosed": true,
+      "isOpen": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
