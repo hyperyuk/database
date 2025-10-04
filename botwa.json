@@ -334,6 +334,18 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6285167570553@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "628983976285@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
@@ -436,8 +448,8 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 2,
-      "leftMode": 2,
+      "welcomeMode": 1,
+      "leftMode": 1,
       "antisticker": false,
       "antivideo": false,
       "antifoto": false,
@@ -446,10 +458,12 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": false,
-      "left": false,
+      "welcome": true,
+      "left": true,
       "antibadword": false,
-      "antivirtext": false
+      "antivirtext": false,
+      "welcomeText": "*Halo @user Selamat Datang Di @group*\n\n> • Bagaimana Menggunakan Bot?\n\nketik *.menu* untuk melihat list fitur\nketik *.limit* untuk melihat limit\nketik *.report* untuk melaporkan fitur error\n\n🕊️ *Gunakan Bot Dengan Bijakk*",
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
