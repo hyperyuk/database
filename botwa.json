@@ -366,6 +366,12 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "628983976285@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
