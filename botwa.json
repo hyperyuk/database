@@ -440,7 +440,12 @@
       "welcome": false,
       "left": false,
       "antibadword": false,
-      "antivirtext": false
+      "antivirtext": false,
+      "closetime": {
+        "hour": 15,
+        "minute": 50,
+        "zone": "WIB"
+      }
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
