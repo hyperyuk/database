@@ -489,7 +489,9 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": true,
-      "left": false
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
