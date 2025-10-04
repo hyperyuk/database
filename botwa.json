@@ -446,8 +446,8 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": false,
-      "left": false,
+      "welcome": true,
+      "left": true,
       "antibadword": false,
       "antivirtext": false
     },
