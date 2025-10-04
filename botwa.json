@@ -361,7 +361,7 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 2,
+      "welcomeMode": 1,
       "leftMode": 2,
       "antisticker": false,
       "antivideo": false,
@@ -371,10 +371,12 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": false,
+      "welcome": true,
       "left": false,
       "antibadword": false,
-      "antivirtext": false
+      "antivirtext": false,
+      "welcomeText": "Selamat datang @user di @group 🎉",
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
