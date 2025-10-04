@@ -334,12 +334,6 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
-    },
-    "6285167570553@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
     }
   },
   "chats": {
@@ -452,8 +446,8 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": true,
-      "left": true,
+      "welcome": false,
+      "left": false,
       "antibadword": false,
       "antivirtext": false
     },
