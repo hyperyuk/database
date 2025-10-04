@@ -184,7 +184,7 @@
     "6287766174254@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 99
+      "limit": 100
     },
     "6283121193359@s.whatsapp.net": {
       "saldo": 0,
@@ -257,46 +257,6 @@
       "limit": 100
     },
     "6285183585842@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "628816731775@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 99
-    },
-    "6285165799575@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "62895629488844@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6285643029059@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6285717216319@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6285136276274@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "628999339645@s.whatsapp.net": {
-      "saldo": 0,
-      "warn": 0,
-      "limit": 100
-    },
-    "6282128738504@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "limit": 100
@@ -524,9 +484,7 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": true,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "left": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -551,9 +509,7 @@
       "autoai": false,
       "antitagsw": false,
       "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "left": false
     },
     "6287882339936@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -578,36 +534,7 @@
       "autoai": false,
       "antitagsw": false,
       "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
-    },
-    "628816731775@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "left": false
     }
   },
   "settings": {},
