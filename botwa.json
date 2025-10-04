@@ -334,6 +334,12 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6283194737062@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
