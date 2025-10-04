@@ -346,14 +346,7 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false,
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "autoai": false
     },
     "120363315495507467@g.us": {
       "antilinkgc": true,
