@@ -334,36 +334,6 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
-    },
-    "6285167570553@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "628983976285@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "628895194517@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "62881023811824@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285705167520@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
     }
   },
   "chats": {
@@ -466,8 +436,8 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 1,
-      "leftMode": 1,
+      "welcomeMode": 2,
+      "leftMode": 2,
       "antisticker": false,
       "antivideo": false,
       "antifoto": false,
@@ -476,12 +446,10 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": true,
-      "left": true,
+      "welcome": false,
+      "left": false,
       "antibadword": false,
-      "antivirtext": false,
-      "welcomeText": "*Halo @user Selamat Datang Di @group*\n\n> • Bagaimana Menggunakan Bot?\n\nketik *.menu* untuk melihat list fitur\nketik *.limit* untuk melihat limit\nketik *.report* untuk melaporkan fitur error\n\n🕊️ *Gunakan Bot Dengan Bijakk*",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "antivirtext": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
