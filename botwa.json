@@ -372,7 +372,7 @@
       "autoai": false,
       "antitagsw": false,
       "welcome": true,
-      "left": false,
+      "left": true,
       "antibadword": false,
       "antivirtext": false,
       "welcomeText": "Selamat datang @user di @group 🎉",
