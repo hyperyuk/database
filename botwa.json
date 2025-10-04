@@ -536,9 +536,7 @@
       "autoai": false,
       "antitagsw": false,
       "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false
+      "left": false
     }
   },
   "settings": {},
