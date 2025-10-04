@@ -25,7 +25,7 @@
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 96
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
@@ -150,7 +150,8 @@
     },
     "62895400736146@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6283867934835@s.whatsapp.net": {
       "saldo": 0,
@@ -158,7 +159,8 @@
     },
     "62895352286844@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6283195840616@s.whatsapp.net": {
       "saldo": 0,
@@ -170,7 +172,8 @@
     },
     "6281235868662@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0
+      "warn": 0,
+      "limit": 100
     },
     "6285811464931@s.whatsapp.net": {
       "saldo": 0,
@@ -260,6 +263,126 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6282125921117@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285767042082@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285136276274@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6289613583262@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6289525603182@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285126468390@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "62895393285191@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6287710484478@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6283832171697@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "628388714883@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285777507511@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6287719952517@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "62881010872577@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "62882001853657@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6288216669376@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6289699320171@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6287822511789@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6288279220993@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "628895194517@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6281216690937@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285833412048@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6285717591091@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6287718190687@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
+    },
+    "6289508457333@s.whatsapp.net": {
+      "saldo": 0,
+      "warn": 0,
+      "limit": 100
     }
   },
   "chats": {
@@ -306,7 +429,9 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": false,
-      "left": false
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363405250144904@g.us": {
       "antilinkgc": true,
@@ -346,7 +471,14 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     },
     "120363315495507467@g.us": {
       "antilinkgc": true,
@@ -484,7 +616,16 @@
       "leftMode": 2,
       "antitagsw": false,
       "welcome": true,
-      "left": false
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "closetime": {
+        "hour": 23,
+        "minute": 16,
+        "zone": "WIB"
+      },
+      "isClosed": true,
+      "isOpen": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -537,9 +678,40 @@
       "antitagsw": false,
       "welcome": false,
       "left": false
+    },
+    "6289699320171@s.whatsapp.net": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false
     }
   },
-  "settings": {},
+  "settings": {
+    "autocleartmp": true,
+    "forceGroup": true,
+    "autocorrectcmd": true
+  },
   "database": {
     "sewa": {
       "120363421935654848@g.us": {
