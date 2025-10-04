@@ -262,6 +262,12 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "120363315495507467@g.us": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
