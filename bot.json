@@ -32,7 +32,10 @@
       "saldo": 0,
       "warn": 0,
       "limit": 92,
-      "premium": true
+      "premium": true,
+      "name": "Haris",
+      "registered": true,
+      "joined": "05/10/2025 17:32"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -343,7 +346,9 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "~rafzzz rto 100 testi",
+      "registered": false
     },
     "6282379795568@s.whatsapp.net": {
       "premium": false,
