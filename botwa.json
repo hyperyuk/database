@@ -123,7 +123,8 @@
     "120363421935654848@g.us": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 100,
+      "premium": false
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -329,7 +330,7 @@
       "warn": 0,
       "limit": 100
     },
-    "6283846285041@s.whatsapp.net": {
+    "6285137876342@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
@@ -633,9 +634,8 @@
   },
   "settings": {
     "autocleartmp": true,
-    "forceGroup": false,
-    "autocorrectcmd": true,
-    "onlygc": true
+    "forceGroup": true,
+    "autocorrectcmd": true
   },
   "database": {
     "sewa": {
