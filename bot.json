@@ -541,7 +541,9 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "Kaaisell",
+      "registered": false
     },
     "6283194737062@s.whatsapp.net": {
       "premium": false,
@@ -649,6 +651,14 @@
     },
     "6285652172395@s.whatsapp.net": {
       "name": "chello",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6285716882185@s.whatsapp.net": {
+      "name": "",
       "registered": false,
       "premium": false,
       "saldo": 0,
