@@ -328,6 +328,12 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100
+    },
+    "6283846285041@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
@@ -627,8 +633,9 @@
   },
   "settings": {
     "autocleartmp": true,
-    "forceGroup": true,
-    "autocorrectcmd": true
+    "forceGroup": false,
+    "autocorrectcmd": true,
+    "onlygc": true
   },
   "database": {
     "sewa": {
