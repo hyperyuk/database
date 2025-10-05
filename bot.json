@@ -819,7 +819,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": true
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
