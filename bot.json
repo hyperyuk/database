@@ -1076,6 +1076,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "6283852268072@s.whatsapp.net": {
+      "name": "~",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1523,8 +1531,8 @@
           "nextTime": 1759677515185
         },
         "120363402456841403@g.us": {
-          "lastSent": 1759675986982,
-          "nextTime": 1759677119372
+          "lastSent": 1759678015586,
+          "nextTime": 1759679248136
         },
         "120363315495507467@g.us": {
           "lastSent": 1759672192316,
