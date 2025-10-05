@@ -856,11 +856,12 @@
       "antitagsw": false,
       "welcome": true,
       "left": false,
-      "antibadword": false,
+      "antibadword": true,
       "antivirtext": false,
       "autodownloader": false,
       "badwords": [
-        "bokep"
+        "bokep",
+        "bb"
       ]
     },
     "6287766174254@s.whatsapp.net": {
