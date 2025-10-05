@@ -36,8 +36,7 @@
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
@@ -124,8 +123,7 @@
     "120363421935654848@g.us": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -162,9 +160,7 @@
     },
     "62895352286844@s.whatsapp.net": {
       "saldo": 0,
-      "warn": 0,
-      "premium": false,
-      "limit": 30
+      "warn": 0
     },
     "6283195840616@s.whatsapp.net": {
       "saldo": 0,
@@ -211,8 +207,7 @@
     "62895801066035@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6281229304959@s.whatsapp.net": {
       "saldo": 0,
@@ -267,8 +262,7 @@
     "6285183585842@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6282125921117@s.whatsapp.net": {
       "saldo": 0,
@@ -288,8 +282,7 @@
     "6289613583262@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6289525603182@s.whatsapp.net": {
       "saldo": 0,
@@ -314,8 +307,7 @@
     "6283832171697@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "628388714883@s.whatsapp.net": {
       "saldo": 0,
@@ -338,156 +330,6 @@
       "limit": 100
     },
     "6283846285041@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285167570553@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "628983976285@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "628895194517@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "62881023811824@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285705167520@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6282315112716@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6282379795568@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6283181826727@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285165217298@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6288901165510@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6289531617119@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6287718190687@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285654587335@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285806335650@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6282182417699@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "62895322629880@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6283194737062@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "628999363608@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6287780959980@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6283175539504@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6287714006692@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6288215373572@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6283193452579@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6282339324038@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "62882006062744@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
@@ -594,8 +436,8 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 1,
-      "leftMode": 1,
+      "welcomeMode": 2,
+      "leftMode": 2,
       "antisticker": false,
       "antivideo": false,
       "antifoto": false,
@@ -604,12 +446,10 @@
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": true,
-      "left": true,
+      "welcome": false,
+      "left": false,
       "antibadword": false,
-      "antivirtext": false,
-      "welcomeText": "*Halo @user Selamat Datang Di @group*\n\n> • Bagaimana Menggunakan Bot?\n\nketik *.menu* untuk melihat list fitur\nketik *.limit* untuk melihat limit\nketik *.report* untuk melaporkan fitur error\n\n🕊️ *Gunakan Bot Dengan Bijakk*",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "antivirtext": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
