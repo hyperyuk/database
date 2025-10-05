@@ -32,9 +32,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 92,
-      "premium": true,
-      "name": "Haris",
-      "registered": false
+      "premium": true
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -128,9 +126,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100,
-      "premium": false,
-      "name": "",
-      "registered": false
+      "premium": false
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -341,10 +337,7 @@
     "62881010872577@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "name": "rav",
-      "registered": false,
-      "premium": false
+      "limit": 100
     },
     "6283846285041@s.whatsapp.net": {
       "premium": false,
