@@ -31,7 +31,7 @@
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 93,
+      "limit": 95,
       "premium": true
     },
     "6287882339936@s.whatsapp.net": {
@@ -207,8 +207,7 @@
     "6288976776354@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "62895801066035@s.whatsapp.net": {
       "saldo": 0,
@@ -310,8 +309,7 @@
     "6287710484478@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6283832171697@s.whatsapp.net": {
       "saldo": 0,
@@ -378,7 +376,7 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 29
+      "limit": 30
     },
     "120363347471106123@g.us": {
       "premium": false,
@@ -477,78 +475,6 @@
       "limit": 30
     },
     "6285935220138@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285718520637@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6287718190687@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6282258769211@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285735737804@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6283139474129@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6281997540906@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6283194737062@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285810534337@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6287757650543@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285137837047@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 29
-    },
-    "6285184097718@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 29
-    },
-    "6285758955718@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
@@ -662,7 +588,7 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 1,
+      "welcomeMode": 2,
       "leftMode": 2,
       "antisticker": false,
       "antivideo": false,
@@ -676,9 +602,8 @@
       "left": true,
       "antibadword": false,
       "antivirtext": false,
-      "welcomeText": "🎉 Selamat datang @user di grup @group!\n\nKetik:\n> • .menu — untuk melihat daftar fitur bot \n> • .report — untuk melaporkan bug/error \n> • .daftar — untuk mendaftar sebagai user bot \n> • .limit — untuk mengecek limit kamu \n\nSemoga betah dan jangan lupa patuhi peraturan grup ya! 😄",
-      "leftText": "Selamat tinggal @user dari @group 👋",
-      "autodownloader": false
+      "welcomeText": "Selamat datang @user di @group 🎉",
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -885,11 +810,10 @@
       "welcome": false,
       "left": false,
       "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false
+      "antivirtext": false
     },
     "120363420714771008@g.us": {
-      "welcomeMode": 1,
+      "welcomeMode": 2,
       "leftMode": 2,
       "antilinkgc": false,
       "antilinkch": false,
@@ -914,9 +838,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": true,
-      "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "autodownloader": true
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
