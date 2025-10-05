@@ -32,7 +32,9 @@
       "saldo": 0,
       "warn": 0,
       "limit": 92,
-      "premium": true
+      "premium": true,
+      "name": "Haris",
+      "registered": false
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -126,7 +128,9 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100,
-      "premium": false
+      "premium": false,
+      "name": "",
+      "registered": false
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
