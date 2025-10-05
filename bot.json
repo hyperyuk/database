@@ -32,7 +32,10 @@
       "saldo": 0,
       "warn": 0,
       "limit": 92,
-      "premium": true
+      "premium": true,
+      "name": "Haris",
+      "registered": true,
+      "joined": "05/10/2025 17:32"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -343,7 +346,9 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "~rafzzz rto 100 testi",
+      "registered": false
     },
     "6282379795568@s.whatsapp.net": {
       "premium": false,
@@ -355,7 +360,10 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "haneul ai~",
+      "registered": true,
+      "joined": "05/10/2025 17:48"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -568,6 +576,30 @@
       "limit": 29
     },
     "628979062086@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "254211161870370@lid": {
+      "name": "haneul ai~",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6285167570553@s.whatsapp.net": {
+      "name": "lifec own rox rto 50 testi",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6287812419643@s.whatsapp.net": {
+      "name": "",
+      "registered": false,
       "premium": false,
       "saldo": 0,
       "warn": 0,
@@ -824,9 +856,13 @@
       "antitagsw": false,
       "welcome": true,
       "left": false,
-      "antibadword": false,
+      "antibadword": true,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "badwords": [
+        "bokep",
+        "bb"
+      ]
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
