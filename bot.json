@@ -309,8 +309,7 @@
     "6287710484478@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100,
-      "premium": false
+      "limit": 100
     },
     "6283832171697@s.whatsapp.net": {
       "saldo": 0,
@@ -589,7 +588,7 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "welcomeMode": 1,
+      "welcomeMode": 2,
       "leftMode": 2,
       "antisticker": false,
       "antivideo": false,
@@ -603,9 +602,8 @@
       "left": true,
       "antibadword": false,
       "antivirtext": false,
-      "welcomeText": "🎉 Selamat datang @user di grup @group!\n\nKetik:\n> • .menu — untuk melihat daftar fitur bot \n> • .report — untuk melaporkan bug/error \n> • .daftar — untuk mendaftar sebagai user bot \n> • .limit — untuk mengecek limit kamu \n\nSemoga betah dan jangan lupa patuhi peraturan grup ya! 😄",
-      "leftText": "Selamat tinggal @user dari @group 👋",
-      "autodownloader": false
+      "welcomeText": "Selamat datang @user di @group 🎉",
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -815,7 +813,7 @@
       "antivirtext": false
     },
     "120363420714771008@g.us": {
-      "welcomeMode": 1,
+      "welcomeMode": 2,
       "leftMode": 2,
       "antilinkgc": false,
       "antilinkch": false,
@@ -840,9 +838,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": true,
-      "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "autodownloader": true
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
