@@ -467,6 +467,12 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6282339324038@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
@@ -853,7 +859,8 @@
       "welcome": false,
       "left": false,
       "antibadword": false,
-      "antivirtext": false
+      "antivirtext": false,
+      "autodownloader": false
     }
   },
   "settings": {
