@@ -334,6 +334,24 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6282379795568@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "62856432415926@s.whatsapp.net": {
+      "premium": true,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 200
+    },
+    "6285222901693@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
     }
   },
   "chats": {
@@ -442,12 +460,12 @@
       "antivideo": false,
       "antifoto": false,
       "antiaudio": false,
-      "antibot": false,
+      "antibot": true,
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": false,
-      "left": false,
+      "welcome": true,
+      "left": true,
       "antibadword": false,
       "antivirtext": false
     },
@@ -634,7 +652,7 @@
   "settings": {
     "autocleartmp": true,
     "forceGroup": false,
-    "autocorrectcmd": true,
+    "autocorrectcmd": false,
     "onlygc": true
   },
   "database": {
