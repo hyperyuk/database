@@ -32,18 +32,13 @@
       "saldo": 0,
       "warn": 0,
       "limit": 92,
-      "premium": true,
-      "name": "Haris",
-      "registered": true,
-      "joined": "05/10/2025 17:32"
+      "premium": true
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "limit": 100,
-      "premium": false,
-      "name": "Zaa",
-      "registered": false
+      "premium": false
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0
@@ -131,9 +126,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100,
-      "premium": false,
-      "name": "",
-      "registered": false
+      "premium": false
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
@@ -276,9 +269,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100,
-      "premium": false,
-      "name": "KENZZ store",
-      "registered": false
+      "premium": false
     },
     "6282125921117@s.whatsapp.net": {
       "saldo": 0,
@@ -300,9 +291,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 100,
-      "premium": false,
-      "name": "apan",
-      "registered": false
+      "premium": false
     },
     "6289525603182@s.whatsapp.net": {
       "saldo": 0,
@@ -354,26 +343,19 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30,
-      "name": "~rafzzz rto 100 testi",
-      "registered": false
+      "limit": 30
     },
     "6282379795568@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30,
-      "name": "levi store cape kenon",
-      "registered": false
+      "limit": 30
     },
     "62856432415926@s.whatsapp.net": {
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200,
-      "name": "haneul ai~",
-      "registered": true,
-      "joined": "05/10/2025 17:48"
+      "limit": 200
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -397,25 +379,19 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 29,
-      "name": "",
-      "registered": false
+      "limit": 29
     },
     "120363347471106123@g.us": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "6283175539504@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30,
-      "name": "RANGGA STORE",
-      "registered": false
+      "limit": 30
     },
     "62895322629880@s.whatsapp.net": {
       "premium": false,
@@ -577,9 +553,7 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "62895370154379@s.whatsapp.net": {
       "premium": false,
@@ -594,46 +568,6 @@
       "limit": 29
     },
     "628979062086@s.whatsapp.net": {
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "254211161870370@lid": {
-      "name": "haneul ai~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285167570553@s.whatsapp.net": {
-      "name": "lifec own rox rto 50 testi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6287812419643@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6285727869355@s.whatsapp.net": {
-      "name": "RAFF",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 30
-    },
-    "6288901165510@s.whatsapp.net": {
-      "name": "FATUR XANZ STORE",
-      "registered": false,
       "premium": false,
       "saldo": 0,
       "warn": 0,
@@ -890,13 +824,9 @@
       "antitagsw": false,
       "welcome": true,
       "left": false,
-      "antibadword": true,
+      "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
-      "badwords": [
-        "bokep",
-        "bb"
-      ]
+      "autodownloader": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
