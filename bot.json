@@ -262,7 +262,8 @@
     "6285183585842@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 100
+      "limit": 100,
+      "premium": false
     },
     "6282125921117@s.whatsapp.net": {
       "saldo": 0,
@@ -330,6 +331,36 @@
       "limit": 100
     },
     "6283846285041@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6282379795568@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "62856432415926@s.whatsapp.net": {
+      "premium": true,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 200
+    },
+    "6285222901693@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6285766738113@s.whatsapp.net": {
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 30
+    },
+    "6285165217298@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
@@ -442,12 +473,12 @@
       "antivideo": false,
       "antifoto": false,
       "antiaudio": false,
-      "antibot": false,
+      "antibot": true,
       "warn": false,
       "autoai": false,
       "antitagsw": false,
-      "welcome": false,
-      "left": false,
+      "welcome": true,
+      "left": true,
       "antibadword": false,
       "antivirtext": false
     },
@@ -634,7 +665,7 @@
   "settings": {
     "autocleartmp": true,
     "forceGroup": false,
-    "autocorrectcmd": true,
+    "autocorrectcmd": false,
     "onlygc": true
   },
   "database": {
