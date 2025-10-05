@@ -913,6 +913,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "54774221242455@lid": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1366,6 +1374,10 @@
         "120363315495507467@g.us": {
           "lastSent": 1759665735529,
           "nextTime": 1759666687655
+        },
+        "120363347471106123@g.us": {
+          "lastSent": 1759666416816,
+          "nextTime": 1759667481833
         }
       }
     },
