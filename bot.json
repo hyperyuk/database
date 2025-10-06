@@ -38,7 +38,7 @@
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 198,
+      "limit": 200,
       "premium": true,
       "name": "Haris",
       "registered": true,
@@ -720,7 +720,7 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 39,
+      "limit": 40,
       "joined": "05/10/2025 18:31"
     },
     "6288901165510@s.whatsapp.net": {
@@ -1737,12 +1737,12 @@
           "nextTime": 1759724098024
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759723920439,
-          "nextTime": 1759725024923
+          "lastSent": 1759722015109,
+          "nextTime": 1759722934509
         },
         "120363402456841403@g.us": {
-          "lastSent": 1759722788884,
-          "nextTime": 1759724208780
+          "lastSent": 1759720443755,
+          "nextTime": 1759722023354
         },
         "120363315495507467@g.us": {
           "lastSent": 1759710154020,
