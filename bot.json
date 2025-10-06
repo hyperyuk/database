@@ -38,9 +38,9 @@
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 200,
+      "limit": 199,
       "premium": true,
-      "name": "Haris",
+      "name": "riss",
       "registered": true,
       "joined": "05/10/2025 17:32"
     },
@@ -1264,7 +1264,7 @@
       "limit": 40
     },
     "6285368669037@s.whatsapp.net": {
-      "name": "Pratama",
+      "name": "",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -1289,6 +1289,86 @@
     },
     "6282190036579@s.whatsapp.net": {
       "name": "𝐏𝐀𝐓𝐙 𝐒𝐓𝐎𝐑𝐄",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285770583901@s.whatsapp.net": {
+      "name": "iky🤭",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283153184785@s.whatsapp.net": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287878859781@s.whatsapp.net": {
+      "name": "Kenan",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6281263622207@s.whatsapp.net": {
+      "name": "dils",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285607599702@s.whatsapp.net": {
+      "name": "egii`",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402160288081@g.us": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283183360231@s.whatsapp.net": {
+      "name": "hnz pengen femes",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6282310593039@s.whatsapp.net": {
+      "name": "arshaddjalaludina",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6281401694914@s.whatsapp.net": {
+      "name": "Raditya",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283189857504@s.whatsapp.net": {
+      "name": "Kinox",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -1719,6 +1799,34 @@
       "antibadword": false,
       "antivirtext": false,
       "autodownloader": false
+    },
+    "120363402160288081@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false
     }
   },
   "settings": {
@@ -1737,20 +1845,24 @@
           "nextTime": 1759724098024
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759722015109,
-          "nextTime": 1759722934509
+          "lastSent": 1759757778225,
+          "nextTime": 1759758829965
         },
         "120363402456841403@g.us": {
-          "lastSent": 1759720443755,
-          "nextTime": 1759722023354
+          "lastSent": 1759757815158,
+          "nextTime": 1759758992594
         },
         "120363315495507467@g.us": {
-          "lastSent": 1759710154020,
-          "nextTime": 1759711943465
+          "lastSent": 1759757707659,
+          "nextTime": 1759758864575
         },
         "120363347471106123@g.us": {
           "lastSent": 1759709541063,
           "nextTime": 1759710574669
+        },
+        "120363402160288081@g.us": {
+          "lastSent": 1759757712137,
+          "nextTime": 1759758873536
         }
       }
     },
