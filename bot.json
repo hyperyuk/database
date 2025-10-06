@@ -33,14 +33,16 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "yt.rissxd.biz.id",
+      "registered": false
     },
     "6289668164759@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "limit": 200,
       "premium": true,
-      "name": "Haris",
+      "name": "",
       "registered": true,
       "joined": "05/10/2025 17:32"
     },
@@ -1232,7 +1234,7 @@
       "limit": 40
     },
     "6287758178666@s.whatsapp.net": {
-      "name": "Simo Hayhaタ",
+      "name": "Kenn タ",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -1289,6 +1291,47 @@
     },
     "6282190036579@s.whatsapp.net": {
       "name": "𝐏𝐀𝐓𝐙 𝐒𝐓𝐎𝐑𝐄",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283802941177@s.whatsapp.net": {
+      "name": "satz`",
+      "registered": true,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40,
+      "joined": "06/10/2025 19:48"
+    },
+    "6281278982097@s.whatsapp.net": {
+      "name": "iqsan",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6282186838750@s.whatsapp.net": {
+      "name": "Arya",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285780056788@s.whatsapp.net": {
+      "name": "seto🗿",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402160288081@g.us": {
+      "name": "",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -1658,11 +1701,15 @@
       "antitagsw": false,
       "welcome": false,
       "left": false,
-      "antibadword": false,
+      "antibadword": true,
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "badwords": [
+        "bokep",
+        "bb"
+      ]
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1719,6 +1766,34 @@
       "antibadword": false,
       "antivirtext": false,
       "autodownloader": false
+    },
+    "120363402160288081@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false
     }
   },
   "settings": {
@@ -1733,16 +1808,16 @@
       "maxInterval": 1800000,
       "groups": {
         "120363420714771008@g.us": {
-          "lastSent": 1759722442560,
-          "nextTime": 1759724098024
+          "lastSent": 1759754844034,
+          "nextTime": 1759756244670
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759722015109,
-          "nextTime": 1759722934509
+          "lastSent": 1759754681067,
+          "nextTime": 1759755887657
         },
         "120363402456841403@g.us": {
-          "lastSent": 1759720443755,
-          "nextTime": 1759722023354
+          "lastSent": 1759754672601,
+          "nextTime": 1759756114401
         },
         "120363315495507467@g.us": {
           "lastSent": 1759710154020,
@@ -1751,6 +1826,10 @@
         "120363347471106123@g.us": {
           "lastSent": 1759709541063,
           "nextTime": 1759710574669
+        },
+        "120363402160288081@g.us": {
+          "lastSent": 1759754659049,
+          "nextTime": 1759755826023
         }
       }
     },
