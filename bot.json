@@ -432,8 +432,7 @@
       "warn": 0,
       "limit": 200,
       "registered": true,
-      "joined": "05/10/2025 17:48",
-      "name": "haneul ai~"
+      "joined": "05/10/2025 17:48"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -1691,8 +1690,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
+      "autodownloader": false
     },
     "120363402456841403@g.us": {
       "welcomeMode": 2,
@@ -1766,12 +1764,6 @@
         "expired": 1761815250009,
         "add": 1759309650009,
         "days": 29,
-        "notify1hSent": false
-      },
-      "120363402160288081@g.us": {
-        "expired": 1762312022464,
-        "add": 1759892822464,
-        "days": 28,
         "notify1hSent": false
       }
     }
