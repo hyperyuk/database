@@ -39,7 +39,10 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "riss",
+      "registered": true,
+      "joined": "08/10/2025 14:16"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -393,7 +396,9 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "",
+      "registered": false
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -417,7 +422,9 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "",
+      "registered": false
     },
     "120363347471106123@g.us": {
       "premium": false,
@@ -610,6 +617,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "62895344793832@s.whatsapp.net": {
+      "name": "arraysomehere",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -736,7 +751,8 @@
       "antivirtext": false,
       "welcomeText": "🎉 Selamat datang @user di grup @group!\n\nKetik:\n> • .menu — untuk melihat daftar fitur bot \n> • .report — untuk melaporkan bug/error \n> • .daftar — untuk mendaftar sebagai user bot \n> • .limit — untuk mengecek limit kamu \n\nSemoga betah dan jangan lupa patuhi peraturan grup ya! 😄",
       "leftText": "Selamat tinggal @user dari @group 👋",
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -974,7 +990,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
