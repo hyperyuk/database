@@ -39,9 +39,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true,
-      "name": "riss",
-      "registered": false
+      "premium": true
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -395,7 +393,10 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "haneul ai~",
+      "registered": true,
+      "joined": "08/10/2025 14:22"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -613,16 +614,25 @@
       "warn": 0,
       "limit": 30
     },
-    "120363402160288081@g.us": {
-      "name": "",
+    "254211161870370@lid": {
+      "name": "haneul ai~",
+      "registered": true,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40,
+      "joined": "08/10/2025 14:22"
+    },
+    "6285603526546@s.whatsapp.net": {
+      "name": ".",
       "registered": false,
       "premium": false,
       "saldo": 0,
       "warn": 0,
       "limit": 40
     },
-    "6281931954686@s.whatsapp.net": {
-      "name": "Rann",
+    "120363402456841403@g.us": {
+      "name": "",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -1023,7 +1033,7 @@
       "antivirtext": false,
       "autodownloader": false
     },
-    "120363402160288081@g.us": {
+    "120363402456841403@g.us": {
       "welcomeMode": 2,
       "leftMode": 2,
       "antilinkgc": false,
