@@ -39,7 +39,10 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "riss",
+      "registered": true,
+      "joined": "08/10/2025 14:33"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -393,7 +396,9 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "haneul ai~",
+      "registered": false
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -610,6 +615,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6282177917770@s.whatsapp.net": {
+      "name": "BentleyBR",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -864,7 +877,8 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -974,7 +988,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
