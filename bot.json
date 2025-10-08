@@ -40,7 +40,7 @@
       "warn": 0,
       "limit": 200,
       "premium": true,
-      "name": "riss",
+      "name": "Haris",
       "registered": true,
       "joined": "05/10/2025 17:32"
     },
@@ -1294,38 +1294,6 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
-    },
-    "6283879688694@s.whatsapp.net": {
-      "name": "tzy⚡",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289528042788@s.whatsapp.net": {
-      "name": "REAL HANZ STORR17",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285813132944@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "120363403139085607@g.us": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
     }
   },
   "chats": {
@@ -1584,8 +1552,7 @@
       "badwords": [
         "bokep",
         "bb"
-      ],
-      "onlyadmin": false
+      ]
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1695,8 +1662,7 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋",
-      "onlyadmin": false
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1753,35 +1719,6 @@
       "antibadword": false,
       "antivirtext": false,
       "autodownloader": false
-    },
-    "120363403139085607@g.us": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
     }
   },
   "settings": {
@@ -1796,12 +1733,12 @@
       "maxInterval": 1800000,
       "groups": {
         "120363420714771008@g.us": {
-          "lastSent": 1759896632200,
-          "nextTime": 1759897953758
+          "lastSent": 1759722442560,
+          "nextTime": 1759724098024
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759896633461,
-          "nextTime": 1759898122026
+          "lastSent": 1759722015109,
+          "nextTime": 1759722934509
         },
         "120363402456841403@g.us": {
           "lastSent": 1759720443755,
@@ -1814,10 +1751,6 @@
         "120363347471106123@g.us": {
           "lastSent": 1759709541063,
           "nextTime": 1759710574669
-        },
-        "120363403139085607@g.us": {
-          "lastSent": 1759896825743,
-          "nextTime": 1759897746535
         }
       }
     },
