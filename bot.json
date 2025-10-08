@@ -2,32 +2,32 @@
   "users": {
     "6283896520045@s.whatsapp.net": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "120363421106365694@g.us": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "26036225966124@lid": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "217565980827779@lid": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "237276139393062@lid": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "6287863145646@s.whatsapp.net": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "242241020911668@lid": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285643241592@s.whatsapp.net": {
       "saldo": 0,
@@ -39,4092 +39,577 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true,
-      "name": "riss",
-      "registered": true,
-      "joined": "05/10/2025 17:32",
-      "money": 300
+      "premium": true
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "Zaa",
-      "registered": true,
-      "joined": "05/10/2025 18:20"
+      "limit": 30,
+      "premium": false
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285600951410@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6282313175123@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6282156640203@s.whatsapp.net": {
       "saldo": 0,
-      "limit": 40
+      "limit": 30
     },
     "6282342241464@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "35498189938743@lid": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6287784709370@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62882002025428@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285779519452@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285867260028@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285837358343@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6287763246924@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283863988264@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283136203969@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6281225774754@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62895405697174@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62882006153384@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283199671525@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285763818519@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "120363358239377192@g.us": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6288289347045@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "ardi",
-      "registered": false,
-      "premium": false
+      "limit": 30
     },
     "120363421935654848@g.us": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "",
-      "registered": false
+      "limit": 30,
+      "premium": false
     },
     "6288991162509@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285194820298@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285604334618@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "premium": false,
-      "limit": 40,
-      "name": "RANZZ",
-      "registered": false
+      "limit": 30
     },
     "6285285081870@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6282228797703@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "628315431584@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62895400736146@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "L~",
-      "registered": false,
-      "premium": false
+      "limit": 30
     },
     "6283867934835@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62895352286844@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283195840616@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6289513435086@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6281235868662@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "HANZ STORE REAL",
-      "registered": false,
-      "premium": false
+      "limit": 30
     },
     "6285811464931@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283115623786@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6287766174254@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283121193359@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6289699434506@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6288976776354@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "h",
-      "registered": false
+      "limit": 30,
+      "premium": false
     },
     "62895801066035@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "07",
-      "registered": true,
-      "premium": false,
-      "joined": "07/10/2025 17:45"
+      "limit": 30
     },
     "6281229304959@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62887437006254@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283187614395@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285743266005@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285803194415@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "syafira",
-      "registered": false,
-      "premium": false
+      "limit": 30
     },
     "6283148903315@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "Killua Nope2 [JPM]",
-      "registered": false,
-      "premium": false
+      "limit": 30
     },
     "62895393768911@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62882016977932@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285752192390@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283113217902@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285183585842@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "KENZZ store",
-      "registered": false
+      "limit": 30,
+      "premium": false
     },
     "6282125921117@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285767042082@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "𝐈𝐓`𝐒 𝐌𝐄 𝐃𝐔𝐍𝐆𝐙",
-      "registered": false
+      "limit": 30,
+      "premium": false
     },
     "6285136276274@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6289613583262@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "apan",
-      "registered": false
+      "limit": 30,
+      "premium": false
     },
     "6289525603182@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285126468390@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "62895393285191@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6287710484478@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "premium": false,
-      "name": "zzz",
-      "registered": false
+      "limit": 30,
+      "premium": false
     },
     "6283832171697@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "628388714883@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285777507511@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6287719952517@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "yenn21",
-      "registered": true,
-      "premium": false,
-      "joined": "07/10/2025 10:22"
+      "limit": 30
     },
     "62881010872577@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "rav",
-      "registered": false,
-      "premium": false
+      "limit": 30
     },
     "6283846285041@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "~ Rafzzz",
-      "registered": false
+      "limit": 30
     },
     "6282379795568@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "levi store cape kenon",
-      "registered": false
+      "limit": 30
     },
     "62856432415926@s.whatsapp.net": {
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200,
-      "registered": true,
-      "joined": "05/10/2025 17:48"
+      "limit": 200
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "ayip",
-      "registered": false
+      "limit": 30
     },
     "6285766738113@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "Frtwnty store uncek uncek gacorr",
-      "registered": false
+      "limit": 30
     },
     "6285165217298@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "pmR",
-      "registered": false
+      "limit": 30
     },
     "120363315495507467@g.us": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "",
-      "registered": true,
-      "joined": "07/10/2025 14:10"
+      "limit": 30
     },
     "120363347471106123@g.us": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "6283175539504@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "RANGGA STORE",
-      "registered": false
+      "limit": 30
     },
     "62895322629880@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "628983976285@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "sok asik lau",
-      "registered": false
+      "limit": 30
     },
     "6285714510505@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285247703845@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6289503196298@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6282182417699@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "ilham str [2674]",
-      "registered": false
+      "limit": 30
     },
     "628895194517@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283895896735@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "6283180844740@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "sdos",
-      "registered": false
+      "limit": 30
     },
     "120363420714771008@g.us": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "6282315112716@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "IKYY STORE [REAL]",
-      "registered": false
+      "limit": 30
     },
     "62881023811824@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "jpm 24 jam",
-      "registered": false
+      "limit": 30
     },
     "628999195188@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "RasyaStore",
-      "registered": false
+      "limit": 30
     },
     "6282339324038@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "Archived",
-      "registered": true,
-      "joined": "06/10/2025 22:40"
+      "limit": 30
     },
     "6285935220138@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": ".",
-      "registered": false
+      "limit": 30
     },
     "6285718520637@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "REZSYY {5703}",
-      "registered": false
+      "limit": 30
     },
     "6287718190687@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "zaynnn soft spoken abiesss",
-      "registered": false
+      "limit": 30
     },
     "6282258769211@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "switch open jpm",
-      "registered": false
+      "limit": 30
     },
     "6285735737804@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6283139474129@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "jorda",
-      "registered": false
+      "limit": 30
     },
     "6281997540906@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "Kaaisell",
-      "registered": false
+      "limit": 30
     },
     "6283194737062@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "DANZX_30",
-      "registered": false
+      "limit": 30
     },
     "6285810534337@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "MATT STR NOPE 2",
-      "registered": false
+      "limit": 30
     },
     "6287757650543@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "RENZZ SHOP REAL",
-      "registered": false
+      "limit": 30
     },
     "6285137837047@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285184097718@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
+      "limit": 30
     },
     "6285758955718@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "",
-      "registered": false
+      "limit": 30
     },
     "62895370154379@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "MaiKYY",
-      "registered": true,
-      "joined": "05/10/2025 18:40"
+      "limit": 30
     },
     "6289527318160@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40,
-      "name": "1",
-      "registered": true,
-      "joined": "06/10/2025 07:22"
+      "limit": 30
     },
     "628979062086@s.whatsapp.net": {
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 40
-    },
-    "254211161870370@lid": {
-      "name": "haneul ai~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285167570553@s.whatsapp.net": {
-      "name": "lifec own rox rto 50 testi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287812419643@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285727869355@s.whatsapp.net": {
-      "name": "RAFF",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "05/10/2025 18:31"
-    },
-    "6288901165510@s.whatsapp.net": {
-      "name": "Xanz4you",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285764454791@s.whatsapp.net": {
-      "name": "luci",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285652172395@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285716882185@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282121676213@s.whatsapp.net": {
-      "name": "alian 10.7",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628888342638@s.whatsapp.net": {
-      "name": "Tomo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283871932218@s.whatsapp.net": {
-      "name": "ʘ⁠‿⁠ʘ",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "05/10/2025 18:07"
-    },
-    "62895321904872@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283181826727@s.whatsapp.net": {
-      "name": "HUSENZ STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285179938801@s.whatsapp.net": {
-      "name": "TANZZ STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "154705443479723@lid": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289501234300@s.whatsapp.net": {
-      "name": "dikoy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "120363402456841403@g.us": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285960335588@s.whatsapp.net": {
-      "name": "VanzStore.id",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628563738604@s.whatsapp.net": {
-      "name": "anin🦠",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285768926024@s.whatsapp.net": {
-      "name": "Cahyo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281524832636@s.whatsapp.net": {
-      "name": "franko.t",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289654440024@s.whatsapp.net": {
-      "name": "ㅤㅤㅤㅤ",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285608749588@s.whatsapp.net": {
-      "name": "mabar roblox😹😹",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282247827764@s.whatsapp.net": {
-      "name": "ror",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282239860060@s.whatsapp.net": {
-      "name": "Yuuuu",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281328169448@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285175245141@s.whatsapp.net": {
-      "name": "EJAA STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283876111488@s.whatsapp.net": {
-      "name": "adennxz rto 50 Testi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282397700448@s.whatsapp.net": {
-      "name": "@@@",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283854750461@s.whatsapp.net": {
-      "name": "Who?",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285397369936@s.whatsapp.net": {
-      "name": "Aufa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895342020235@s.whatsapp.net": {
-      "name": "CNXXSTORE JP/RB",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281539491245@s.whatsapp.net": {
-      "name": "bazzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283163028226@s.whatsapp.net": {
-      "name": "WISENX VACT",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "05/10/2025 19:03"
-    },
-    "6283817131076@s.whatsapp.net": {
-      "name": "sansan",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "54774221242455@lid": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281227162588@s.whatsapp.net": {
-      "name": ".....",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285189484269@s.whatsapp.net": {
-      "name": "︎ ︎     ︎ ︎     ︎ ︎",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "05/10/2025 19:22"
-    },
-    "6282293963711@s.whatsapp.net": {
-      "name": "Ray",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285137420026@s.whatsapp.net": {
-      "name": "garzdc",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282336688415@s.whatsapp.net": {
-      "name": "No Name!",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895411956310@s.whatsapp.net": {
-      "name": "p",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281380747510@s.whatsapp.net": {
-      "name": "hm",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285718581788@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288293570961@s.whatsapp.net": {
-      "name": "veran",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289506615441@s.whatsapp.net": {
-      "name": "cello",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628388144447@s.whatsapp.net": {
-      "name": "ibnu",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282337266588@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285280128102@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281388973085@s.whatsapp.net": {
-      "name": "padiel",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895402870011@s.whatsapp.net": {
-      "name": "arxzzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289653629352@s.whatsapp.net": {
-      "name": "rasya",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285180625312@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283852268072@s.whatsapp.net": {
-      "name": "~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289699569529@s.whatsapp.net": {
-      "name": "~zaa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281214027342@s.whatsapp.net": {
-      "name": "🫀👀",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285725044338@s.whatsapp.net": {
-      "name": "Faidsal",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285823365355@s.whatsapp.net": {
-      "name": "wan",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281292578195@s.whatsapp.net": {
-      "name": "Rapp",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285704919472@s.whatsapp.net": {
-      "name": "👿😈",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287862240284@s.whatsapp.net": {
-      "name": "~F",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289630171540@s.whatsapp.net": {
-      "name": "?",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285135464178@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281949448422@s.whatsapp.net": {
-      "name": "peacelove",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "06/10/2025 06:12"
-    },
-    "248158915448922@lid": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285654587335@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281239224722@s.whatsapp.net": {
-      "name": "b",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287758178666@s.whatsapp.net": {
-      "name": "Kenn タ",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281357315631@s.whatsapp.net": {
-      "name": "sirmangooo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289516229258@s.whatsapp.net": {
-      "name": "o",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285691186892@s.whatsapp.net": {
-      "name": "CanSell",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285368669037@s.whatsapp.net": {
-      "name": "Pratama",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285814970109@s.whatsapp.net": {
-      "name": "Ethan Lie Jauhari",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281345473031@s.whatsapp.net": {
-      "name": "Tamaaa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282190036579@s.whatsapp.net": {
-      "name": "𝐏𝐀𝐓𝐙 𝐒𝐓𝐎𝐑𝐄",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285770583901@s.whatsapp.net": {
-      "name": "wHeN yAhh😕😞",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283153184785@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287878859781@s.whatsapp.net": {
-      "name": "Kenan",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281263622207@s.whatsapp.net": {
-      "name": "dils",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285607599702@s.whatsapp.net": {
-      "name": "egii`",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "120363402160288081@g.us": {
-      "name": "",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "08/10/2025 09:00"
-    },
-    "6283183360231@s.whatsapp.net": {
-      "name": "hnz pengen femes",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282310593039@s.whatsapp.net": {
-      "name": "arshaddjalaludina",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281401694914@s.whatsapp.net": {
-      "name": "Raditya",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283189857504@s.whatsapp.net": {
-      "name": "Kinox",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285934439063@s.whatsapp.net": {
-      "name": "- trev",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895405795097@s.whatsapp.net": {
-      "name": "dvrnz roar",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287888114914@s.whatsapp.net": {
-      "name": "Ryl's",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281234185687@s.whatsapp.net": {
-      "name": "Lala_lun",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285184064314@s.whatsapp.net": {
-      "name": "lutwkwk - v2",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281371798448@s.whatsapp.net": {
-      "name": "⏤͟͟͞͞𝚔ɑׁׅʏz⏤͟͟͞͞",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281356673453@s.whatsapp.net": {
-      "name": "thirowner.",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282196715822@s.whatsapp.net": {
-      "name": "tomzz store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281241262335@s.whatsapp.net": {
-      "name": "ZAKY STORE [2335]",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283193452579@s.whatsapp.net": {
-      "name": "bramsnewera²",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283841321933@s.whatsapp.net": {
-      "name": "..",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282241076653@s.whatsapp.net": {
-      "name": "Ass Store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285797361977@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285609975290@s.whatsapp.net": {
-      "name": "JIISTORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895326123575@s.whatsapp.net": {
-      "name": "👻",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288973519525@s.whatsapp.net": {
-      "name": "IKyY",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282186838750@s.whatsapp.net": {
-      "name": "Arya",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282296852112@s.whatsapp.net": {
-      "name": "angga",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283110483109@s.whatsapp.net": {
-      "name": "jeffri",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283802941177@s.whatsapp.net": {
-      "name": "satz`",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "06/10/2025 21:53"
-    },
-    "6288231708896@s.whatsapp.net": {
-      "name": "povp21",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285800704053@s.whatsapp.net": {
-      "name": "Leerz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281438016751@s.whatsapp.net": {
-      "name": "aditt",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628815481821@s.whatsapp.net": {
-      "name": "Himsh271",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282260844020@s.whatsapp.net": {
-      "name": "Kiiy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283875884784@s.whatsapp.net": {
-      "name": "......",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289676682733@s.whatsapp.net": {
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285947761658@s.whatsapp.net": {
-      "name": "jaser",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282161964019@s.whatsapp.net": {
-      "name": "KEN REAL[4019]",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288980810900@s.whatsapp.net": {
-      "name": "Ziik Store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282136983937@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283846136037@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283128497183@s.whatsapp.net": {
-      "name": "Fitriyanii",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289509641264@s.whatsapp.net": {
-      "name": "ada",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62882021220561@s.whatsapp.net": {
-      "name": "2",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285700251352@s.whatsapp.net": {
-      "name": "Rex V1",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281371107260@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288211156252@s.whatsapp.net": {
-      "name": "WANZ STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285138349702@s.whatsapp.net": {
-      "name": "BAVAL",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281515530369@s.whatsapp.net": {
-      "name": "Dam",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 22:44"
-    },
-    "6283177608742@s.whatsapp.net": {
-      "name": "Rifki",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283174974486@s.whatsapp.net": {
-      "name": "hai",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288747516040@s.whatsapp.net": {
-      "name": "vans",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281226204679@s.whatsapp.net": {
-      "name": "Rafi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285920068302@s.whatsapp.net": {
-      "name": "dann",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288266283903@s.whatsapp.net": {
-      "name": "ARYA NEW ERA",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 39,
-      "joined": "07/10/2025 13:57"
-    },
-    "6285601721354@s.whatsapp.net": {
-      "name": "nopal di panggil nyaut",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628811009656@s.whatsapp.net": {
-      "name": "",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 13:41"
-    },
-    "6283894601066@s.whatsapp.net": {
-      "name": "NUR STR",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281934706329@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285212731795@s.whatsapp.net": {
-      "name": "ridho",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281293254646@s.whatsapp.net": {
-      "name": "SUBUR STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628999339645@s.whatsapp.net": {
-      "name": "—͟͟͞𝐀𝐱𝐞𝐥𝐥 𝐑𝐭𝐨 𝟓𝟎𝟎 𝐓𝐞𝐬𝐭𝐢",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282313448878@s.whatsapp.net": {
-      "name": "brilzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285780056788@s.whatsapp.net": {
-      "name": "seto🗿",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281265157678@s.whatsapp.net": {
-      "name": "gerzvy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287848505524@s.whatsapp.net": {
-      "name": "fhaaa_storee √",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895339026329@s.whatsapp.net": {
-      "name": "?",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289513548931@s.whatsapp.net": {
-      "name": "cihuy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289619364747@s.whatsapp.net": {
-      "name": "Az 🕸️",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285817661098@s.whatsapp.net": {
-      "name": "..di",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285878051870@s.whatsapp.net": {
-      "name": "rendy store wa order jpm",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289530554358@s.whatsapp.net": {
-      "name": "satsat",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289517350462@s.whatsapp.net": {
-      "name": "Abyan",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895342108522@s.whatsapp.net": {
-      "name": "kepin",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285782486601@s.whatsapp.net": {
-      "name": "@",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287882520707@s.whatsapp.net": {
-      "name": "Bal own ryui",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285731724745@s.whatsapp.net": {
-      "name": "hanzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285774879490@s.whatsapp.net": {
-      "name": "d",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283844547279@s.whatsapp.net": {
-      "name": "king⚡",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281233317618@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "60107903245@s.whatsapp.net": {
-      "name": "M.Farid",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281264161183@s.whatsapp.net": {
-      "name": "dav",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285737347658@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895334376969@s.whatsapp.net": {
-      "name": "yelzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281357993817@s.whatsapp.net": {
-      "name": "oy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288804214996@s.whatsapp.net": {
-      "name": "RSKY_lipee",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62882001068702@s.whatsapp.net": {
-      "name": "Lampu",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285230507421@s.whatsapp.net": {
-      "name": "Rey suka tata",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289688187466@s.whatsapp.net": {
-      "name": "vinn have 60 testi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288213949795@s.whatsapp.net": {
-      "name": "open suntik minat? pm",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282377668014@s.whatsapp.net": {
-      "name": "goomy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285839926919@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281945481235@s.whatsapp.net": {
-      "name": "AGAM store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281617038795@s.whatsapp.net": {
-      "name": "Laxxy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283842602140@s.whatsapp.net": {
-      "name": "HAFIzZ",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895383818855@s.whatsapp.net": {
-      "name": "K",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283869032387@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287789437015@s.whatsapp.net": {
-      "name": "Ariee",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 18:14"
-    },
-    "6285133506790@s.whatsapp.net": {
-      "name": "ForzaStore",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282198120981@s.whatsapp.net": {
-      "name": "Nunu",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287785399767@s.whatsapp.net": {
-      "name": "zeenssstore",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895403331849@s.whatsapp.net": {
-      "name": "arsyil",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285774742625@s.whatsapp.net": {
-      "name": "Kitz4you",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62881011814618@s.whatsapp.net": {
-      "name": "ANSSWELL",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281246563082@s.whatsapp.net": {
-      "name": "Yog",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283856573016@s.whatsapp.net": {
-      "name": "risx LénSa💫",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289528444663@s.whatsapp.net": {
-      "name": "?????????",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281257228091@s.whatsapp.net": {
-      "name": "grizly",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628883030707@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281214017182@s.whatsapp.net": {
-      "name": "r",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288901908789@s.whatsapp.net": {
-      "name": "Hendra gnteng",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62882008300989@s.whatsapp.net": {
-      "name": "O",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895329656768@s.whatsapp.net": {
-      "name": "￶\n￶\n￶\n￶\n￶\n￶\n￶\n￶\n￶\n￶\n￶\n￶",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287754262974@s.whatsapp.net": {
-      "name": "suka mie ayam",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281210885889@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281234155241@s.whatsapp.net": {
-      "name": "Rasyah",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "916390547987@s.whatsapp.net": {
-      "name": "abhinandanexpress86",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281215114377@s.whatsapp.net": {
-      "name": "Azka Grayson",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281227288389@s.whatsapp.net": {
-      "name": "Zaqy🤞",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285381390795@s.whatsapp.net": {
-      "name": "defarasya1234",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282333119161@s.whatsapp.net": {
-      "name": "Fahmi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285754772798@s.whatsapp.net": {
-      "name": "Satryo_zy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285789476146@s.whatsapp.net": {
-      "name": "Dinorexxx🦖🦖",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281931954686@s.whatsapp.net": {
-      "name": "Rann",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289531933724@s.whatsapp.net": {
-      "name": "SABRINASTORE1",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283185828478@s.whatsapp.net": {
-      "name": "ASMAN",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288980440334@s.whatsapp.net": {
-      "name": "",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 22:49"
-    },
-    "6281241083787@s.whatsapp.net": {
-      "name": "ryujin zephyr rto 1ktesti",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287712723046@s.whatsapp.net": {
-      "name": "yoo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282281760842@s.whatsapp.net": {
-      "name": "メ",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285693166119@s.whatsapp.net": {
-      "name": "HANIF",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289502696514@s.whatsapp.net": {
-      "name": "Yahnz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285731444562@s.whatsapp.net": {
-      "name": "🐈",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283824210651@s.whatsapp.net": {
-      "name": "𝕱",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895329735947@s.whatsapp.net": {
-      "name": "~nuri",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895325982287@s.whatsapp.net": {
-      "name": "alow",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285124419401@s.whatsapp.net": {
-      "name": "~~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281556670129@s.whatsapp.net": {
-      "name": "fathh",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282196202153@s.whatsapp.net": {
-      "name": "iii",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282127469870@s.whatsapp.net": {
-      "name": "IHS",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283833852501@s.whatsapp.net": {
-      "name": "Funzz Xx [REGION JABAR]",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895329150480@s.whatsapp.net": {
-      "name": "jangan bising",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282118914757@s.whatsapp.net": {
-      "name": "🕋",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282177917770@s.whatsapp.net": {
-      "name": "BentleyBR",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289509491842@s.whatsapp.net": {
-      "name": "al",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285156241630@s.whatsapp.net": {
-      "name": "",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 06:43"
-    },
-    "6288214457722@s.whatsapp.net": {
-      "name": "Royy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285211110270@s.whatsapp.net": {
-      "name": "alex",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282296610771@s.whatsapp.net": {
-      "name": "~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289516127728@s.whatsapp.net": {
-      "name": "ANANZ JB REAL",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282379047303@s.whatsapp.net": {
-      "name": "",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 06:57"
-    },
-    "6289529119527@s.whatsapp.net": {
-      "name": "oloonn",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628812914861@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283823977581@s.whatsapp.net": {
-      "name": "Dendiiii",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285771483187@s.whatsapp.net": {
-      "name": "~gyxx",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281385524809@s.whatsapp.net": {
-      "name": "Nuril Bachtiar",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288279231255@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285788016858@s.whatsapp.net": {
-      "name": "HENDRIK",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282310930749@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "205274220638405@lid": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287785967806@s.whatsapp.net": {
-      "name": ".",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 08:14"
-    },
-    "120363405006837934@g.us": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287899842329@s.whatsapp.net": {
-      "name": "ikyy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282125120044@s.whatsapp.net": {
-      "name": "Rnzy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628988015709@s.whatsapp.net": {
-      "name": "iki",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283157454890@s.whatsapp.net": {
-      "name": "meysa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281374902813@s.whatsapp.net": {
-      "name": "Justin Bieber Stureeee",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282299219013@s.whatsapp.net": {
-      "name": "Gracerto500testi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285167707657@s.whatsapp.net": {
-      "name": "JB GOGO STORE AMAN 100%",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282218503877@s.whatsapp.net": {
-      "name": "rzzyy cdngn",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281283633069@s.whatsapp.net": {
-      "name": "wkubi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285960403033@s.whatsapp.net": {
-      "name": "Noxsy Store💫🥷🔥",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287713859013@s.whatsapp.net": {
-      "name": "hadi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285780358691@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283823149827@s.whatsapp.net": {
-      "name": "Piss",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283167859132@s.whatsapp.net": {
-      "name": "gan",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287770051288@s.whatsapp.net": {
-      "name": "LIM",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285822149793@s.whatsapp.net": {
-      "name": "hamz aja",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282392442177@s.whatsapp.net": {
-      "name": "YANZZ Mengeluarkan Anda",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285220243000@s.whatsapp.net": {
-      "name": "Zyy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283835578717@s.whatsapp.net": {
-      "name": "KHAISAASTORe",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285167716612@s.whatsapp.net": {
-      "name": "assajid",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285136008969@s.whatsapp.net": {
-      "name": "xoelll",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287883513662@s.whatsapp.net": {
-      "name": "~Sauqy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282241961754@s.whatsapp.net": {
-      "name": "Reyy~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283136122602@s.whatsapp.net": {
-      "name": "Andrio jebeh💵",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288994441866@s.whatsapp.net": {
-      "name": "Anggaraa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285727475094@s.whatsapp.net": {
-      "name": "TOMSTAR STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289525451717@s.whatsapp.net": {
-      "name": "NBL",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62882007381954@s.whatsapp.net": {
-      "name": "~vacanystore0",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282381020929@s.whatsapp.net": {
-      "name": "minzzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282312355314@s.whatsapp.net": {
-      "name": "izz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288225248741@s.whatsapp.net": {
-      "name": "箱  | —͟͞͞𝘗𝘐𝘕хости",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282323185287@s.whatsapp.net": {
-      "name": "️zakka_w",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895635959070@s.whatsapp.net": {
-      "name": "~marinir",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285817637794@s.whatsapp.net": {
-      "name": "gb payment",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285809096218@s.whatsapp.net": {
-      "name": "DAPI.",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283861715475@s.whatsapp.net": {
-      "name": "ZAXZZ",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285820316082@s.whatsapp.net": {
-      "name": "f",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289676106522@s.whatsapp.net": {
-      "name": "Abiiiiee",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289519770276@s.whatsapp.net": {
-      "name": "rezz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285804117582@s.whatsapp.net": {
-      "name": "-𝙒𝘼𝙂𝙐𝙍𝙄 𝙆𝘼𝙊𝙍𝙐",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628875633687@s.whatsapp.net": {
-      "name": "sul",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287886845615@s.whatsapp.net": {
-      "name": "nabil",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285199037495@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283164144232@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282112097697@s.whatsapp.net": {
-      "name": "F",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287844227106@s.whatsapp.net": {
-      "name": "Adammm",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "60196061693@s.whatsapp.net": {
-      "name": "C",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288272168780@s.whatsapp.net": {
-      "name": "#AFANZ🤟",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287742127857@s.whatsapp.net": {
-      "name": "~ Dyqq",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285167500860@s.whatsapp.net": {
-      "name": "RIZKYAJAA🤓",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285739231430@s.whatsapp.net": {
-      "name": "manusia",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283845268292@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285723421520@s.whatsapp.net": {
-      "name": "how do you?",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287836046199@s.whatsapp.net": {
-      "name": "-_-",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895351848328@s.whatsapp.net": {
-      "name": "kopassus 🤫",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "60138782231@s.whatsapp.net": {
-      "name": "Marzz Ganteng Cuy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288976329953@s.whatsapp.net": {
-      "name": "p",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628561953799@s.whatsapp.net": {
-      "name": "loarrl",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281584382427@s.whatsapp.net": {
-      "name": "saa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283872587281@s.whatsapp.net": {
-      "name": "Ganteng",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283844031690@s.whatsapp.net": {
-      "name": "penguin",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895359653421@s.whatsapp.net": {
-      "name": "iky",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283890317529@s.whatsapp.net": {
-      "name": "ዕዐጌዪልጕ",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283135712923@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282387958685@s.whatsapp.net": {
-      "name": "Reza",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285123905422@s.whatsapp.net": {
-      "name": "HAI",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283827553439@s.whatsapp.net": {
-      "name": "Bimaasakti!!",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285373229730@s.whatsapp.net": {
-      "name": "jaerrshopp",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287762247203@s.whatsapp.net": {
-      "name": "FIKIH",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287821056063@s.whatsapp.net": {
-      "name": "Is nagisty",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895327104300@s.whatsapp.net": {
-      "name": "jp ANDRYAN",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "120363403139085607@g.us": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281312104010@s.whatsapp.net": {
-      "name": "qirey store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285702017250@s.whatsapp.net": {
-      "name": "❤️❤️",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289508542996@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283166639773@s.whatsapp.net": {
-      "name": "RR Rajin Ngaji",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289528042788@s.whatsapp.net": {
-      "name": "REAL HANZ STORR17",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285890365859@s.whatsapp.net": {
-      "name": "Adrian indo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283159609152@s.whatsapp.net": {
-      "name": "_",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285883774357@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283197826992@s.whatsapp.net": {
-      "name": "Pasukan Anti Alay",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 10:39"
-    },
-    "6285893641731@s.whatsapp.net": {
-      "name": "🔰Ell-onichanJb🔰",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285147823713@s.whatsapp.net": {
-      "name": "Yilstore",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282267739286@s.whatsapp.net": {
-      "name": "kevin",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288286913223@s.whatsapp.net": {
-      "name": "LION STORE|REGION  LAMPUNG",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281271195628@s.whatsapp.net": {
-      "name": "zeraa store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281328837062@s.whatsapp.net": {
-      "name": "di langit  masih di trade",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289529463398@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287892707599@s.whatsapp.net": {
-      "name": "~nokoss",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285828318539@s.whatsapp.net": {
-      "name": "!",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282227513975@s.whatsapp.net": {
-      "name": "Farel arta",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285167506552@s.whatsapp.net": {
-      "name": "kelvin",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628975513060@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281397749788@s.whatsapp.net": {
-      "name": "JulioKus",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285188170290@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282253812602@s.whatsapp.net": {
-      "name": "Givael⚽⚽⚽ ⚽⚽⚽ rorrrrrrrrr",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "60172890969@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288211158638@s.whatsapp.net": {
-      "name": "T 💤",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285974611258@s.whatsapp.net": {
-      "name": "Bns.id",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895324077343@s.whatsapp.net": {
-      "name": "Edward",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282162153926@s.whatsapp.net": {
-      "name": "reza",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285774563288@s.whatsapp.net": {
-      "name": "askar",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287787533958@s.whatsapp.net": {
-      "name": "Riszz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628970080838@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281318621375@s.whatsapp.net": {
-      "name": "storrr",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 14:10"
-    },
-    "6282295323263@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282338476974@s.whatsapp.net": {
-      "name": "sindhuH",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281367607429@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289612979339@s.whatsapp.net": {
-      "name": "CiaaTopUp Teknologi Indonesia",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 14:20"
-    },
-    "6283189783994@s.whatsapp.net": {
-      "name": "ADMIN¹ BARZ SHOP",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285607119744@s.whatsapp.net": {
-      "name": "Abay",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283165150321@s.whatsapp.net": {
-      "name": "Billy",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285166870153@s.whatsapp.net": {
-      "name": "•avzZ®⁰⁷‰",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285187249851@s.whatsapp.net": {
-      "name": "jasasuntik",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285692569027@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285771098750@s.whatsapp.net": {
-      "name": "aihlagi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288972990696@s.whatsapp.net": {
-      "name": "woi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288275859364@s.whatsapp.net": {
-      "name": "OPEN ORDER BOT/JPM",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895344793832@s.whatsapp.net": {
-      "name": "arraysomehere",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281275386270@s.whatsapp.net": {
-      "name": "إحد",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 15:59"
-    },
-    "6281245549152@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287840814311@s.whatsapp.net": {
-      "name": "-D",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285784820667@s.whatsapp.net": {
-      "name": "OwnerJb Allgama",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281318621304@s.whatsapp.net": {
-      "name": "YANN",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "60194824058@s.whatsapp.net": {
-      "name": "Ethan Store",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281364861199@s.whatsapp.net": {
-      "name": "pinn",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285717342249@s.whatsapp.net": {
-      "name": "reno",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6289503677725@s.whatsapp.net": {
-      "name": "pwa",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282396769578@s.whatsapp.net": {
-      "name": "Neza rto100 testi",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283869615825@s.whatsapp.net": {
-      "name": "Rapzy Fredika",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285692827107@s.whatsapp.net": {
-      "name": "𝕯🕸️",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288238642311@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282395990147@s.whatsapp.net": {
-      "name": "jerry",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283182951155@s.whatsapp.net": {
-      "name": "opus",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287843544107@s.whatsapp.net": {
-      "name": "????",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285885771181@s.whatsapp.net": {
-      "name": "Nirian",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282196638920@s.whatsapp.net": {
-      "name": "PT Joo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287784813863@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "22802233032953@lid": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287849978507@s.whatsapp.net": {
-      "name": "zada",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62881022212482@s.whatsapp.net": {
-      "name": "???",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285950621085@s.whatsapp.net": {
-      "name": "𝙐𝙢𝙖𝙧 𝙓𝘿👾",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285211111024@s.whatsapp.net": {
-      "name": "Ryumei",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285758963903@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285126717672@s.whatsapp.net": {
-      "name": "Rara",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285126182971@s.whatsapp.net": {
-      "name": "hanif",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281387497898@s.whatsapp.net": {
-      "name": "BOT KRISS😶‍🌫️",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285185148537@s.whatsapp.net": {
-      "name": "M.Anugrah",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285847498635@s.whatsapp.net": {
-      "name": "Rudiz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283837922061@s.whatsapp.net": {
-      "name": "...",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285837111174@s.whatsapp.net": {
-      "name": "hai my aku name",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283822063441@s.whatsapp.net": {
-      "name": "anzami fatur rahman",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285709857937@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282374624514@s.whatsapp.net": {
-      "name": "Richard👾",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285735051808@s.whatsapp.net": {
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285591059159@s.whatsapp.net": {
-      "name": "hfiz",
-      "registered": true,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40,
-      "joined": "07/10/2025 22:38"
-    },
-    "6281228487946@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282224317745@s.whatsapp.net": {
-      "name": "jirou mode push",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287761138870@s.whatsapp.net": {
-      "name": "Yupii",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287862782191@s.whatsapp.net": {
-      "name": "公升-shiya",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281324217711@s.whatsapp.net": {
-      "name": "vin",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283841499753@s.whatsapp.net": {
-      "name": "Bimz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285813132944@s.whatsapp.net": {
-      "name": ".",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281919411398@s.whatsapp.net": {
-      "name": "a",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282318342093@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287738918555@s.whatsapp.net": {
-      "name": "",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283104383637@s.whatsapp.net": {
-      "name": "Zann",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282226582136@s.whatsapp.net": {
-      "name": "Reyzz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282156067885@s.whatsapp.net": {
-      "name": "Kil",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628980219941@s.whatsapp.net": {
-      "name": "Alip🔧",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285810950023@s.whatsapp.net": {
-      "name": "fhatih",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281328935967@s.whatsapp.net": {
-      "name": "👍🏿",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285705646814@s.whatsapp.net": {
-      "name": "Sakti",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628561757714@s.whatsapp.net": {
-      "name": "???",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285745578478@s.whatsapp.net": {
-      "name": "MIMO STORE",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6287836700415@s.whatsapp.net": {
-      "name": "KRATOSS",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "628989366453@s.whatsapp.net": {
-      "name": "Alvin cruel",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281278982097@s.whatsapp.net": {
-      "name": "~~",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282257881873@s.whatsapp.net": {
-      "name": "𝐖𝐈𝐃𝐙 𝐒𝐓𝐎𝐑𝐄𝟎𝟓",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6281554072355@s.whatsapp.net": {
-      "name": "mas Cahyo mas Cahyo",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "62895338309457@s.whatsapp.net": {
-      "name": "Mallxz Butuh Darah",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6285643060651@s.whatsapp.net": {
-      "name": "Hafidz",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6282156400130@s.whatsapp.net": {
-      "name": "Kimj",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6288232439899@s.whatsapp.net": {
-      "name": "arkn",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
-    },
-    "6283194925977@s.whatsapp.net": {
-      "name": "rsyaptr",
-      "registered": false,
-      "premium": false,
-      "saldo": 0,
-      "warn": 0,
-      "limit": 40
+      "limit": 30
     }
   },
   "chats": {
@@ -4251,8 +736,7 @@
       "antivirtext": false,
       "welcomeText": "🎉 Selamat datang @user di grup @group!\n\nKetik:\n> • .menu — untuk melihat daftar fitur bot \n> • .report — untuk melaporkan bug/error \n> • .daftar — untuk mendaftar sebagai user bot \n> • .limit — untuk mengecek limit kamu \n\nSemoga betah dan jangan lupa patuhi peraturan grup ya! 😄",
       "leftText": "Selamat tinggal @user dari @group 👋",
-      "autodownloader": true,
-      "onlyadmin": false
+      "autodownloader": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -4373,21 +857,14 @@
       "antibot": false,
       "warn": false,
       "autoai": false,
-      "welcomeMode": 1,
+      "welcomeMode": 2,
       "leftMode": 2,
-      "antitagsw": true,
+      "antitagsw": false,
       "welcome": true,
-      "left": true,
-      "antibadword": true,
+      "left": false,
+      "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
-      "badwords": [
-        "bokep",
-        "bb"
-      ],
-      "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋",
-      "onlyadmin": false
+      "autodownloader": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -4467,8 +944,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
+      "autodownloader": false
     },
     "120363420714771008@g.us": {
       "welcomeMode": 1,
@@ -4496,10 +972,9 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
+      "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋",
-      "onlyadmin": false
+      "leftText": "Selamat tinggal @user dari @group 👋"
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -4527,295 +1002,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "120363402456841403@g.us": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "120363402160288081@g.us": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": true,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "120363403139085607@g.us": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "6285609975290@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
       "autodownloader": false
-    },
-    "6285156241630@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false
-    },
-    "120363405006837934@g.us": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": true,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "6287785967806@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false
-    },
-    "6288266283903@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "6282379795568@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
-    },
-    "6287848505524@s.whatsapp.net": {
-      "welcomeMode": 2,
-      "leftMode": 2,
-      "antilinkgc": false,
-      "antilinkch": false,
-      "antilinkyt": false,
-      "antilinkdc": false,
-      "antilinkig": false,
-      "antilinktiktok": false,
-      "antilinktwit": false,
-      "antilinkfb": false,
-      "antilinkpin": false,
-      "antilinktele": false,
-      "antilinkthreads": false,
-      "antisticker": false,
-      "antivideo": false,
-      "antifoto": false,
-      "antiaudio": false,
-      "antibot": false,
-      "warn": false,
-      "autoai": false,
-      "antitagsw": false,
-      "welcome": false,
-      "left": false,
-      "antibadword": false,
-      "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
     }
   },
   "settings": {
@@ -4823,49 +1010,7 @@
     "forceGroup": false,
     "autocorrectcmd": false,
     "onlygc": true,
-    "autoclearsession": true,
-    "autopromosi": {
-      "active": true,
-      "minInterval": 1800000,
-      "maxInterval": 2400000,
-      "groups": {
-        "120363420714771008@g.us": {
-          "lastSent": 1759890219784,
-          "nextTime": 1759892319735
-        },
-        "120363421935654848@g.us": {
-          "lastSent": 1759887275102,
-          "nextTime": 1759889584855
-        },
-        "120363402456841403@g.us": {
-          "lastSent": 1759890301487,
-          "nextTime": 1759892104985
-        },
-        "120363315495507467@g.us": {
-          "lastSent": 1759884139800,
-          "nextTime": 1759886151422
-        },
-        "120363347471106123@g.us": {
-          "lastSent": 1759854361878,
-          "nextTime": 1759856361954
-        },
-        "120363402160288081@g.us": {
-          "lastSent": 1759888787278,
-          "nextTime": 1759890973324
-        },
-        "120363403139085607@g.us": {
-          "lastSent": 1759889140489,
-          "nextTime": 1759891087864
-        },
-        "120363405006837934@g.us": {
-          "lastSent": 1759880049584,
-          "nextTime": 1759882264182
-        }
-      }
-    },
-    "promosi": {
-      "text": "╭───❖「 *🔥 PROMO SEWA BOT WHATSAPP 🔥* 」❖\n│ \n│ 💥 *Gratis 7 Hari Pertama!* \n│ Sewa bot ini dan rasakan fitur premium-nya tanpa biaya 💸\n│ \n│ 💰 *Harga Sewa:* \n│ • 7 Hari: Rp5.000 \n│ • 1 Bulan: Rp10.000 \n│ \n│ 🌟 *Keuntungan:* \n│ • Jika bot kenon → langsung diganti baru 🤖 \n│ • Full fitur penjaga grup (antilink, antibadword, dll) \n│ • Grup lebih aman, tertib, dan nyaman \n│ • Garansi penuh selama masa sewa \n│ • Murah tapi berkualitas 💎 \n│ \n│ 🚀 *Buruan! Coba gratis 7 hari sekarang!* \n│ Chat owner untuk pasang bot di grup kamu:\n│ wa.me/6285643241592\n│ \n╰─────────────────────❖"
-    }
+    "autoclearsession": true
   },
   "database": {
     "sewa": {
@@ -4873,18 +1018,6 @@
         "expired": 1761815250009,
         "add": 1759309650009,
         "days": 29,
-        "notify1hSent": false
-      },
-      "120363403139085607@g.us": {
-        "expired": 1760366946943,
-        "add": 1759762146943,
-        "days": 7,
-        "notify1hSent": false
-      },
-      "120363405006837934@g.us": {
-        "expired": 1760663458072,
-        "add": 1759799458072,
-        "days": 10,
         "notify1hSent": false
       }
     }
