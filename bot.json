@@ -432,7 +432,8 @@
       "warn": 0,
       "limit": 200,
       "registered": true,
-      "joined": "05/10/2025 17:48"
+      "joined": "05/10/2025 17:48",
+      "name": "haneul ai~"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -553,7 +554,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40,
-      "name": "IKYY STORE [REAL]",
+      "name": ".kyy",
       "registered": false
     },
     "62881023811824@s.whatsapp.net": {
@@ -1294,6 +1295,38 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "6285960403033@s.whatsapp.net": {
+      "name": "Noxsy Store💫🥷🔥",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287849978507@s.whatsapp.net": {
+      "name": "zada",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "62895393945820@s.whatsapp.net": {
+      "name": "N",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287712723046@s.whatsapp.net": {
+      "name": "yoo",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1552,7 +1585,8 @@
       "badwords": [
         "bokep",
         "bb"
-      ]
+      ],
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1690,7 +1724,8 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "120363402456841403@g.us": {
       "welcomeMode": 2,
@@ -1719,6 +1754,64 @@
       "antibadword": false,
       "antivirtext": false,
       "autodownloader": false
+    },
+    "120363402160288081@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363403139085607@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     }
   },
   "settings": {
@@ -1737,8 +1830,8 @@
           "nextTime": 1759724098024
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759722015109,
-          "nextTime": 1759722934509
+          "lastSent": 1759892906215,
+          "nextTime": 1759894488790
         },
         "120363402456841403@g.us": {
           "lastSent": 1759720443755,
@@ -1751,6 +1844,14 @@
         "120363347471106123@g.us": {
           "lastSent": 1759709541063,
           "nextTime": 1759710574669
+        },
+        "120363402160288081@g.us": {
+          "lastSent": 1759892841022,
+          "nextTime": 1759894435203
+        },
+        "120363403139085607@g.us": {
+          "lastSent": 1759892905634,
+          "nextTime": 1759894702558
         }
       }
     },
@@ -1764,6 +1865,12 @@
         "expired": 1761815250009,
         "add": 1759309650009,
         "days": 29,
+        "notify1hSent": false
+      },
+      "120363402160288081@g.us": {
+        "expired": 1762312022464,
+        "add": 1759892822464,
+        "days": 28,
         "notify1hSent": false
       }
     }
