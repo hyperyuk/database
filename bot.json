@@ -638,6 +638,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "6285643060651@s.whatsapp.net": {
+      "name": "Hafidz",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1031,9 +1039,39 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "120363402456841403@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363402160288081@g.us": {
       "welcomeMode": 2,
       "leftMode": 2,
       "antilinkgc": false,
@@ -1076,6 +1114,12 @@
         "expired": 1761815250009,
         "add": 1759309650009,
         "days": 29,
+        "notify1hSent": false
+      },
+      "120363402160288081@g.us": {
+        "expired": 1762330275814,
+        "add": 1759911075814,
+        "days": 28,
         "notify1hSent": false
       }
     }
