@@ -39,7 +39,10 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "riss",
+      "registered": true,
+      "joined": "08/10/2025 14:36"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -638,6 +641,22 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "6285700251352@s.whatsapp.net": {
+      "name": "Rex V1",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402160288081@g.us": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1003,7 +1022,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1034,6 +1054,35 @@
       "autodownloader": false
     },
     "120363402456841403@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363402160288081@g.us": {
       "welcomeMode": 2,
       "leftMode": 2,
       "antilinkgc": false,
