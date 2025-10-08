@@ -40,7 +40,7 @@
       "warn": 0,
       "limit": 200,
       "premium": true,
-      "name": "Haris",
+      "name": "riss",
       "registered": true,
       "joined": "05/10/2025 17:32"
     },
@@ -1294,6 +1294,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "6283879688694@s.whatsapp.net": {
+      "name": "tzy⚡",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1552,7 +1560,8 @@
       "badwords": [
         "bokep",
         "bb"
-      ]
+      ],
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1662,7 +1671,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1733,12 +1743,12 @@
       "maxInterval": 1800000,
       "groups": {
         "120363420714771008@g.us": {
-          "lastSent": 1759722442560,
-          "nextTime": 1759724098024
+          "lastSent": 1759896632200,
+          "nextTime": 1759897953758
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759722015109,
-          "nextTime": 1759722934509
+          "lastSent": 1759896633461,
+          "nextTime": 1759898122026
         },
         "120363402456841403@g.us": {
           "lastSent": 1759720443755,
