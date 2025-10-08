@@ -39,13 +39,19 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "riss",
+      "registered": true,
+      "joined": "08/10/2025 14:16"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "limit": 30,
-      "premium": false
+      "premium": false,
+      "name": "Zaa",
+      "registered": true,
+      "joined": "08/10/2025 14:18"
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0,
@@ -59,7 +65,10 @@
     "6282313175123@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "~",
+      "registered": false,
+      "premium": false
     },
     "6282156640203@s.whatsapp.net": {
       "saldo": 0,
@@ -393,7 +402,9 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "",
+      "registered": false
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -417,7 +428,9 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "",
+      "registered": false
     },
     "120363347471106123@g.us": {
       "premium": false,
@@ -610,6 +623,30 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "62895344793832@s.whatsapp.net": {
+      "name": "arraysomehere",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283879688694@s.whatsapp.net": {
+      "name": "tzy⚡",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285167707657@s.whatsapp.net": {
+      "name": "JB GOGO STORE AMAN 100%",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -678,7 +715,16 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
@@ -736,7 +782,8 @@
       "antivirtext": false,
       "welcomeText": "🎉 Selamat datang @user di grup @group!\n\nKetik:\n> • .menu — untuk melihat daftar fitur bot \n> • .report — untuk melaporkan bug/error \n> • .daftar — untuk mendaftar sebagai user bot \n> • .limit — untuk mengecek limit kamu \n\nSemoga betah dan jangan lupa patuhi peraturan grup ya! 😄",
       "leftText": "Selamat tinggal @user dari @group 👋",
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -864,7 +911,8 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -974,7 +1022,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1003,6 +1052,35 @@
       "antibadword": false,
       "antivirtext": false,
       "autodownloader": false
+    },
+    "62895344793832@s.whatsapp.net": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     }
   },
   "settings": {
