@@ -307,9 +307,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30,
-      "premium": false,
-      "name": "KENZZ store",
-      "registered": false
+      "premium": false
     },
     "6282125921117@s.whatsapp.net": {
       "saldo": 0,
@@ -395,7 +393,10 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "haneul ai~",
+      "registered": true,
+      "joined": "08/10/2025 14:22"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -613,8 +614,25 @@
       "warn": 0,
       "limit": 30
     },
-    "6281356673453@s.whatsapp.net": {
-      "name": "are you okhay ?",
+    "254211161870370@lid": {
+      "name": "haneul ai~",
+      "registered": true,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40,
+      "joined": "08/10/2025 14:22"
+    },
+    "6285603526546@s.whatsapp.net": {
+      "name": ".",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402456841403@g.us": {
+      "name": "",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -746,7 +764,8 @@
       "antivirtext": false,
       "welcomeText": "🎉 Selamat datang @user di grup @group!\n\nKetik:\n> • .menu — untuk melihat daftar fitur bot \n> • .report — untuk melaporkan bug/error \n> • .daftar — untuk mendaftar sebagai user bot \n> • .limit — untuk mengecek limit kamu \n\nSemoga betah dan jangan lupa patuhi peraturan grup ya! 😄",
       "leftText": "Selamat tinggal @user dari @group 👋",
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "120363419365908330@g.us": {
       "antilinkgc": false,
@@ -874,8 +893,7 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false,
-      "onlyadmin": false
+      "autodownloader": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1015,7 +1033,7 @@
       "antivirtext": false,
       "autodownloader": false
     },
-    "120363402160288081@g.us": {
+    "120363402456841403@g.us": {
       "welcomeMode": 2,
       "leftMode": 2,
       "antilinkgc": false,
