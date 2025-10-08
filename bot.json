@@ -393,7 +393,10 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "haneul ai~",
+      "registered": true,
+      "joined": "08/10/2025 14:22"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -611,7 +614,24 @@
       "warn": 0,
       "limit": 30
     },
-    "6281324794665@s.whatsapp.net": {
+    "254211161870370@lid": {
+      "name": "haneul ai~",
+      "registered": true,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40,
+      "joined": "08/10/2025 14:22"
+    },
+    "6285603526546@s.whatsapp.net": {
+      "name": ".",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402456841403@g.us": {
       "name": "",
       "registered": false,
       "premium": false,
@@ -1012,6 +1032,35 @@
       "antibadword": false,
       "antivirtext": false,
       "autodownloader": false
+    },
+    "120363402456841403@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     }
   },
   "settings": {
