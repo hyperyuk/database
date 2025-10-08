@@ -610,6 +610,14 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6283189783994@s.whatsapp.net": {
+      "name": "jajsjsjsjs",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -864,7 +872,8 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
