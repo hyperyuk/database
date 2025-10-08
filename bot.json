@@ -39,13 +39,19 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "riss",
+      "registered": true,
+      "joined": "08/10/2025 12:13"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
       "limit": 30,
-      "premium": false
+      "premium": false,
+      "name": "Zaa",
+      "registered": true,
+      "joined": "08/10/2025 12:20"
     },
     "6287722429841@s.whatsapp.net": {
       "saldo": 0,
@@ -375,7 +381,10 @@
     "62881010872577@s.whatsapp.net": {
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "",
+      "registered": false,
+      "premium": false
     },
     "6283846285041@s.whatsapp.net": {
       "premium": false,
@@ -387,13 +396,17 @@
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 30
+      "limit": 30,
+      "name": "levi store cape kenon",
+      "registered": false
     },
     "62856432415926@s.whatsapp.net": {
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "registered": true,
+      "joined": "08/10/2025 12:17"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -610,6 +623,206 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6283189783994@s.whatsapp.net": {
+      "name": "jajsjsjsjs",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283879688694@s.whatsapp.net": {
+      "name": "tzy⚡",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283110483109@s.whatsapp.net": {
+      "name": "jeffri",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285817637794@s.whatsapp.net": {
+      "name": "gb payment",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285167506552@s.whatsapp.net": {
+      "name": "kelvin",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287787533958@s.whatsapp.net": {
+      "name": "Riszz",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6289654440024@s.whatsapp.net": {
+      "name": "ㅤㅤㅤㅤ",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402456841403@g.us": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6281292578195@s.whatsapp.net": {
+      "name": "Rapp",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6288211158638@s.whatsapp.net": {
+      "name": "T 💤",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285947761658@s.whatsapp.net": {
+      "name": "jaser",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402160288081@g.us": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6289531933724@s.whatsapp.net": {
+      "name": "SABRINASTORE1",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283128497183@s.whatsapp.net": {
+      "name": "Fitriyanii",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285754772798@s.whatsapp.net": {
+      "name": "Satryo_zy",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285373229730@s.whatsapp.net": {
+      "name": "jaerrshopp",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363403139085607@g.us": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6282227513975@s.whatsapp.net": {
+      "name": "Farel arta",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6282196715822@s.whatsapp.net": {
+      "name": "tomzz store",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "62895339026329@s.whatsapp.net": {
+      "name": "?",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "628975513060@s.whatsapp.net": {
+      "name": ".",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285167707657@s.whatsapp.net": {
+      "name": "JB GOGO STORE AMAN 100%",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "628980219941@s.whatsapp.net": {
+      "name": "Alip🔧",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6281234155241@s.whatsapp.net": {
+      "name": "Rasyah",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283166639773@s.whatsapp.net": {
+      "name": "RR Rajin Ngaji",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -850,7 +1063,7 @@
       "antilinkpin": false,
       "antilinktele": false,
       "antilinkthreads": false,
-      "antisticker": false,
+      "antisticker": true,
       "antivideo": false,
       "antifoto": false,
       "antiaudio": false,
@@ -859,12 +1072,13 @@
       "autoai": false,
       "welcomeMode": 2,
       "leftMode": 2,
-      "antitagsw": false,
+      "antitagsw": true,
       "welcome": true,
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -974,7 +1188,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1002,7 +1217,95 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363403139085607@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363402160288081@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363402456841403@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     }
   },
   "settings": {
@@ -1015,9 +1318,15 @@
   "database": {
     "sewa": {
       "120363421935654848@g.us": {
-        "expired": 1761815250009,
-        "add": 1759309650009,
-        "days": 29,
+        "expired": 1761801346338,
+        "add": 1759900546338,
+        "days": 22,
+        "notify1hSent": false
+      },
+      "120363402160288081@g.us": {
+        "expired": 1762319868534,
+        "add": 1759900668534,
+        "days": 28,
         "notify1hSent": false
       }
     }
