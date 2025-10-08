@@ -40,9 +40,10 @@
       "warn": 0,
       "limit": 200,
       "premium": true,
-      "name": "Haris",
+      "name": "riss",
       "registered": true,
-      "joined": "05/10/2025 17:32"
+      "joined": "05/10/2025 17:32",
+      "money": 600
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -407,8 +408,9 @@
       "warn": 0,
       "limit": 40,
       "name": "rav",
-      "registered": false,
-      "premium": false
+      "registered": true,
+      "premium": false,
+      "joined": "08/10/2025 10:31"
     },
     "6283846285041@s.whatsapp.net": {
       "premium": false,
@@ -432,7 +434,8 @@
       "warn": 0,
       "limit": 200,
       "registered": true,
-      "joined": "05/10/2025 17:48"
+      "joined": "05/10/2025 17:48",
+      "name": "haneul ai~"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -553,7 +556,7 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40,
-      "name": "IKYY STORE [REAL]",
+      "name": ".kyy",
       "registered": false
     },
     "62881023811824@s.whatsapp.net": {
@@ -877,7 +880,7 @@
       "limit": 40
     },
     "6282247827764@s.whatsapp.net": {
-      "name": "rorw",
+      "name": "ror",
       "registered": false,
       "premium": false,
       "saldo": 0,
@@ -1294,6 +1297,70 @@
       "saldo": 0,
       "warn": 0,
       "limit": 40
+    },
+    "6285960403033@s.whatsapp.net": {
+      "name": "Noxsy Store💫🥷🔥",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287849978507@s.whatsapp.net": {
+      "name": "zada",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "62895393945820@s.whatsapp.net": {
+      "name": "N",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287712723046@s.whatsapp.net": {
+      "name": "yoo",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6285373229730@s.whatsapp.net": {
+      "name": "jaerrshopp",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283891887418@s.whatsapp.net": {
+      "name": "",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6287848505524@s.whatsapp.net": {
+      "name": "fhaaa_storee √",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6289509641264@s.whatsapp.net": {
+      "name": "ada",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -1362,7 +1429,16 @@
       "antiaudio": false,
       "antibot": false,
       "warn": false,
-      "autoai": false
+      "autoai": false,
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6289668164759@s.whatsapp.net": {
       "antilinkgc": false,
@@ -1552,7 +1628,8 @@
       "badwords": [
         "bokep",
         "bb"
-      ]
+      ],
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1662,7 +1739,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1690,7 +1768,8 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "120363402456841403@g.us": {
       "welcomeMode": 2,
@@ -1718,7 +1797,66 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363402160288081@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
+    },
+    "120363403139085607@g.us": {
+      "welcomeMode": 2,
+      "leftMode": 2,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antilinkyt": false,
+      "antilinkdc": false,
+      "antilinkig": false,
+      "antilinktiktok": false,
+      "antilinktwit": false,
+      "antilinkfb": false,
+      "antilinkpin": false,
+      "antilinktele": false,
+      "antilinkthreads": false,
+      "antisticker": false,
+      "antivideo": false,
+      "antifoto": false,
+      "antiaudio": false,
+      "antibot": false,
+      "warn": false,
+      "autoai": false,
+      "antitagsw": false,
+      "welcome": false,
+      "left": false,
+      "antibadword": false,
+      "antivirtext": false,
+      "autodownloader": false,
+      "onlyadmin": false
     }
   },
   "settings": {
@@ -1733,16 +1871,16 @@
       "maxInterval": 1800000,
       "groups": {
         "120363420714771008@g.us": {
-          "lastSent": 1759722442560,
-          "nextTime": 1759724098024
+          "lastSent": 1759894155027,
+          "nextTime": 1759895400040
         },
         "120363421935654848@g.us": {
-          "lastSent": 1759722015109,
-          "nextTime": 1759722934509
+          "lastSent": 1759892906215,
+          "nextTime": 1759894488790
         },
         "120363402456841403@g.us": {
-          "lastSent": 1759720443755,
-          "nextTime": 1759722023354
+          "lastSent": 1759893931288,
+          "nextTime": 1759895124863
         },
         "120363315495507467@g.us": {
           "lastSent": 1759710154020,
@@ -1751,6 +1889,18 @@
         "120363347471106123@g.us": {
           "lastSent": 1759709541063,
           "nextTime": 1759710574669
+        },
+        "120363402160288081@g.us": {
+          "lastSent": 1759894538549,
+          "nextTime": 1759896168977
+        },
+        "120363403139085607@g.us": {
+          "lastSent": 1759892905634,
+          "nextTime": 1759894702558
+        },
+        "120363405250144904@g.us": {
+          "lastSent": 1759894446529,
+          "nextTime": 1759895533623
         }
       }
     },
@@ -1764,6 +1914,12 @@
         "expired": 1761815250009,
         "add": 1759309650009,
         "days": 29,
+        "notify1hSent": false
+      },
+      "120363402160288081@g.us": {
+        "expired": 1762312022464,
+        "add": 1759892822464,
+        "days": 28,
         "notify1hSent": false
       }
     }
