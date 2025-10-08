@@ -39,7 +39,10 @@
       "saldo": 0,
       "warn": 0,
       "limit": 200,
-      "premium": true
+      "premium": true,
+      "name": "riss",
+      "registered": true,
+      "joined": "08/10/2025 12:13"
     },
     "6287882339936@s.whatsapp.net": {
       "saldo": 0,
@@ -610,6 +613,22 @@
       "saldo": 0,
       "warn": 0,
       "limit": 30
+    },
+    "6283189783994@s.whatsapp.net": {
+      "name": "jajsjsjsjs",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "6283879688694@s.whatsapp.net": {
+      "name": "tzy⚡",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
     }
   },
   "chats": {
@@ -864,7 +883,8 @@
       "left": false,
       "antibadword": false,
       "antivirtext": false,
-      "autodownloader": false
+      "autodownloader": false,
+      "onlyadmin": false
     },
     "6287766174254@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -974,7 +994,8 @@
       "antivirtext": false,
       "autodownloader": true,
       "welcomeText": "Selamat datang @user di @group 🎉",
-      "leftText": "Selamat tinggal @user dari @group 👋"
+      "leftText": "Selamat tinggal @user dari @group 👋",
+      "onlyadmin": false
     },
     "62856432415926@s.whatsapp.net": {
       "welcomeMode": 2,
@@ -1015,9 +1036,9 @@
   "database": {
     "sewa": {
       "120363421935654848@g.us": {
-        "expired": 1761815250009,
+        "expired": 1761801277104,
         "add": 1759309650009,
-        "days": 29,
+        "days": 73,
         "notify1hSent": false
       }
     }
