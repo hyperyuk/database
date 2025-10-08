@@ -393,7 +393,10 @@
       "premium": true,
       "saldo": 0,
       "warn": 0,
-      "limit": 200
+      "limit": 200,
+      "name": "haneul ai~",
+      "registered": true,
+      "joined": "08/10/2025 14:22"
     },
     "6285222901693@s.whatsapp.net": {
       "premium": false,
@@ -611,17 +614,25 @@
       "warn": 0,
       "limit": 30
     },
-    "6281917058006@s.whatsapp.net": {
-      "name": "kaizy",
+    "254211161870370@lid": {
+      "name": "haneul ai~",
       "registered": true,
       "premium": false,
       "saldo": 0,
       "warn": 0,
-      "limit": 39,
-      "joined": "08/10/2025 17:17"
+      "limit": 40,
+      "joined": "08/10/2025 14:22"
     },
-    "6285384296030@s.whatsapp.net": {
-      "name": "🍕🍟",
+    "6285603526546@s.whatsapp.net": {
+      "name": ".",
+      "registered": false,
+      "premium": false,
+      "saldo": 0,
+      "warn": 0,
+      "limit": 40
+    },
+    "120363402456841403@g.us": {
+      "name": "",
       "registered": false,
       "premium": false,
       "saldo": 0,
